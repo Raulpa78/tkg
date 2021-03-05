@@ -262,16 +262,6 @@ http://doniptv.com.es:8080/casa/casa/39645
 http://doniptv.com.es:8080/casa/casa/39646
 #EXTINF:-1,DARK RED HD 1080P
 http://doniptv.com.es:8080/casa/casa/39647
-#EXTINF:-1,ALQUILER 1 HD
-http://doniptv.com.es:8080/casa/casa/39648
-#EXTINF:-1,ALQUILER 2 HD
-http://doniptv.com.es:8080/casa/casa/39649
-#EXTINF:-1,ALQUILER 3 HD
-http://doniptv.com.es:8080/casa/casa/39650
-#EXTINF:-1,ALQUILER 4 HD
-http://doniptv.com.es:8080/casa/casa/39651
-#EXTINF:-1,ALQUILER 5 HD
-http://doniptv.com.es:8080/casa/casa/39652
 #EXTINF:-1,MTV espa2
 http://doniptv.com.es:8080/casa/casa/39653
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080P
@@ -412,44 +402,6 @@ http://doniptv.com.es:8080/casa/casa/45086
 http://doniptv.com.es:8080/casa/casa/47010
 #EXTINF:-1,DREAMWORKS HD 1080P
 http://doniptv.com.es:8080/casa/casa/47634
-#EXTINF:-1,Netflix 1
-http://doniptv.com.es:8080/casa/casa/47662
-#EXTINF:-1,Netflix 2
-http://doniptv.com.es:8080/casa/casa/47663
-#EXTINF:-1,Netflix 3
-http://doniptv.com.es:8080/casa/casa/47664
-#EXTINF:-1,Netflix 4
-http://doniptv.com.es:8080/casa/casa/47665
-#EXTINF:-1,TAQUILLA 1 ACCION
-http://doniptv.com.es:8080/casa/casa/5450
-#EXTINF:-1,TAQUILLA 2 ANIMACION
-http://doniptv.com.es:8080/casa/casa/5451
-#EXTINF:-1,TAQUILLA 3 CIENCIA FICCION
-http://doniptv.com.es:8080/casa/casa/5452
-#EXTINF:-1,TAQUILLA 4 CRIMEN
-http://doniptv.com.es:8080/casa/casa/5453
-#EXTINF:-1,TAQUILLA 5 TERROR
-http://doniptv.com.es:8080/casa/casa/5454
-#EXTINF:-1,TAQUILLA 6 DRAMA
-http://doniptv.com.es:8080/casa/casa/5455
-#EXTINF:-1,TAQUILLA 7 COMEDIA
-http://doniptv.com.es:8080/casa/casa/5456
-#EXTINF:-1,TAQUILLA 8 ROMANCE
-http://doniptv.com.es:8080/casa/casa/5457
-#EXTINF:-1,TAQUILLA 9 FAMILIA
-http://doniptv.com.es:8080/casa/casa/5458
-#EXTINF:-1,TAQUILLA STAR WARS
-http://doniptv.com.es:8080/casa/casa/5459
-#EXTINF:-1,TAQUILLA HARRY POTTER
-http://doniptv.com.es:8080/casa/casa/5460
-#EXTINF:-1,TAQUILLA X-MEN
-http://doniptv.com.es:8080/casa/casa/5461
-#EXTINF:-1,TAQUILLA PLANETA DE LOS SIMIOS
-http://doniptv.com.es:8080/casa/casa/5462
-#EXTINF:-1,TAQUILLA Agente 007
-http://doniptv.com.es:8080/casa/casa/5463
-#EXTINF:-1,TAQUILLA SAW
-http://doniptv.com.es:8080/casa/casa/5464
 #EXTINF:-1,TRIOLOGIA SEÑOR DE LOS ANILLOS
 http://doniptv.com.es:8080/casa/casa/5465
 #EXTINF:-1,ES: MTV EUROPE HD
