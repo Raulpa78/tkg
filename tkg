@@ -36,7 +36,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/2b843400a9aebc1
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/1870aa62f6a590d.m3u
 
-#EXTINF:-1, group-title="Movistar" LA LIGA TV BAR FHD
+#EXTINF:-1 group-title="Movistar" LA LIGA TV BAR FHD
 http://doniptv.com.es:8080/casa/casa/44992
 #EXTINF:-1,MOVISTAR LA LIGA FHD
 http://doniptv.com.es:8080/casa/casa/44993
@@ -106,100 +106,6 @@ http://doniptv.com.es:8080/casa/casa/44683
 http://doniptv.com.es:8080/casa/casa/43680
 #EXTINF:-1,MOVISTAR DAZN 2 FHD (Opcion2)
 http://doniptv.com.es:8080/casa/casa/43681
-#EXTINF:-1,EVENTOS 1 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43278
-#EXTINF:-1,EVENTOS 2 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43279
-#EXTINF:-1,EVENTOS 3 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43280
-#EXTINF:-1,EVENTOS 4 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43281
-#EXTINF:-1,EVENTOS 5 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43282
-#EXTINF:-1,EVENTOS 6 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43283
-#EXTINF:-1,EVENTOS 7 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43284
-#EXTINF:-1,EVENTOS 8 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43285
-#EXTINF:-1,EVENTOS 9 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43286
-#EXTINF:-1,EVENTOS 10 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43287
-#EXTINF:-1,EVENTOS 11 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43288
-#EXTINF:-1,EVENTOS 12 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43289
-#EXTINF:-1,EVENTOS 13 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43290
-#EXTINF:-1,EVENTOS 14 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43291
-#EXTINF:-1,EVENTOS 15 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43675
-#EXTINF:-1,EVENTOS 16 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43676
-#EXTINF:-1,EVENTOS 17 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43677
-#EXTINF:-1,EVENTOS 18 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43678
-#EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43679
-#EXTINF:-1,NBA TV
-http://doniptv.com.es:8080/casa/casa/45020
-#EXTINF:-1,NBA League Pass 1
-http://doniptv.com.es:8080/casa/casa/45021
-#EXTINF:-1,NBA League Pass 2
-http://doniptv.com.es:8080/casa/casa/45022
-#EXTINF:-1,NBA League Pass 3
-http://doniptv.com.es:8080/casa/casa/45023
-#EXTINF:-1,NBA League Pass 4
-http://doniptv.com.es:8080/casa/casa/45024
-#EXTINF:-1,NBA League Pass 5
-http://doniptv.com.es:8080/casa/casa/45025
-#EXTINF:-1,NBA League Pass 6
-http://doniptv.com.es:8080/casa/casa/45026
-#EXTINF:-1,NBA League Pass 7
-http://doniptv.com.es:8080/casa/casa/45027
-#EXTINF:-1,NBA League Pass 8
-http://doniptv.com.es:8080/casa/casa/45028
-#EXTINF:-1,NBA League Pass 9
-http://doniptv.com.es:8080/casa/casa/45029
-#EXTINF:-1,NBA League Pass 10
-http://doniptv.com.es:8080/casa/casa/45030
-#EXTINF:-1,NBA League Pass 11
-http://doniptv.com.es:8080/casa/casa/45031
-#EXTINF:-1,NBA League Pass 12
-http://doniptv.com.es:8080/casa/casa/45032
-#EXTINF:-1,NBA League Pass 13
-http://doniptv.com.es:8080/casa/casa/45033
-#EXTINF:-1,NFL Network
-http://doniptv.com.es:8080/casa/casa/45034
-#EXTINF:-1,NFL Red Zone
-http://doniptv.com.es:8080/casa/casa/45035
-#EXTINF:-1,NFL Sunday Ticket 1
-http://doniptv.com.es:8080/casa/casa/45036
-#EXTINF:-1,NFL Sunday Ticket 2
-http://doniptv.com.es:8080/casa/casa/45037
-#EXTINF:-1,NFL Sunday Ticket 3
-http://doniptv.com.es:8080/casa/casa/45038
-#EXTINF:-1,NFL Sunday Ticket 4
-http://doniptv.com.es:8080/casa/casa/45039
-#EXTINF:-1,NFL Sunday Ticket 5
-http://doniptv.com.es:8080/casa/casa/45040
-#EXTINF:-1,NFL Sunday Ticket 6
-http://doniptv.com.es:8080/casa/casa/45041
-#EXTINF:-1,NFL Sunday Ticket 7
-http://doniptv.com.es:8080/casa/casa/45042
-#EXTINF:-1,NFL Sunday Ticket 8
-http://doniptv.com.es:8080/casa/casa/45043
-#EXTINF:-1,NFL Sunday Ticket 9
-http://doniptv.com.es:8080/casa/casa/45044
-#EXTINF:-1,NFL Sunday Ticket 10
-http://doniptv.com.es:8080/casa/casa/45045
-#EXTINF:-1,NFL Sunday Ticket 11
-http://doniptv.com.es:8080/casa/casa/45046
-#EXTINF:-1,NFL Sunday Ticket 12
-http://doniptv.com.es:8080/casa/casa/45047
 #EXTINF:-1,MOVISTAR LA LIGA 4K 24h
 http://doniptv.com.es:8080/casa/casa/43473
 #EXTINF:-1,MOVISTAR LA LIGA 4K
@@ -242,12 +148,6 @@ http://doniptv.com.es:8080/casa/casa/39761
 http://doniptv.com.es:8080/casa/casa/39762
 #EXTINF:-1,MOVISTAR LIGA DE CAMPEONES SD
 http://doniptv.com.es:8080/casa/casa/39763
-#EXTINF:-1,GOL TV SD
-http://doniptv.com.es:8080/casa/casa/39766
-#EXTINF:-1,BARCA TV FHD
-http://doniptv.com.es:8080/casa/casa/39769
-#EXTINF:-1,BETIS CF TV
-http://doniptv.com.es:8080/casa/casa/39772
 #EXTINF:-1,MOVISTAR LA LIGA PRO
 http://doniptv.com.es:8080/casa/casa/47309
 #EXTINF:-1,CANAL COCINA UHD 4K
@@ -334,24 +234,16 @@ http://doniptv.com.es:8080/casa/casa/39625
 http://doniptv.com.es:8080/casa/casa/39627
 #EXTINF:-1,AMC HD 1080P
 http://doniptv.com.es:8080/casa/casa/39628
-#EXTINF:-1,AMC HD 720P
-http://doniptv.com.es:8080/casa/casa/39629
 #EXTINF:-1,AMC SD
 http://doniptv.com.es:8080/casa/casa/39630
 #EXTINF:-1,SYFY HD 1080P
 http://doniptv.com.es:8080/casa/casa/39631
-#EXTINF:-1,SYFY HD 720P
-http://doniptv.com.es:8080/casa/casa/39632
 #EXTINF:-1,SYFY SD
 http://doniptv.com.es:8080/casa/casa/39633
 #EXTINF:-1,TCM HD 1080P
 http://doniptv.com.es:8080/casa/casa/39634
-#EXTINF:-1,TCM HD 720P
-http://doniptv.com.es:8080/casa/casa/39635
 #EXTINF:-1,TCM SD
 http://doniptv.com.es:8080/casa/casa/39636
-#EXTINF:-1,PARAMOUNT CHANNEL HD 720P
-http://doniptv.com.es:8080/casa/casa/39637
 #EXTINF:-1,BOM CINE SD
 http://doniptv.com.es:8080/casa/casa/39638
 #EXTINF:-1,SOMOS HD 1080P
@@ -364,8 +256,6 @@ http://doniptv.com.es:8080/casa/casa/39641
 http://doniptv.com.es:8080/casa/casa/39642
 #EXTINF:-1,HOLLYWOOD HD 1080P
 http://doniptv.com.es:8080/casa/casa/39643
-#EXTINF:-1,HOLLYWOOD HD 720P
-http://doniptv.com.es:8080/casa/casa/39644
 #EXTINF:-1,HOLLYWOOD SD
 http://doniptv.com.es:8080/casa/casa/39645
 #EXTINF:-1,CANAL DARK HD 1080P
@@ -386,20 +276,14 @@ http://doniptv.com.es:8080/casa/casa/39652
 http://doniptv.com.es:8080/casa/casa/39653
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080P
 http://doniptv.com.es:8080/casa/casa/39654
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD 720P
-http://doniptv.com.es:8080/casa/casa/39655
 #EXTINF:-1,NATIONAL GEOGRAPHIC SD
 http://doniptv.com.es:8080/casa/casa/39656
 #EXTINF:-1,NAT GEO WILD HD 1080P
 http://doniptv.com.es:8080/casa/casa/39657
-#EXTINF:-1,NAT GEO WILD HD 720P
-http://doniptv.com.es:8080/casa/casa/39658
 #EXTINF:-1,NAT GEO WILD SD
 http://doniptv.com.es:8080/casa/casa/39659
 #EXTINF:-1,HISTORIA HD 1080P
 http://doniptv.com.es:8080/casa/casa/39660
-#EXTINF:-1,HISTORIA HD 720P
-http://doniptv.com.es:8080/casa/casa/39661
 #EXTINF:-1,HISTORIA SD
 http://doniptv.com.es:8080/casa/casa/39662
 #EXTINF:-1,DISCOVERY MAX HD 10800P
@@ -416,8 +300,6 @@ http://doniptv.com.es:8080/casa/casa/39667
 http://doniptv.com.es:8080/casa/casa/39668
 #EXTINF:-1,CAZA Y PESCA HD 1080P
 http://doniptv.com.es:8080/casa/casa/39669
-#EXTINF:-1,CAZA Y PESCA HD 720P
-http://doniptv.com.es:8080/casa/casa/39670
 #EXTINF:-1,CAZA Y PESCA SD
 http://doniptv.com.es:8080/casa/casa/39671
 #EXTINF:-1,CAZAVISION TV
@@ -436,8 +318,6 @@ http://doniptv.com.es:8080/casa/casa/39677
 http://doniptv.com.es:8080/casa/casa/39678
 #EXTINF:-1,VIAJAR HD 1080P
 http://doniptv.com.es:8080/casa/casa/39679
-#EXTINF:-1,VIAJAR HD 720P
-http://doniptv.com.es:8080/casa/casa/39680
 #EXTINF:-1,VIAJAR SD
 http://doniptv.com.es:8080/casa/casa/39681
 #EXTINF:-1,CRIMEN+INVESTIGACION HD 1080P
@@ -456,18 +336,6 @@ http://doniptv.com.es:8080/casa/casa/39687
 http://doniptv.com.es:8080/casa/casa/39688
 #EXTINF:-1,EL TORO TV HD 720P
 http://doniptv.com.es:8080/casa/casa/39689
-#EXTINF:-1,CLAN TVE HD 1080P
-http://doniptv.com.es:8080/casa/casa/39691
-#EXTINF:-1,CLAN TVE HD 720P
-http://doniptv.com.es:8080/casa/casa/39692
-#EXTINF:-1,CLAN TVE SD
-http://doniptv.com.es:8080/casa/casa/39693
-#EXTINF:-1,BOING HD 1080P
-http://doniptv.com.es:8080/casa/casa/39694
-#EXTINF:-1,BOING HD 720P
-http://doniptv.com.es:8080/casa/casa/39695
-#EXTINF:-1,BOING SD
-http://doniptv.com.es:8080/casa/casa/39696
 #EXTINF:-1,BABY TV
 http://doniptv.com.es:8080/casa/casa/39697
 #EXTINF:-1,DISNEY JUNIOR SD
@@ -484,14 +352,10 @@ http://doniptv.com.es:8080/casa/casa/39702
 http://doniptv.com.es:8080/casa/casa/39703
 #EXTINF:-1,DISNEY CHANNEL HD 1080P
 http://doniptv.com.es:8080/casa/casa/39704
-#EXTINF:-1,DISNEY CHANNEL HD 720P
-http://doniptv.com.es:8080/casa/casa/39705
 #EXTINF:-1,DISNEY CHANNEL SD
 http://doniptv.com.es:8080/casa/casa/39706
 #EXTINF:-1,MOVISTAR FORMULA 1 HD 1080P
 http://doniptv.com.es:8080/casa/casa/39707
-#EXTINF:-1,MOVISTAR FORMULA 1 HD 720P
-http://doniptv.com.es:8080/casa/casa/39708
 #EXTINF:-1,MOVISTAR FORMULA 1 SD
 http://doniptv.com.es:8080/casa/casa/39709
 #EXTINF:-1,MOVISTAR FÓRUMULA 1 MULTICÁMARA HD 1080P
