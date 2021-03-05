@@ -20,3 +20,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6cc49bcb9969bac
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine", CALLE 13 HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/5080f5e8dec0927.m3u
+
+#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Without category", COSMO TV HD
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Without category", COSMO TV 2
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Without category", COSMO TV HD ESP
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
