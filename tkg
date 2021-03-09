@@ -1,16 +1,16 @@
 #EXTM3U 
 #EXTINF:-1 group-title="ACTUALIZADO 09/03"
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine", M+ ESTRENOS 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine", M. Estrenos HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/a6ac16259aebc3c.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine", M+ Accion hd 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine", M. Accion HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/468abf6de5876cf.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M+ Cine Español 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M. Cine Español 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M+ Cine Español 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M. Cine Español 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ddec42cd05c901c.m3u
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine", TNT HD
@@ -53,44 +53,6 @@ http://doniptv.com.es:8080/marti/marti/44683
 http://doniptv.com.es:8080/marti/marti/43680
 #EXTINF:-1,MOVISTAR DAZN 2 FHD (Opcion2)
 http://doniptv.com.es:8080/marti/marti/43681
-#EXTINF:-1,EVENTOS 1 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43278
-#EXTINF:-1,EVENTOS 2 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43279
-#EXTINF:-1,EVENTOS 3 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43280
-#EXTINF:-1,EVENTOS 4 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43281
-#EXTINF:-1,EVENTOS 5 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43282
-#EXTINF:-1,EVENTOS 6 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43283
-#EXTINF:-1,EVENTOS 7 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43284
-#EXTINF:-1,EVENTOS 8 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43285
-#EXTINF:-1,EVENTOS 9 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43286
-#EXTINF:-1,EVENTOS 10 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43287
-#EXTINF:-1,EVENTOS 11 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43288
-#EXTINF:-1,EVENTOS 12 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43289
-#EXTINF:-1,EVENTOS 13 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43290
-#EXTINF:-1,EVENTOS 14 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43291
-#EXTINF:-1,EVENTOS 15 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43675
-#EXTINF:-1,EVENTOS 16 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43676
-#EXTINF:-1,EVENTOS 17 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43677
-#EXTINF:-1,EVENTOS 18 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43678
-#EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/marti/marti/43679
 #EXTINF:-1,LA LIGA TV BAR FHD
 http://doniptv.com.es:8080/marti/marti/44992
 #EXTINF:-1,MOVISTAR LA LIGA FHD
@@ -145,62 +107,6 @@ http://doniptv.com.es:8080/marti/marti/45017
 http://doniptv.com.es:8080/marti/marti/45018
 #EXTINF:-1,COMBATE FHD
 http://doniptv.com.es:8080/marti/marti/45019
-#EXTINF:-1,NBA TV
-http://doniptv.com.es:8080/marti/marti/45020
-#EXTINF:-1,NBA League Pass 1
-http://doniptv.com.es:8080/marti/marti/45021
-#EXTINF:-1,NBA League Pass 2
-http://doniptv.com.es:8080/marti/marti/45022
-#EXTINF:-1,NBA League Pass 3
-http://doniptv.com.es:8080/marti/marti/45023
-#EXTINF:-1,NBA League Pass 4
-http://doniptv.com.es:8080/marti/marti/45024
-#EXTINF:-1,NBA League Pass 5
-http://doniptv.com.es:8080/marti/marti/45025
-#EXTINF:-1,NBA League Pass 6
-http://doniptv.com.es:8080/marti/marti/45026
-#EXTINF:-1,NBA League Pass 7
-http://doniptv.com.es:8080/marti/marti/45027
-#EXTINF:-1,NBA League Pass 8
-http://doniptv.com.es:8080/marti/marti/45028
-#EXTINF:-1,NBA League Pass 9
-http://doniptv.com.es:8080/marti/marti/45029
-#EXTINF:-1,NBA League Pass 10
-http://doniptv.com.es:8080/marti/marti/45030
-#EXTINF:-1,NBA League Pass 11
-http://doniptv.com.es:8080/marti/marti/45031
-#EXTINF:-1,NBA League Pass 12
-http://doniptv.com.es:8080/marti/marti/45032
-#EXTINF:-1,NBA League Pass 13
-http://doniptv.com.es:8080/marti/marti/45033
-#EXTINF:-1,NFL Network
-http://doniptv.com.es:8080/marti/marti/45034
-#EXTINF:-1,NFL Red Zone
-http://doniptv.com.es:8080/marti/marti/45035
-#EXTINF:-1,NFL Sunday Ticket 1
-http://doniptv.com.es:8080/marti/marti/45036
-#EXTINF:-1,NFL Sunday Ticket 2
-http://doniptv.com.es:8080/marti/marti/45037
-#EXTINF:-1,NFL Sunday Ticket 3
-http://doniptv.com.es:8080/marti/marti/45038
-#EXTINF:-1,NFL Sunday Ticket 4
-http://doniptv.com.es:8080/marti/marti/45039
-#EXTINF:-1,NFL Sunday Ticket 5
-http://doniptv.com.es:8080/marti/marti/45040
-#EXTINF:-1,NFL Sunday Ticket 6
-http://doniptv.com.es:8080/marti/marti/45041
-#EXTINF:-1,NFL Sunday Ticket 7
-http://doniptv.com.es:8080/marti/marti/45042
-#EXTINF:-1,NFL Sunday Ticket 8
-http://doniptv.com.es:8080/marti/marti/45043
-#EXTINF:-1,NFL Sunday Ticket 9
-http://doniptv.com.es:8080/marti/marti/45044
-#EXTINF:-1,NFL Sunday Ticket 10
-http://doniptv.com.es:8080/marti/marti/45045
-#EXTINF:-1,NFL Sunday Ticket 11
-http://doniptv.com.es:8080/marti/marti/45046
-#EXTINF:-1,NFL Sunday Ticket 12
-http://doniptv.com.es:8080/marti/marti/45047
 #EXTINF:-1,MOVISTAR LA LIGA 4K 24h
 http://doniptv.com.es:8080/marti/marti/43473
 #EXTINF:-1,MOVISTAR LA LIGA 4K
@@ -289,7 +195,7 @@ http://doniptv.com.es:8080/marti/marti/39540
 http://doniptv.com.es:8080/marti/marti/39541
 #EXTINF:-1,LA SEXTA SD
 http://doniptv.com.es:8080/marti/marti/39542
-#EXTINF:-1,#0 HD 1080P
+#EXTINF:-1,#0 HD
 http://doniptv.com.es:8080/marti/marti/39543
 #EXTINF:-1,#0 HD 720P
 http://doniptv.com.es:8080/marti/marti/39544
@@ -367,10 +273,8 @@ http://doniptv.com.es:8080/marti/marti/39579
 http://doniptv.com.es:8080/marti/marti/39580
 #EXTINF:-1,MOVISTAR CINEDOC&ROLL SD
 http://doniptv.com.es:8080/marti/marti/39581
-#EXTINF:-1,MOVISTAR SERIES HD 1080P
+#EXTINF:-1,MOVISTAR SERIES HD
 http://doniptv.com.es:8080/marti/marti/39582
-#EXTINF:-1,MOVISTAR SERIES HD 720P
-http://doniptv.com.es:8080/marti/marti/39583
 #EXTINF:-1,MOVISTAR SERIES SD
 http://doniptv.com.es:8080/marti/marti/39584
 #EXTINF:-1,MOVISTAR SERIESMANIA HD 1080P
@@ -499,16 +403,6 @@ http://doniptv.com.es:8080/marti/marti/39645
 http://doniptv.com.es:8080/marti/marti/39646
 #EXTINF:-1,DARK RED HD 1080P
 http://doniptv.com.es:8080/marti/marti/39647
-#EXTINF:-1,ALQUILER 1 HD
-http://doniptv.com.es:8080/marti/marti/39648
-#EXTINF:-1,ALQUILER 2 HD
-http://doniptv.com.es:8080/marti/marti/39649
-#EXTINF:-1,ALQUILER 3 HD
-http://doniptv.com.es:8080/marti/marti/39650
-#EXTINF:-1,ALQUILER 4 HD
-http://doniptv.com.es:8080/marti/marti/39651
-#EXTINF:-1,ALQUILER 5 HD
-http://doniptv.com.es:8080/marti/marti/39652
 #EXTINF:-1,MTV espa2
 http://doniptv.com.es:8080/marti/marti/39653
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080P
@@ -675,46 +569,7 @@ http://doniptv.com.es:8080/marti/marti/45086
 http://doniptv.com.es:8080/marti/marti/47010
 #EXTINF:-1,DREAMWORKS HD 1080P
 http://doniptv.com.es:8080/marti/marti/47634
-#EXTINF:-1,Netflix 1
-http://doniptv.com.es:8080/marti/marti/47662
-#EXTINF:-1,Netflix 2
-http://doniptv.com.es:8080/marti/marti/47663
-#EXTINF:-1,Netflix 3
-http://doniptv.com.es:8080/marti/marti/47664
-#EXTINF:-1,Netflix 4
-http://doniptv.com.es:8080/marti/marti/47665
-#EXTINF:-1,TAQUILLA 1 ACCION
-http://doniptv.com.es:8080/marti/marti/5450
-#EXTINF:-1,TAQUILLA 2 ANIMACION
-http://doniptv.com.es:8080/marti/marti/5451
-#EXTINF:-1,TAQUILLA 3 CIENCIA FICCION
-http://doniptv.com.es:8080/marti/marti/5452
-#EXTINF:-1,TAQUILLA 4 CRIMEN
-http://doniptv.com.es:8080/marti/marti/5453
-#EXTINF:-1,TAQUILLA 5 TERROR
-http://doniptv.com.es:8080/marti/marti/5454
-#EXTINF:-1,TAQUILLA 6 DRAMA
-http://doniptv.com.es:8080/marti/marti/5455
-#EXTINF:-1,TAQUILLA 7 COMEDIA
-http://doniptv.com.es:8080/marti/marti/5456
-#EXTINF:-1,TAQUILLA 8 ROMANCE
-http://doniptv.com.es:8080/marti/marti/5457
-#EXTINF:-1,TAQUILLA 9 FAMILIA
-http://doniptv.com.es:8080/marti/marti/5458
-#EXTINF:-1,TAQUILLA STAR WARS
-http://doniptv.com.es:8080/marti/marti/5459
-#EXTINF:-1,TAQUILLA HARRY POTTER
-http://doniptv.com.es:8080/marti/marti/5460
-#EXTINF:-1,TAQUILLA X-MEN
-http://doniptv.com.es:8080/marti/marti/5461
-#EXTINF:-1,TAQUILLA PLANETA DE LOS SIMIOS
-http://doniptv.com.es:8080/marti/marti/5462
-#EXTINF:-1,TAQUILLA Agente 007
-http://doniptv.com.es:8080/marti/marti/5463
-#EXTINF:-1,TAQUILLA SAW
-http://doniptv.com.es:8080/marti/marti/5464
-#EXTINF:-1,TRIOLOGIA SEÑOR DE LOS ANILLOS
-http://doniptv.com.es:8080/marti/marti/5465
+
 #EXTINF:-1,ES: MTV EUROPE HD
 http://doniptv.com.es:8080/marti/marti/39988
 #EXTINF:-1,ES: MTV BASE
