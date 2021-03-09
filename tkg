@@ -721,3 +721,7 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TDT" tvg-name="DMAX",DMAX opc5
 https://mitele.lookplay.ml/video/dmax/index.m3u8
 
+#EXTINF:-1 tvg-id="Tv Canaria" group-title="TDT",TV Canaria
+https://rtvc-live1.flumotion.com/playlist.m3u8
+
+
