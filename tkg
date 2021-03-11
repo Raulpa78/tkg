@@ -107,22 +107,6 @@ http://doniptv.com.es:8080/marti/marti/45017
 http://doniptv.com.es:8080/marti/marti/45018
 #EXTINF:-1,COMBATE FHD
 http://doniptv.com.es:8080/marti/marti/45019
-#EXTINF:-1,MOVISTAR LA LIGA 4K 24h
-http://doniptv.com.es:8080/marti/marti/43473
-#EXTINF:-1,MOVISTAR LA LIGA 4K
-http://doniptv.com.es:8080/marti/marti/39998
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4K
-http://doniptv.com.es:8080/marti/marti/39999
-#EXTINF:-1,MOVISTAR FORMULA 1 UHD 4K
-http://doniptv.com.es:8080/marti/marti/40000
-#EXTINF:-1,VIAJAR 4K
-http://doniptv.com.es:8080/marti/marti/47304
-#EXTINF:-1,EUROSPORT 4K
-http://doniptv.com.es:8080/marti/marti/47305
-#EXTINF:-1,#VAMOS 4K
-http://doniptv.com.es:8080/marti/marti/47307
-#EXTINF:-1,ODISEA UHD 4K
-http://doniptv.com.es:8080/marti/marti/45085
 #EXTINF:-1,MOVISTAR LA LIGA 2K
 http://doniptv.com.es:8080/marti/marti/47308
 #EXTINF:-1,MOVISTAR LA LIGA FHD (FIBRA)
@@ -157,36 +141,24 @@ http://doniptv.com.es:8080/marti/marti/39769
 http://doniptv.com.es:8080/marti/marti/39772
 #EXTINF:-1,MOVISTAR LA LIGA PRO
 http://doniptv.com.es:8080/marti/marti/47309
-#EXTINF:-1,CANAL COCINA UHD 4K
-http://doniptv.com.es:8080/marti/marti/47633
 #EXTINF:-1,LA 1 HD 1080P
 http://doniptv.com.es:8080/marti/marti/39525
-#EXTINF:-1,LA 1 HD 720P
-http://doniptv.com.es:8080/marti/marti/39526
 #EXTINF:-1,LA 1 SD
 http://doniptv.com.es:8080/marti/marti/39527
 #EXTINF:-1,LA 2 HD 1080P
 http://doniptv.com.es:8080/marti/marti/39528
-#EXTINF:-1,LA 2 HD 720P
-http://doniptv.com.es:8080/marti/marti/39529
 #EXTINF:-1,LA 2 SD
 http://doniptv.com.es:8080/marti/marti/39530
 #EXTINF:-1,ANTENA 3 HD 1080P
 http://doniptv.com.es:8080/marti/marti/39531
-#EXTINF:-1,ANTENA 3 HD 720P
-http://doniptv.com.es:8080/marti/marti/39532
 #EXTINF:-1,ANTENA 3 SD
 http://doniptv.com.es:8080/marti/marti/39533
 #EXTINF:-1,CUATRO HD 1080P
 http://doniptv.com.es:8080/marti/marti/39534
-#EXTINF:-1,CUATRO HD 720P
-http://doniptv.com.es:8080/marti/marti/39535
 #EXTINF:-1,CUATRO SD
 http://doniptv.com.es:8080/marti/marti/39536
 #EXTINF:-1,TELECINCO HD 1080P
 http://doniptv.com.es:8080/marti/marti/39537
-#EXTINF:-1,TELECINCO HD 720P
-http://doniptv.com.es:8080/marti/marti/39538
 #EXTINF:-1,TELECINCO SD
 http://doniptv.com.es:8080/marti/marti/39539
 #EXTINF:-1,LA SEXTA HD 1080P
@@ -197,14 +169,10 @@ http://doniptv.com.es:8080/marti/marti/39541
 http://doniptv.com.es:8080/marti/marti/39542
 #EXTINF:-1,#0 HD
 http://doniptv.com.es:8080/marti/marti/39543
-#EXTINF:-1,#0 HD 720P
-http://doniptv.com.es:8080/marti/marti/39544
 #EXTINF:-1,#0 SD
 http://doniptv.com.es:8080/marti/marti/39545
 #EXTINF:-1,#VAMOS HD 1080P
 http://doniptv.com.es:8080/marti/marti/39546
-#EXTINF:-1,#VAMOS HD 720P
-http://doniptv.com.es:8080/marti/marti/39547
 #EXTINF:-1,#VAMOS SD
 http://doniptv.com.es:8080/marti/marti/39548
 #EXTINF:-1,TEN HD 720P
@@ -263,14 +231,10 @@ http://doniptv.com.es:8080/marti/marti/39574
 http://doniptv.com.es:8080/marti/marti/39575
 #EXTINF:-1,MOVISTAR ACCION HD 1080P
 http://doniptv.com.es:8080/marti/marti/39576
-#EXTINF:-1,MOVISTAR ACCION HD 720P
-http://doniptv.com.es:8080/marti/marti/39577
 #EXTINF:-1,MOVISTAR ACCION SD
 http://doniptv.com.es:8080/marti/marti/39578
 #EXTINF:-1,MOVISTAR CINEDOC&ROLL HD 1080P
 http://doniptv.com.es:8080/marti/marti/39579
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD 720P
-http://doniptv.com.es:8080/marti/marti/39580
 #EXTINF:-1,MOVISTAR CINEDOC&ROLL SD
 http://doniptv.com.es:8080/marti/marti/39581
 #EXTINF:-1,MOVISTAR SERIES HD
@@ -279,26 +243,18 @@ http://doniptv.com.es:8080/marti/marti/39582
 http://doniptv.com.es:8080/marti/marti/39584
 #EXTINF:-1,MOVISTAR SERIESMANIA HD 1080P
 http://doniptv.com.es:8080/marti/marti/39585
-#EXTINF:-1,MOVISTAR SERIESMANIA HD 720P
-http://doniptv.com.es:8080/marti/marti/39586
 #EXTINF:-1,MOVISTAR SERIES MANIA SD
 http://doniptv.com.es:8080/marti/marti/39587
 #EXTINF:-1,MOVISTAR ESTRENOS HD 1080P
 http://doniptv.com.es:8080/marti/marti/39588
-#EXTINF:-1,MOVISTAR ESTRENOS HD 720P
-http://doniptv.com.es:8080/marti/marti/39589
 #EXTINF:-1,MOVISTAR ESTRENOS SD
 http://doniptv.com.es:8080/marti/marti/39590
 #EXTINF:-1,MOVISTAR COMEDIA HD 1080P
 http://doniptv.com.es:8080/marti/marti/39591
-#EXTINF:-1,MOVISTAR COMEDIA HD 720P
-http://doniptv.com.es:8080/marti/marti/39592
 #EXTINF:-1,MOVISTAR COMEDIA SD
 http://doniptv.com.es:8080/marti/marti/39593
 #EXTINF:-1,MOVISTAR DRAMA 1080P
 http://doniptv.com.es:8080/marti/marti/39594
-#EXTINF:-1,MOVISTAR DRAMA 720P
-http://doniptv.com.es:8080/marti/marti/39595
 #EXTINF:-1,MOVISTAR DRAMA SD
 http://doniptv.com.es:8080/marti/marti/39596
 #EXTINF:-1,MOVISTAR CINE ESPAÑOL HD 1080P
@@ -317,20 +273,14 @@ http://doniptv.com.es:8080/marti/marti/39602
 http://doniptv.com.es:8080/marti/marti/39603
 #EXTINF:-1,FOX HD 1080P
 http://doniptv.com.es:8080/marti/marti/39604
-#EXTINF:-1,FOX HD 720P
-http://doniptv.com.es:8080/marti/marti/39605
 #EXTINF:-1,FOX SD
 http://doniptv.com.es:8080/marti/marti/39606
 #EXTINF:-1,FOX LIFE HD 1080P
 http://doniptv.com.es:8080/marti/marti/39607
-#EXTINF:-1,FOX LIFE HD 720P
-http://doniptv.com.es:8080/marti/marti/39608
 #EXTINF:-1,FOX LIFE SD
 http://doniptv.com.es:8080/marti/marti/39609
 #EXTINF:-1,AXN HD 1080P
 http://doniptv.com.es:8080/marti/marti/39610
-#EXTINF:-1,AXN HD 720P
-http://doniptv.com.es:8080/marti/marti/39611
 #EXTINF:-1,AXN SD
 http://doniptv.com.es:8080/marti/marti/39612
 #EXTINF:-1,AXN WHITE HD 1080P
