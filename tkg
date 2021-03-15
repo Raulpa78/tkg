@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="ACT 11/03"
+#EXTINF:-1 group-title="ACT 15/03"
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine", M. Estrenos HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/a6ac16259aebc3c.m3u
@@ -37,11 +37,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/2b843400a9aebc1
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/1870aa62f6a590d.m3u
 
-#EXTINF:-1,MOVISTAR DAZN 1 FHD
+#EXTINF:-1 group-title="Deportes", MOVISTAR DAZN 1 FHD
 http://doniptv.com.es:8080/marti/marti/43471
-#EXTINF:-1,MOVISTAR DAZN 1 HD
+#EXTINF:-1 group-title="Deportes", MOVISTAR DAZN 1 HD
 http://doniptv.com.es:8080/marti/marti/44680
-#EXTINF:-1,MOVISTAR DAZN 1 SD
+#EXTINF:-1 group-title="Deportes", MOVISTAR DAZN 1 SD
 http://doniptv.com.es:8080/marti/marti/44681
 #EXTINF:-1,MOVISTAR DAZN 2 FHD
 http://doniptv.com.es:8080/marti/marti/43472
