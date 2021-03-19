@@ -167,13 +167,13 @@ http://doniptv.com.es:8080/marti/marti/39540
 http://doniptv.com.es:8080/marti/marti/39541
 #EXTINF:-1,LA SEXTA SD
 http://doniptv.com.es:8080/marti/marti/39542
-#EXTINF:-1,#0 HD
+#EXTINF:-1 group-title="Movistar", #0 HD
 http://doniptv.com.es:8080/marti/marti/39543
-#EXTINF:-1,#0 SD
+#EXTINF:-1 group-title="Movistar", #0 SD
 http://doniptv.com.es:8080/marti/marti/39545
-#EXTINF:-1,#VAMOS HD 1080P
+#EXTINF:-1 group-title="Movistar", #VAMOS HD 1080P
 http://doniptv.com.es:8080/marti/marti/39546
-#EXTINF:-1,#VAMOS SD
+#EXTINF:-1 group-title="Movistar", #VAMOS SD
 http://doniptv.com.es:8080/marti/marti/39548
 #EXTINF:-1,TEN HD 720P
 http://doniptv.com.es:8080/marti/marti/39549
@@ -229,15 +229,15 @@ http://doniptv.com.es:8080/marti/marti/39573
 http://doniptv.com.es:8080/marti/marti/39574
 #EXTINF:-1,MEGA SD
 http://doniptv.com.es:8080/marti/marti/39575
-#EXTINF:-1,MOVISTAR ACCION HD 1080P
+#EXTINF:-1 group-title="Movistar", MOVISTAR ACCION HD 1080P
 http://doniptv.com.es:8080/marti/marti/39576
-#EXTINF:-1,MOVISTAR ACCION SD
+#EXTINF:-1 group-title="Movistar", MOVISTAR ACCION SD
 http://doniptv.com.es:8080/marti/marti/39578
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD 1080P
+#EXTINF:-1 group-title="Movistar", MOVISTAR CINEDOC&ROLL HD 1080P
 http://doniptv.com.es:8080/marti/marti/39579
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL SD
+#EXTINF:-1 group-title="Movistar", MOVISTAR CINEDOC&ROLL SD
 http://doniptv.com.es:8080/marti/marti/39581
-#EXTINF:-1,MOVISTAR SERIES HD
+#EXTINF:-1 group-title="Movistar", MOVISTAR SERIES HD
 http://doniptv.com.es:8080/marti/marti/39582
 #EXTINF:-1,MOVISTAR SERIES SD
 http://doniptv.com.es:8080/marti/marti/39584
