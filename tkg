@@ -1,40 +1,40 @@
 #EXTM3U 
 #EXTINF:-1 group-title="ACT 19/03"
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine", M. Estrenos HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Movistar", M. Estrenos HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/a6ac16259aebc3c.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine", M. Accion HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Movistar", M. Accion HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/468abf6de5876cf.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M. Cine Español 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Movistar", M. Cine Español 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M. Cine Español 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Movistar", M. Cine Español 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ddec42cd05c901c.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Cine", TNT HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Movistar", TNT HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/516f16c1c2a68c2.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Cine", AMC HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Movistar", AMC HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6cc49bcb9969bac.m3u
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Cine", CALLE 13 HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Movistar", CALLE 13 HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/5080f5e8dec0927.m3u
 
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Without category", COSMO TV HD
+#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Without category", COSMO TV 2
+#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV 2
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Without category", COSMO TV HD ESP
+#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD ESP
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M-SERIES HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar", M. SERIES HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/2b843400a9aebc1.ts|User-Agent=1m3u8
 
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Series" tvg-name="FOX HD",FOX HD
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Movistar" tvg-name="FOX HD",FOX HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/1870aa62f6a590d.m3u
 
 #EXTINF:-1 group-title="Deportes", MOVISTAR DAZN 1 FHD
@@ -421,31 +421,25 @@ http://doniptv.com.es:8080/marti/marti/39684
 http://doniptv.com.es:8080/marti/marti/39685
 #EXTINF:-1,CANAL DECASA SD
 http://doniptv.com.es:8080/marti/marti/39686
-#EXTINF:-1,24H TVE HD 1080P
+#EXTINF:-1 group-title="TDT", 24H TVE HD 1080P
 http://doniptv.com.es:8080/marti/marti/39687
-#EXTINF:-1,24H TVE
+#EXTINF:-1 group-title="TDT", 24H TVE
 http://doniptv.com.es:8080/marti/marti/39688
-#EXTINF:-1,EL TORO TV HD 720P
-http://doniptv.com.es:8080/marti/marti/39689
 #EXTINF:-1,CLAN TVE HD 1080P
 http://doniptv.com.es:8080/marti/marti/39691
-#EXTINF:-1,CLAN TVE HD 720P
-http://doniptv.com.es:8080/marti/marti/39692
 #EXTINF:-1,CLAN TVE SD
 http://doniptv.com.es:8080/marti/marti/39693
 #EXTINF:-1,BOING HD 1080P
 http://doniptv.com.es:8080/marti/marti/39694
-#EXTINF:-1,BOING HD 720P
-http://doniptv.com.es:8080/marti/marti/39695
 #EXTINF:-1,BOING SD
 http://doniptv.com.es:8080/marti/marti/39696
-#EXTINF:-1,BABY TV
+#EXTINF:-1 group-title="Movistar", BABY TV
 http://doniptv.com.es:8080/marti/marti/39697
-#EXTINF:-1,DISNEY JUNIOR SD
+#EXTINF:-1 group-title="Movistar", DISNEY JUNIOR SD
 http://doniptv.com.es:8080/marti/marti/39698
-#EXTINF:-1,CANAL PANDA HD 1080P
+#EXTINF:-1 group-title="Movistar", CANAL PANDA HD 1080P
 http://doniptv.com.es:8080/marti/marti/39699
-#EXTINF:-1,CANAL PANDA SD
+#EXTINF:-1 group-title="Movistar", CANAL PANDA SD
 http://doniptv.com.es:8080/marti/marti/39700
 #EXTINF:-1,NICK JR SD
 http://doniptv.com.es:8080/marti/marti/39701
@@ -455,22 +449,16 @@ http://doniptv.com.es:8080/marti/marti/39702
 http://doniptv.com.es:8080/marti/marti/39703
 #EXTINF:-1,DISNEY CHANNEL HD 1080P
 http://doniptv.com.es:8080/marti/marti/39704
-#EXTINF:-1,DISNEY CHANNEL HD 720P
-http://doniptv.com.es:8080/marti/marti/39705
 #EXTINF:-1,DISNEY CHANNEL SD
 http://doniptv.com.es:8080/marti/marti/39706
 #EXTINF:-1,MOVISTAR FORMULA 1 HD 1080P
 http://doniptv.com.es:8080/marti/marti/39707
-#EXTINF:-1,MOVISTAR FORMULA 1 HD 720P
-http://doniptv.com.es:8080/marti/marti/39708
 #EXTINF:-1,MOVISTAR FORMULA 1 SD
 http://doniptv.com.es:8080/marti/marti/39709
 #EXTINF:-1,MOVISTAR FÓRUMULA 1 MULTICÁMARA HD 1080P
 http://doniptv.com.es:8080/marti/marti/39710
 #EXTINF:-1,MOVISTAR GOLF HD 1080P
 http://doniptv.com.es:8080/marti/marti/39711
-#EXTINF:-1,MOVISTAR GOLF HD 720P
-http://doniptv.com.es:8080/marti/marti/39712
 #EXTINF:-1,MOVISTAR GOLF SD
 http://doniptv.com.es:8080/marti/marti/39713
 #EXTINF:-1,EUROSPORT 1 HD 1080P
@@ -493,8 +481,6 @@ http://doniptv.com.es:8080/marti/marti/39722
 http://doniptv.com.es:8080/marti/marti/39723
 #EXTINF:-1,MOVISTAR DEPORTES HD 1080P
 http://doniptv.com.es:8080/marti/marti/39724
-#EXTINF:-1,MOVISTAR DEPORTES HD 720P
-http://doniptv.com.es:8080/marti/marti/39725
 #EXTINF:-1,MOVISTAR DEPORTES SD
 http://doniptv.com.es:8080/marti/marti/39726
 #EXTINF:-1,MOVISTAR DEPORTES 1 HD 1080P
