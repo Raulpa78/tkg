@@ -1,8 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 group-title="ACT 21/03"
+#EXTINF:-1 group-title="ACT 22/03"
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Movistar", M. Estrenos HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/a6ac16259aebc3c.m3u
+http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Movistar", M. Accion HD
 http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7065/index.m3u8
@@ -659,6 +659,4 @@ https://mitele.lookplay.ml/video/dmax/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv Canaria" group-title="TDT",TV Canaria
 https://rtvc-live1.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS", RAYA Y EL ULTIMO DRAGON
-https://drive.google.com/file/d/1-GXICLumg_XaksgyM6h6bYIGMSnO3NDy/view?usp=sharing
 
