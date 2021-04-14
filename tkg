@@ -1,12 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 group-title="ACT 12/04"
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Movistar", M. Estrenos HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6078/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Movistar", M. Accion HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7065/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Movistar", M. Cine Español 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12.m3u
 
@@ -31,367 +25,7 @@ http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD ESP
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar", M. SERIES HD
-http://museofloral.rocks:13513/jimi/jimi/447014
 
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Movistar" tvg-name="FOX HD",FOX HD
-http://museofloral.rocks:13513/jimi/jimi/447016
-#EXTINF:-1,M.LaLiga FHD FIBRA 1
-http://museofloral.rocks:13513/jimi/jimi/452209
-#EXTINF:-1,M.LaLiga FHD FIBRA 2
-http://museofloral.rocks:13513/jimi/jimi/452210
-#EXTINF:-1,M.LALIGA FHD FIBRA RESERVA
-http://museofloral.rocks:13513/jimi/jimi/452211
-#EXTINF:-1,M.LALIGA FHD FIBRA 3
-http://museofloral.rocks:13513/jimi/jimi/452212
-#EXTINF:-1,LALIGA BAR FHD
-http://museofloral.rocks:13513/jimi/jimi/452213
-#EXTINF:-1,LALIGA BAR HD
-http://museofloral.rocks:13513/jimi/jimi/452214
-#EXTINF:-1,M. LaLiga FHD♕
-http://museofloral.rocks:13513/jimi/jimi/452215
-#EXTINF:-1,M. LaLiga FHD♕
-http://museofloral.rocks:13513/jimi/jimi/452216
-#EXTINF:-1,MOVISTAR LA LIGA HD OP.RADIO⚽
-http://museofloral.rocks:13513/jimi/jimi/452217
-#EXTINF:-1,MOVISTAR LA LIGA FHD B
-http://museofloral.rocks:13513/jimi/jimi/452218
-#EXTINF:-1,MOVISTAR LA LIGA HD
-http://museofloral.rocks:13513/jimi/jimi/452219
-#EXTINF:-1,M. LaLiga 1 HD
-http://museofloral.rocks:13513/jimi/jimi/452220
-#EXTINF:-1,M. LaLiga 1 HD
-http://museofloral.rocks:13513/jimi/jimi/452221
-#EXTINF:-1,MOVISTAR LA LIGA 1 HD 1080P
-http://museofloral.rocks:13513/jimi/jimi/452222
-#EXTINF:-1,M. LaLiga 2 HD♕
-http://museofloral.rocks:13513/jimi/jimi/452223
-#EXTINF:-1,M. LaLiga 2 HD♕
-http://museofloral.rocks:13513/jimi/jimi/452224
-#EXTINF:-1,MOVISTAR LA LIGA 2 HD 1080P
-http://museofloral.rocks:13513/jimi/jimi/452225
-#EXTINF:-1,M. LaLiga 3 HD♕
-http://museofloral.rocks:13513/jimi/jimi/452226
-#EXTINF:-1,MOVISTAR LA LIGA 3 HD 1080P
-http://museofloral.rocks:13513/jimi/jimi/452227
-#EXTINF:-1,M. LaLiga 4
-http://museofloral.rocks:13513/jimi/jimi/452228
-#EXTINF:-1,M. LaLiga 5
-http://museofloral.rocks:13513/jimi/jimi/452229
-#EXTINF:-1,M. LaLiga 6
-http://museofloral.rocks:13513/jimi/jimi/452230
-#EXTINF:-1,M. LaLiga 7
-http://museofloral.rocks:13513/jimi/jimi/452231
-#EXTINF:-1,M. LaLiga 8
-http://museofloral.rocks:13513/jimi/jimi/452232
-#EXTINF:-1,LIGA DE CAMPEONES FIBRA
-http://museofloral.rocks:13513/jimi/jimi/452233
-#EXTINF:-1,LIGA DE CAMPEONES FIBRA 1
-http://museofloral.rocks:13513/jimi/jimi/452234
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FIBRA 2
-http://museofloral.rocks:13513/jimi/jimi/452235
-#EXTINF:-1,M.LIGA DE CAMPEONES FHD
-http://museofloral.rocks:13513/jimi/jimi/452236
-#EXTINF:-1,M.LIGA DE CAMPEONES FHD A
-http://museofloral.rocks:13513/jimi/jimi/452237
-#EXTINF:-1,M.LIGA DE CAMPEONES FHD B
-http://museofloral.rocks:13513/jimi/jimi/452238
-#EXTINF:-1,M.LIGA DE CAMPEONES FHD C
-http://museofloral.rocks:13513/jimi/jimi/452239
-#EXTINF:-1,M.LIGA DE CAMPEONES HD
-http://museofloral.rocks:13513/jimi/jimi/452240
-#EXTINF:-1,M.LIGA DE CAMPEONES SD
-http://museofloral.rocks:13513/jimi/jimi/452241
-#EXTINF:-1,M.LIGA DE CAMPEONES 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/452242
-#EXTINF:-1,M.LIGA DE CAMPEONES 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/452243
-#EXTINF:-1,M.LIGA DE CAMPEONES HD 2
-http://museofloral.rocks:13513/jimi/jimi/452244
-#EXTINF:-1,M.LIGA DE CAMPEONES 3
-http://museofloral.rocks:13513/jimi/jimi/452245
-#EXTINF:-1,M.LIGA DE CAMPEONES 4
-http://museofloral.rocks:13513/jimi/jimi/452246
-#EXTINF:-1,M.LIGA DE CAMPEONES 5
-http://museofloral.rocks:13513/jimi/jimi/452247
-#EXTINF:-1,M.LIGA DE CAMPEONES 6
-http://museofloral.rocks:13513/jimi/jimi/452248
-#EXTINF:-1,M.LIGA DE CAMPEONES 7
-http://museofloral.rocks:13513/jimi/jimi/452249
-#EXTINF:-1,M.LIGA DE CAMPEONES 8
-http://museofloral.rocks:13513/jimi/jimi/452250
-#EXTINF:-1,VAMOS HD FIBRA
-http://museofloral.rocks:13513/jimi/jimi/447142
-#EXTINF:-1,MOVISTAR LA LIGA UHD 4K♖
-http://museofloral.rocks:13513/jimi/jimi/441309
-#EXTINF:-1,DAZN 1 HD♕
-http://museofloral.rocks:13513/jimi/jimi/441084
-#EXTINF:-1,DAZN 2 HD♕
-http://museofloral.rocks:13513/jimi/jimi/441085
-#EXTINF:-1,DAZN 1 ITALIA HD♕
-http://museofloral.rocks:13513/jimi/jimi/441120
-#EXTINF:-1,INTER DE MILAN HD♕
-http://museofloral.rocks:13513/jimi/jimi/441117
-#EXTINF:-1,MILAN TV HD♕
-http://museofloral.rocks:13513/jimi/jimi/441118
-#EXTINF:-1,LIVERPOOL FOOTBALL CLUB TV HD♕
-http://museofloral.rocks:13513/jimi/jimi/441119
-#EXTINF:-1,MOVISTAR DAZN 1 HD 1080P♖
-http://museofloral.rocks:13513/jimi/jimi/441336
-#EXTINF:-1,MOVISTAR DAZN 2 HD 1080P♖
-http://museofloral.rocks:13513/jimi/jimi/441337
-#EXTINF:-1 group-title="Movistar", #0 HD
-http://museofloral.rocks:13513/jimi/jimi/446966
-#EXTINF:-1 group-title="Movistar", #0
-http://museofloral.rocks:13513/jimi/jimi/446967
-#EXTINF:-1 group-title="Movistar", #VAMOS HD
-http://museofloral.rocks:13513/jimi/jimi/447141
-#EXTINF:-1 group-title="Movistar", #VAMOS
-http://museofloral.rocks:13513/jimi/jimi/447141
-#EXTINF:-1 group-title="Movistar", M. ACCION HD
-http://museofloral.rocks:13513/jimi/jimi/447024
-#EXTINF:-1 group-title="Movistar", M. ACCION SD
-http://museofloral.rocks:13513/jimi/jimi/447025
-#EXTINF:-1 group-title="Movistar", MOVISTAR CINEDOC&ROLL HD 
-http://museofloral.rocks:13513/jimi/jimi/447032
-#EXTINF:-1 group-title="Movistar", M. CINEDOC&ROLL SD
-http://museofloral.rocks:13513/jimi/jimi/447033
-#EXTINF:-1 group-title="Movistar", M. SERIES HD
-http://museofloral.rocks:13513/jimi/jimi/447014
-#EXTINF:-1,MOVISTAR SERIES SD
-http://doniptv.com.es:8080/marti/marti/39584
-#EXTINF:-1,M. SERIESMANIA HD
-http://museofloral.rocks:13513/jimi/jimi/447012
-#EXTINF:-1,M. ESTRENOS HD
-http://museofloral.rocks:13513/jimi/jimi/447020
-#EXTINF:-1,M. ESTRENOS SD
-http://museofloral.rocks:13513/jimi/jimi/447021
-#EXTINF:-1,M. COMEDIA HD
-http://museofloral.rocks:13513/jimi/jimi/447028
-#EXTINF:-1,M. COMEDIA
-http://museofloral.rocks:13513/jimi/jimi/447029
-#EXTINF:-1,M. DRAMA HD
-http://museofloral.rocks:13513/jimi/jimi/447022
-#EXTINF:-1,M. DRAMA SD
-http://museofloral.rocks:13513/jimi/jimi/447023
-#EXTINF:-1,M. CINE ESPAÑOL HD
-http://museofloral.rocks:13513/jimi/jimi/447026
-#EXTINF:-1,M. CINE ESPAÑOL SD
-http://museofloral.rocks:13513/jimi/jimi/447027
-#EXTINF:-1,M. DISNEY + HD 
-http://museofloral.rocks:13513/jimi/jimi/447046
-#EXTINF:-1,FOX HD
-http://museofloral.rocks:13513/jimi/jimi/447015
-#EXTINF:-1,FOX SD
-http://museofloral.rocks:13513/jimi/jimi/447016
-#EXTINF:-1,FOX LIFE HD
-http://museofloral.rocks:13513/jimi/jimi/447017
-#EXTINF:-1,FOX LIFE SD
-http://museofloral.rocks:13513/jimi/jimi/447018
-#EXTINF:-1,AXN HD
-http://museofloral.rocks:13513/jimi/jimi/447007
-#EXTINF:-1,AXN SD
-http://museofloral.rocks:13513/jimi/jimi/447008
-#EXTINF:-1,AXN WHITE HD
-http://museofloral.rocks:13513/jimi/jimi/447009
-#EXTINF:-1,AXN WHITE
-http://museofloral.rocks:13513/jimi/jimi/447010
-#EXTINF:-1,TNT HD
-http://museofloral.rocks:13513/jimi/jimi/447001
-#EXTINF:-1,TNT SD
-http://museofloral.rocks:13513/jimi/jimi/447002
-#EXTINF:-1,COMEDY CENTRAL HD
-http://museofloral.rocks:13513/jimi/jimi/447003
-#EXTINF:-1,COMEDY CENTRAL
-http://museofloral.rocks:13513/jimi/jimi/447004
-#EXTINF:-1,CALLE 13 HD
-http://museofloral.rocks:13513/jimi/jimi/447005
-#EXTINF:-1,CALLE 13 SD
-http://museofloral.rocks:13513/jimi/jimi/447006
-#EXTINF:-1,COSMO HD
-http://museofloral.rocks:13513/jimi/jimi/446999
-#EXTINF:-1,COSMO SD
-http://museofloral.rocks:13513/jimi/jimi/447000
-#EXTINF:-1,AMC HD
-http://museofloral.rocks:13513/jimi/jimi/447034
-#EXTINF:-1,AMC
-http://museofloral.rocks:13513/jimi/jimi/447035
-#EXTINF:-1,SYFY HD
-http://museofloral.rocks:13513/jimi/jimi/446993
-#EXTINF:-1,SYFY SD
-http://museofloral.rocks:13513/jimi/jimi/446994
-#EXTINF:-1,TCM HD
-http://museofloral.rocks:13513/jimi/jimi/447036
-#EXTINF:-1,TCM SD
-http://museofloral.rocks:13513/jimi/jimi/447037
-#EXTINF:-1,SUNDANCE HD
-http://museofloral.rocks:13513/jimi/jimi/447039
-#EXTINF:-1,SUNDANCE
-http://museofloral.rocks:13513/jimi/jimi/447040
-#EXTINF:-1,SOMOS HD
-http://museofloral.rocks:13513/jimi/jimi/447041
-#EXTINF:-1,SOMOS
-http://museofloral.rocks:13513/jimi/jimi/447042
-#EXTINF:-1,HOLLYWOOD HD
-http://museofloral.rocks:13513/jimi/jimi/447030
-#EXTINF:-1,HOLLYWOOD
-http://museofloral.rocks:13513/jimi/jimi/447031
-#EXTINF:-1,DARK FHD
-http://museofloral.rocks:13513/jimi/jimi/446997
-#EXTINF:-1,DARK HD
-http://museofloral.rocks:13513/jimi/jimi/446998
-#EXTINF:-1,MTV espa2
-http://doniptv.com.es:8080/marti/marti/39653
-#EXTINF:-1,NAT GEO HD
-http://museofloral.rocks:13513/jimi/jimi/441741
-#EXTINF:-1,NAT GEO
-http://museofloral.rocks:13513/jimi/jimi/441742
-#EXTINF:-1,NAT GEO WILD HD
-http://museofloral.rocks:13513/jimi/jimi/441743
-#EXTINF:-1,NAT GEO WILD
-http://museofloral.rocks:13513/jimi/jimi/441744
-#EXTINF:-1,HISTORIA FHD
-http://museofloral.rocks:13513/jimi/jimi/441745
-#EXTINF:-1,HISTORIA HD
-http://museofloral.rocks:13513/jimi/jimi/441746
-#EXTINF:-1,HISTORIA
-http://museofloral.rocks:13513/jimi/jimi/441747
-#EXTINF:-1,DISCOVERY HD
-http://museofloral.rocks:13513/jimi/jimi/441748
-#EXTINF:-1,DISCOVERY
-http://museofloral.rocks:13513/jimi/jimi/441749
-#EXTINF:-1,BLAZE FHD
-http://museofloral.rocks:13513/jimi/jimi/441753
-#EXTINF:-1,BLAZE HD
-http://museofloral.rocks:13513/jimi/jimi/441754
-#EXTINF:-1,BLAZE
-http://museofloral.rocks:13513/jimi/jimi/441755
-#EXTINF:-1,CRIMEN+INVESTIGACION HD
-http://museofloral.rocks:13513/jimi/jimi/441756
-#EXTINF:-1,CRIMEN+INVESTIGACION
-http://museofloral.rocks:13513/jimi/jimi/441757
-#EXTINF:-1,VIAJAR HD
-http://museofloral.rocks:13513/jimi/jimi/441758
-#EXTINF:-1,VIAJAR
-http://museofloral.rocks:13513/jimi/jimi/441759
-#EXTINF:-1,CAZAyPESCA
-http://museofloral.rocks:13513/jimi/jimi/441740
-#EXTINF:-1,CAZAYPESCA HD
-http://museofloral.rocks:13513/jimi/jimi/441739
-#EXTINF:-1,CANAL COCINA FHD
-http://museofloral.rocks:13513/jimi/jimi/441761
-#EXTINF:-1,CANAL COCINA HD
-http://museofloral.rocks:13513/jimi/jimi/441762
-#EXTINF:-1,CANAL COCINA
-http://museofloral.rocks:13513/jimi/jimi/441763
-#EXTINF:-1,CANAL DECASA
-http://museofloral.rocks:13513/jimi/jimi/441764
-#EXTINF:-1,CANAL DECASA HD
-http://museofloral.rocks:13513/jimi/jimi/441765
-#EXTINF:-1,M. ALQUILER 1 HD
-http://museofloral.rocks:13513/jimi/jimi/441870
-#EXTINF:-1,M. ALQUILER 2 HD
-http://museofloral.rocks:13513/jimi/jimi/441871
-#EXTINF:-1,M. ALQUILER 3 HD
-http://museofloral.rocks:13513/jimi/jimi/441872
-#EXTINF:-1,M. ALQUILER 4 HD
-http://museofloral.rocks:13513/jimi/jimi/441873
-#EXTINF:-1,M. ALQUILER 5 HD
-http://museofloral.rocks:13513/jimi/jimi/441874
-#EXTINF:-1,M. ALQUILER 6 HD
-http://museofloral.rocks:13513/jimi/jimi/441875
-#EXTINF:-1,M. ALQUILER 7 HD
-http://museofloral.rocks:13513/jimi/jimi/441876
-#EXTINF:-1,M. ALQUILER 8 HD
-http://museofloral.rocks:13513/jimi/jimi/441877
-#EXTINF:-1 group-title="TDT", 24H TVE HD 1080P
-http://doniptv.com.es:8080/marti/marti/39687
-#EXTINF:-1 group-title="TDT", 24H TVE
-http://doniptv.com.es:8080/marti/marti/39688
-#EXTINF:-1 group-title="Movistar", BABY TV
-http://museofloral.rocks:13513/jimi/jimi/447057
-#EXTINF:-1 group-title="Movistar", DISNEY JUNIOR SD
-http://doniptv.com.es:8080/marti/marti/39698
-#EXTINF:-1 group-title="Movistar", CANAL PANDA HD
-http://museofloral.rocks:13513/jimi/jimi/447055
-#EXTINF:-1,DISNEY CH HD
-http://museofloral.rocks:13513/jimi/jimi/447049
-#EXTINF:-1,DISNEY CH
-http://museofloral.rocks:13513/jimi/jimi/447050
-#EXTINF:-1,NICKELODEON HD
-http://museofloral.rocks:13513/jimi/jimi/447051
-#EXTINF:-1,NICKELODEON
-http://museofloral.rocks:13513/jimi/jimi/447052
-#EXTINF:-1,NICK JR
-http://museofloral.rocks:13513/jimi/jimi/447053
-#EXTINF:-1,DISNEY JR
-http://museofloral.rocks:13513/jimi/jimi/447054
-#EXTINF:-1,M. FORMULA 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/447169
-#EXTINF:-1,M. FORMULA 1 HD
-http://museofloral.rocks:13513/jimi/jimi/447170
-#EXTINF:-1,MOVISTAR GOLF FHD
-http://museofloral.rocks:13513/jimi/jimi/447171
-#EXTINF:-1,MOVISTAR GOLF HD
-http://museofloral.rocks:13513/jimi/jimi/447172
-#EXTINF:-1,EUROSPORT 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/447149
-#EXTINF:-1,EUROSPORT 1 HD
-http://museofloral.rocks:13513/jimi/jimi/447150
-#EXTINF:-1,EUROSPORT 2 FHD
-http://museofloral.rocks:13513/jimi/jimi/447151
-#EXTINF:-1,EUROSPORT 2 HD
-http://museofloral.rocks:13513/jimi/jimi/447152
-#EXTINF:-1,U-BEAT
-http://museofloral.rocks:13513/jimi/jimi/447174
-#EXTINF:-1,SUPER TENNIS
-http://museofloral.rocks:13513/jimi/jimi/447175
-#EXTINF:-1,RED BULL TV
-http://museofloral.rocks:13513/jimi/jimi/447176
-#EXTINF:-1,MULTIDEPORTE
-http://museofloral.rocks:13513/jimi/jimi/447153
-#EXTINF:-1,MOVISTAR DEPORTES FHD
-http://museofloral.rocks:13513/jimi/jimi/447154
-#EXTINF:-1,MOVISTAR DEPORTES HD
-http://museofloral.rocks:13513/jimi/jimi/447155
-#EXTINF:-1,M. DEPORTES 1
-http://museofloral.rocks:13513/jimi/jimi/447156
-#EXTINF:-1,M. DEPORTES 2
-http://museofloral.rocks:13513/jimi/jimi/447157
-#EXTINF:-1,M. DEPORTES 3
-http://museofloral.rocks:13513/jimi/jimi/447158
-#EXTINF:-1,M. DEPORTES 4
-http://museofloral.rocks:13513/jimi/jimi/447159
-#EXTINF:-1,M. DEPORTES 5
-http://museofloral.rocks:13513/jimi/jimi/447160
-#EXTINF:-1,M. DEPORTES 6
-http://museofloral.rocks:13513/jimi/jimi/447161
-#EXTINF:-1,M. DEPORTES 7
-http://museofloral.rocks:13513/jimi/jimi/447162
-#EXTINF:-1,MOVISTAR CRIMEN
-http://museofloral.rocks:13513/jimi/jimi/447045
-#EXTINF:-1,DREAMWORKS HD
-http://museofloral.rocks:13513/jimi/jimi/447058
-#EXTINF:-1,ES: MTV EUROPE HD♖
-http://museofloral.rocks:13513/jimi/jimi/441600
-#EXTINF:-1,ES: MTV BASE♖
-http://museofloral.rocks:13513/jimi/jimi/441601
-#EXTINF:-1,ES: MTV ROCKS HD♖
-http://museofloral.rocks:13513/jimi/jimi/441602
-#EXTINF:-1,ES: MTV DANCE FHD♖
-http://museofloral.rocks:13513/jimi/jimi/441603
-#EXTINF:-1,ES: MTV HITS HD♖
-http://museofloral.rocks:13513/jimi/jimi/441604
-#EXTINF:-1,ES: MTV CLASSIC♖
-http://museofloral.rocks:13513/jimi/jimi/441605
-#EXTINF:-1,ES: MTV LIVE FHD♖
-http://museofloral.rocks:13513/jimi/jimi/441606
-#EXTINF:-1,ES: MTV HITS EUROPE♖
-http://museofloral.rocks:13513/jimi/jimi/441607
-#EXTINF:-1,ES: MTV MUSIC 24♖
-http://museofloral.rocks:13513/jimi/jimi/441608
-#EXTINF:-1,MEZZO LIVE SD♖
-http://museofloral.rocks:13513/jimi/jimi/441609
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1 HD opc2
@@ -525,593 +159,593 @@ https://mitele.lookplay.ml/video/dmax/index.m3u8
 #EXTINF:-1 tvg-id="Tv Canaria" group-title="TDT",TV Canaria
 https://rtvc-live1.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Altern" group-title="Altern" M.LaLiga FHD FIBRA 1
+#EXTINF:-1 group-title="MOVISTAR" , M.LaLiga FHD FIBRA 1
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452209
-#EXTINF:-1 group-title="Altern",M.LaLiga FHD FIBRA 2
+#EXTINF:-1 group-title="MOVISTAR",M.LaLiga FHD FIBRA 2
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452210
-#EXTINF:-1 group-title="Altern",M.LALIGA FHD FIBRA RESERVA
+#EXTINF:-1 group-title="MOVISTAR",M.LALIGA FHD FIBRA RESERVA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452211
-#EXTINF:-1 group-title="Altern",M.LALIGA FHD FIBRA 3
+#EXTINF:-1 group-title="MOVISTAR",M.LALIGA FHD FIBRA 3
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452212
-#EXTINF:-1 group-title="Altern",LALIGA BAR FHD
+#EXTINF:-1 group-title="MOVISTAR",LALIGA BAR FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452213
-#EXTINF:-1 group-title="Altern",LALIGA BAR HD
+#EXTINF:-1 group-title="MOVISTAR",LALIGA BAR HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452214
-#EXTINF:-1 group-title="Altern",M. LaLiga FHD♕
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga FHD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452215
-#EXTINF:-1 group-title="Altern",M. LaLiga FHD♕
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga FHD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452216
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA HD OP.RADIO⚽
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA HD OP.RADIO⚽
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452217
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA FHD B
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA FHD B
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452218
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA HD
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452219
-#EXTINF:-1 group-title="Altern",M. LaLiga 1 HD
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452220
-#EXTINF:-1 group-title="Altern",M. LaLiga 1 HD
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452221
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA 1 HD 1080P
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA 1 HD 1080P
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452222
-#EXTINF:-1 group-title="Altern",M. LaLiga 2 HD♕
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 2 HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452223
-#EXTINF:-1 group-title="Altern",M. LaLiga 2 HD♕
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 2 HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452224
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA 2 HD 1080P
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA 2 HD 1080P
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452225
-#EXTINF:-1 group-title="Altern",M. LaLiga 3 HD♕
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 3 HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452226
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA 3 HD 1080P
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA 3 HD 1080P
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452227
-#EXTINF:-1 group-title="Altern",M. LaLiga 4
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 4
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452228
-#EXTINF:-1 group-title="Altern",M. LaLiga 5
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 5
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452229
-#EXTINF:-1 group-title="Altern",M. LaLiga 6
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 6
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452230
-#EXTINF:-1 group-title="Altern",M. LaLiga 7
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 7
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452231
-#EXTINF:-1 group-title="Altern",M. LaLiga 8
+#EXTINF:-1 group-title="MOVISTAR",M. LaLiga 8
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452232
-#EXTINF:-1 group-title="Altern",LIGA DE CAMPEONES FIBRA
+#EXTINF:-1 group-title="MOVISTAR",LIGA DE CAMPEONES FIBRA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452233
-#EXTINF:-1 group-title="Altern",LIGA DE CAMPEONES FIBRA 1
+#EXTINF:-1 group-title="MOVISTAR",LIGA DE CAMPEONES FIBRA 1
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452234
-#EXTINF:-1 group-title="Altern",MOVISTAR LIGA DE CAMPEONES FIBRA 2
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LIGA DE CAMPEONES FIBRA 2
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452235
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES FHD
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452236
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES FHD A
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES FHD A
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452237
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES FHD B
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES FHD B
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452238
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES FHD C
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES FHD C
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452239
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES HD
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452240
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES SD
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES SD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452241
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 1 FHD
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 1 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452242
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 1 FHD
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 1 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452243
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES HD 2
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES HD 2
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452244
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 3
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 3
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452245
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 4
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 4
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452246
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 5
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 5
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452247
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 6
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 6
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452248
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 7
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 7
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452249
-#EXTINF:-1 group-title="Altern",M.LIGA DE CAMPEONES 8
+#EXTINF:-1 group-title="MOVISTAR",M.LIGA DE CAMPEONES 8
 http://floresilvestrescampo.rocks:13513/jimi/jimi/452250
-#EXTINF:-1 group-title="Altern",VAMOS HD FIBRA
+#EXTINF:-1 group-title="MOVISTAR",VAMOS HD FIBRA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447142
-#EXTINF:-1 group-title="Altern",MOVISTAR LA LIGA UHD 4K♖
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LA LIGA UHD 4K♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441309
-#EXTINF:-1 group-title="Altern",DAZN 1 HD♕
+#EXTINF:-1 group-title="MOVISTAR",DAZN 1 HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441084
-#EXTINF:-1 group-title="Altern",DAZN 2 HD♕
+#EXTINF:-1 group-title="MOVISTAR",DAZN 2 HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441085
-#EXTINF:-1 group-title="Altern",DAZN 1 ITALIA HD♕
+#EXTINF:-1 group-title="MOVISTAR",DAZN 1 ITALIA HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441120
-#EXTINF:-1 group-title="Altern",INTER DE MILAN HD♕
+#EXTINF:-1 group-title="MOVISTAR",INTER DE MILAN HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441117
-#EXTINF:-1 group-title="Altern",MILAN TV HD♕
+#EXTINF:-1 group-title="MOVISTAR",MILAN TV HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441118
-#EXTINF:-1 group-title="Altern",LIVERPOOL FOOTBALL CLUB TV HD♕
+#EXTINF:-1 group-title="MOVISTAR",LIVERPOOL FOOTBALL CLUB TV HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441119
-#EXTINF:-1 group-title="Altern",MOVISTAR FORMULA 1 UHD 4K♖
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR FORMULA 1 UHD 4K♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441329
-#EXTINF:-1 group-title="Altern",ODISEA 4K♕
+#EXTINF:-1 group-title="MOVISTAR",ODISEA 4K♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441116
-#EXTINF:-1 group-title="Altern",MOVISTAR LIGA DE CAMPEONES UHD 4K
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR LIGA DE CAMPEONES UHD 4K
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441318
-#EXTINF:-1 group-title="Altern",MOVISTAR DAZN 1 HD 1080P♖
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR DAZN 1 HD 1080P♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441336
-#EXTINF:-1 group-title="Altern",MOVISTAR DAZN 2 HD 1080P♖
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR DAZN 2 HD 1080P♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441337
-#EXTINF:-1 group-title="Altern",#VAMOS FHD
+#EXTINF:-1 group-title="MOVISTAR",#VAMOS FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447141
-#EXTINF:-1 group-title="Altern",#VAMOS FHD B
+#EXTINF:-1 group-title="MOVISTAR",#VAMOS FHD B
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447143
-#EXTINF:-1 group-title="Altern",#VAMOS HD
+#EXTINF:-1 group-title="MOVISTAR",#VAMOS HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447144
-#EXTINF:-1 group-title="Altern",GOL TV FHD
+#EXTINF:-1 group-title="MOVISTAR",GOL TV FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447145
-#EXTINF:-1 group-title="Altern",GOL TV FHD B
+#EXTINF:-1 group-title="MOVISTAR",GOL TV FHD B
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447146
-#EXTINF:-1 group-title="Altern",TELEDEPORTE FHD
+#EXTINF:-1 group-title="MOVISTAR",TELEDEPORTE FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447147
-#EXTINF:-1 group-title="Altern",TELEDEPORTE HD
+#EXTINF:-1 group-title="MOVISTAR",TELEDEPORTE HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447148
-#EXTINF:-1 group-title="Altern",EUROSPORT 1 FHD
+#EXTINF:-1 group-title="MOVISTAR",EUROSPORT 1 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447149
-#EXTINF:-1 group-title="Altern",EUROSPORT 1 HD
+#EXTINF:-1 group-title="MOVISTAR",EUROSPORT 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447150
-#EXTINF:-1 group-title="Altern",EUROSPORT 2 FHD
+#EXTINF:-1 group-title="MOVISTAR",EUROSPORT 2 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447151
-#EXTINF:-1 group-title="Altern",EUROSPORT 2 HD
+#EXTINF:-1 group-title="MOVISTAR",EUROSPORT 2 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447152
-#EXTINF:-1 group-title="Altern",MULTIDEPORTE
+#EXTINF:-1 group-title="MOVISTAR",MULTIDEPORTE
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447153
-#EXTINF:-1 group-title="Altern",MOVISTAR DEPORTES FHD
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR DEPORTES FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447154
-#EXTINF:-1 group-title="Altern",MOVISTAR DEPORTES HD
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR DEPORTES HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447155
-#EXTINF:-1 group-title="Altern",M. DEPORTES 1
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 1
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447156
-#EXTINF:-1 group-title="Altern",M. DEPORTES 2
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 2
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447157
-#EXTINF:-1 group-title="Altern",M. DEPORTES 3
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 3
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447158
-#EXTINF:-1 group-title="Altern",M. DEPORTES 4
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 4
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447159
-#EXTINF:-1 group-title="Altern",M. DEPORTES 5
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 5
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447160
-#EXTINF:-1 group-title="Altern",M. DEPORTES 6
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 6
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447161
-#EXTINF:-1 group-title="Altern",M. DEPORTES 7
+#EXTINF:-1 group-title="MOVISTAR",M. DEPORTES 7
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447162
-#EXTINF:-1 group-title="Altern",CAZAVISION HD
+#EXTINF:-1 group-title="MOVISTAR",CAZAVISION HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447164
-#EXTINF:-1 group-title="Altern",CAZA y PESCA HD
+#EXTINF:-1 group-title="MOVISTAR",CAZA y PESCA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447165
-#EXTINF:-1 group-title="Altern",IBERALIA HD
+#EXTINF:-1 group-title="MOVISTAR",IBERALIA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447166
-#EXTINF:-1 group-title="Altern",TOROS TV FHD
+#EXTINF:-1 group-title="MOVISTAR",TOROS TV FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447167
-#EXTINF:-1 group-title="Altern",TOROS TV HD
+#EXTINF:-1 group-title="MOVISTAR",TOROS TV HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447168
-#EXTINF:-1 group-title="Altern",M. FORMULA 1 FHD
+#EXTINF:-1 group-title="MOVISTAR",M. FORMULA 1 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447169
-#EXTINF:-1 group-title="Altern",M. FORMULA 1 HD
+#EXTINF:-1 group-title="MOVISTAR",M. FORMULA 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447170
-#EXTINF:-1 group-title="Altern",MOVISTAR GOLF FHD
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR GOLF FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447171
-#EXTINF:-1 group-title="Altern",MOVISTAR GOLF HD
+#EXTINF:-1 group-title="MOVISTAR",MOVISTAR GOLF HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447172
-#EXTINF:-1 group-title="Altern",FIGHT TIME
+#EXTINF:-1 group-title="MOVISTAR",FIGHT TIME
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447173
-#EXTINF:-1 group-title="Altern",U-BEAT
+#EXTINF:-1 group-title="MOVISTAR",U-BEAT
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447174
-#EXTINF:-1 group-title="Altern",SUPER TENNIS
+#EXTINF:-1 group-title="MOVISTAR",SUPER TENNIS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447175
-#EXTINF:-1 group-title="Altern",RED BULL TV
+#EXTINF:-1 group-title="MOVISTAR",RED BULL TV
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447176
-#EXTINF:-1 group-title="Altern",WORLD PADEL TOUR
+#EXTINF:-1 group-title="MOVISTAR",WORLD PADEL TOUR
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447177
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446734
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 1 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446735
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 2 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 2 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446736
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 3 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 3 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446737
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 4 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 4 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446738
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 5 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 5 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446739
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 6 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 6 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446740
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 7 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 7 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446741
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 8 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 8 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446742
-#EXTINF:-1 group-title="Altern",DAZN EVENTOS 9 HD
+#EXTINF:-1 group-title="MOVISTAR",DAZN EVENTOS 9 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446743
-#EXTINF:-1 group-title="Altern",REAL MADRID TV HD 1080P♖
+#EXTINF:-1 group-title="MOVISTAR",REAL MADRID TV HD 1080P♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441345
-#EXTINF:-1 group-title="Altern",REAL MADRID TV SD♖
+#EXTINF:-1 group-title="MOVISTAR",REAL MADRID TV SD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441346
-#EXTINF:-1 group-title="Altern",BARCA TV HD 1080P♖
+#EXTINF:-1 group-title="MOVISTAR",BARCA TV HD 1080P♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441347
-#EXTINF:-1 group-title="Altern",BARCA TV SD♖
+#EXTINF:-1 group-title="MOVISTAR",BARCA TV SD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441348
-#EXTINF:-1 group-title="Altern",SEVILLA CF TV♖
+#EXTINF:-1 group-title="MOVISTAR",SEVILLA CF TV♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441349
-#EXTINF:-1 group-title="Altern",BETIS CF TV♖
+#EXTINF:-1 group-title="MOVISTAR",BETIS CF TV♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441350
-#EXTINF:-1 group-title="Altern",LA 1 FHD
+#EXTINF:-1 group-title="MOVISTAR",LA 1 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446954
-#EXTINF:-1 group-title="Altern",LA 1 HD
+#EXTINF:-1 group-title="MOVISTAR",LA 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446955
-#EXTINF:-1 group-title="Altern",LA 2 FHD
+#EXTINF:-1 group-title="MOVISTAR",LA 2 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446956
-#EXTINF:-1 group-title="Altern",LA 2 HD
+#EXTINF:-1 group-title="MOVISTAR",LA 2 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446957
-#EXTINF:-1 group-title="Altern",ANTENA 3 FHD
+#EXTINF:-1 group-title="MOVISTAR",ANTENA 3 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446958
-#EXTINF:-1 group-title="Altern",ANTENA 3 HD
+#EXTINF:-1 group-title="MOVISTAR",ANTENA 3 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446959
-#EXTINF:-1 group-title="Altern",CUATRO FHD
+#EXTINF:-1 group-title="MOVISTAR",CUATRO FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446960
-#EXTINF:-1 group-title="Altern",CUATRO HD
+#EXTINF:-1 group-title="MOVISTAR",CUATRO HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446961
-#EXTINF:-1 group-title="Altern",TELECINCO FHD
+#EXTINF:-1 group-title="MOVISTAR",TELECINCO FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446962
-#EXTINF:-1 group-title="Altern",TELECINCO HD
+#EXTINF:-1 group-title="MOVISTAR",TELECINCO HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446963
-#EXTINF:-1 group-title="Altern",LA SEXTA FHD
+#EXTINF:-1 group-title="MOVISTAR",LA SEXTA FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446964
-#EXTINF:-1 group-title="Altern",LA SEXTA HD
+#EXTINF:-1 group-title="MOVISTAR",LA SEXTA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446965
-#EXTINF:-1 group-title="Altern",#0 FHD
+#EXTINF:-1 group-title="MOVISTAR",#0 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446966
-#EXTINF:-1 group-title="Altern",#0 HD
+#EXTINF:-1 group-title="MOVISTAR",#0 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446967
-#EXTINF:-1 group-title="Altern",TEN HD
+#EXTINF:-1 group-title="MOVISTAR",TEN HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446968
-#EXTINF:-1 group-title="Altern",DKISS HD
+#EXTINF:-1 group-title="MOVISTAR",DKISS HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446969
-#EXTINF:-1 group-title="Altern",CANAL SUR HD
+#EXTINF:-1 group-title="MOVISTAR",CANAL SUR HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446970
-#EXTINF:-1 group-title="Altern",CANAL SUR HD
+#EXTINF:-1 group-title="MOVISTAR",CANAL SUR HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446971
-#EXTINF:-1 group-title="Altern",ENERGY HD
+#EXTINF:-1 group-title="MOVISTAR",ENERGY HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446988
-#EXTINF:-1 group-title="Altern",ENERGY HD
+#EXTINF:-1 group-title="MOVISTAR",ENERGY HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446989
-#EXTINF:-1 group-title="Altern",ATRESERIES FHD
+#EXTINF:-1 group-title="MOVISTAR",ATRESERIES FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446990
-#EXTINF:-1 group-title="Altern",ATRESERIES HD
+#EXTINF:-1 group-title="MOVISTAR",ATRESERIES HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446991
-#EXTINF:-1 group-title="Altern",FDF
+#EXTINF:-1 group-title="MOVISTAR",FDF
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446992
-#EXTINF:-1 group-title="Altern",SYFY FHD
+#EXTINF:-1 group-title="MOVISTAR",SYFY FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446993
-#EXTINF:-1 group-title="Altern",SYFY HD
+#EXTINF:-1 group-title="MOVISTAR",SYFY HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446994
-#EXTINF:-1 group-title="Altern",NEOX FHD
+#EXTINF:-1 group-title="MOVISTAR",NEOX FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446995
-#EXTINF:-1 group-title="Altern",NEOX HD
+#EXTINF:-1 group-title="MOVISTAR",NEOX HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446996
-#EXTINF:-1 group-title="Altern",DARK FHD
+#EXTINF:-1 group-title="MOVISTAR",DARK FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446997
-#EXTINF:-1 group-title="Altern",DARK HD
+#EXTINF:-1 group-title="MOVISTAR",DARK HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446998
-#EXTINF:-1 group-title="Altern",COSMO FHD
+#EXTINF:-1 group-title="MOVISTAR",COSMO FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/446999
-#EXTINF:-1 group-title="Altern",COSMO HD
+#EXTINF:-1 group-title="MOVISTAR",COSMO HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447000
-#EXTINF:-1 group-title="Altern",TNT FHD
+#EXTINF:-1 group-title="MOVISTAR",TNT FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447001
-#EXTINF:-1 group-title="Altern",TNT HD
+#EXTINF:-1 group-title="MOVISTAR",TNT HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447002
-#EXTINF:-1 group-title="Altern",COMEDY CENTRAL FHD
+#EXTINF:-1 group-title="MOVISTAR",COMEDY CENTRAL FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447003
-#EXTINF:-1 group-title="Altern",COMEDY CENTRAL HD
+#EXTINF:-1 group-title="MOVISTAR",COMEDY CENTRAL HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447004
-#EXTINF:-1 group-title="Altern",CALLE 13 FHD
+#EXTINF:-1 group-title="MOVISTAR",CALLE 13 FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447005
-#EXTINF:-1 group-title="Altern",CALLE 13 HD
+#EXTINF:-1 group-title="MOVISTAR",CALLE 13 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447006
-#EXTINF:-1 group-title="Altern",AXN FHD
+#EXTINF:-1 group-title="MOVISTAR",AXN FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447007
-#EXTINF:-1 group-title="Altern",AXN HD
+#EXTINF:-1 group-title="MOVISTAR",AXN HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447008
-#EXTINF:-1 group-title="Altern",AXN WHITE FHD
+#EXTINF:-1 group-title="MOVISTAR",AXN WHITE FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447009
-#EXTINF:-1 group-title="Altern",AXN WHITE HD
+#EXTINF:-1 group-title="MOVISTAR",AXN WHITE HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447010
-#EXTINF:-1 group-title="Altern",M. SERIESMANIA FHD
+#EXTINF:-1 group-title="MOVISTAR",M. SERIESMANIA FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447011
-#EXTINF:-1 group-title="Altern",M. SERIESMANIA HD
+#EXTINF:-1 group-title="MOVISTAR",M. SERIESMANIA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447012
-#EXTINF:-1 group-title="Altern",M. SERIES FHD
+#EXTINF:-1 group-title="MOVISTAR",M. SERIES FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447013
-#EXTINF:-1 group-title="Altern",M. SERIES HD
+#EXTINF:-1 group-title="MOVISTAR",M. SERIES HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447014
-#EXTINF:-1 group-title="Altern",FOX FHD
+#EXTINF:-1 group-title="MOVISTAR",FOX FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447015
-#EXTINF:-1 group-title="Altern",FOX HD
+#EXTINF:-1 group-title="MOVISTAR",FOX HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447016
-#EXTINF:-1 group-title="Altern",FOX LIFE FHD
+#EXTINF:-1 group-title="MOVISTAR",FOX LIFE FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447017
-#EXTINF:-1 group-title="Altern",FOX LIFE HD
+#EXTINF:-1 group-title="MOVISTAR",FOX LIFE HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447018
-#EXTINF:-1 group-title="Altern",SELEKT FHD
+#EXTINF:-1 group-title="MOVISTAR",SELEKT FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447019
-#EXTINF:-1 group-title="Altern",M. ESTRENOS HD
+#EXTINF:-1 group-title="MOVISTAR",M. ESTRENOS HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447020
-#EXTINF:-1 group-title="Altern",M. ESTRENOS
+#EXTINF:-1 group-title="MOVISTAR",M. ESTRENOS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447021
-#EXTINF:-1 group-title="Altern",M. DRAMA HD
+#EXTINF:-1 group-title="MOVISTAR",M. DRAMA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447022
-#EXTINF:-1 group-title="Altern",M. DRAMA
+#EXTINF:-1 group-title="MOVISTAR",M. DRAMA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447023
-#EXTINF:-1 group-title="Altern",M. ACCION HD
+#EXTINF:-1 group-title="MOVISTAR",M. ACCION HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447024
-#EXTINF:-1 group-title="Altern",M. ACCION
+#EXTINF:-1 group-title="MOVISTAR",M. ACCION
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447025
-#EXTINF:-1 group-title="Altern",M. CINE ESPAÑOL HD
+#EXTINF:-1 group-title="MOVISTAR",M. CINE ESPAÑOL HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447026
-#EXTINF:-1 group-title="Altern",M. CINE ESPAÑOL
+#EXTINF:-1 group-title="MOVISTAR",M. CINE ESPAÑOL
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447027
-#EXTINF:-1 group-title="Altern",M. COMEDIA HD
+#EXTINF:-1 group-title="MOVISTAR",M. COMEDIA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447028
-#EXTINF:-1 group-title="Altern",M. COMEDIA
+#EXTINF:-1 group-title="MOVISTAR",M. COMEDIA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447029
-#EXTINF:-1 group-title="Altern",HOLLYWOOD HD
+#EXTINF:-1 group-title="MOVISTAR",HOLLYWOOD HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447030
-#EXTINF:-1 group-title="Altern",HOLLYWOOD
+#EXTINF:-1 group-title="MOVISTAR",HOLLYWOOD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447031
-#EXTINF:-1 group-title="Altern",M. CINEDOC&ROLL HD
+#EXTINF:-1 group-title="MOVISTAR",M. CINEDOC&ROLL HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447032
-#EXTINF:-1 group-title="Altern",M. CINEDOC&ROLL
+#EXTINF:-1 group-title="MOVISTAR",M. CINEDOC&ROLL
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447033
-#EXTINF:-1 group-title="Altern",AMC HD
+#EXTINF:-1 group-title="MOVISTAR",AMC HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447034
-#EXTINF:-1 group-title="Altern",AMC
+#EXTINF:-1 group-title="MOVISTAR",AMC
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447035
-#EXTINF:-1 group-title="Altern",TCM HD
+#EXTINF:-1 group-title="MOVISTAR",TCM HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447036
-#EXTINF:-1 group-title="Altern",TCM
+#EXTINF:-1 group-title="MOVISTAR",TCM
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447037
-#EXTINF:-1 group-title="Altern",PARAMOUNT
+#EXTINF:-1 group-title="MOVISTAR",PARAMOUNT
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447038
-#EXTINF:-1 group-title="Altern",SUNDANCE HD
+#EXTINF:-1 group-title="MOVISTAR",SUNDANCE HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447039
-#EXTINF:-1 group-title="Altern",SUNDANCE
+#EXTINF:-1 group-title="MOVISTAR",SUNDANCE
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447040
-#EXTINF:-1 group-title="Altern",SOMOS HD
+#EXTINF:-1 group-title="MOVISTAR",SOMOS HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447041
-#EXTINF:-1 group-title="Altern",SOMOS
+#EXTINF:-1 group-title="MOVISTAR",SOMOS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447042
-#EXTINF:-1 group-title="Altern",XTRM HD
+#EXTINF:-1 group-title="MOVISTAR",XTRM HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447043
-#EXTINF:-1 group-title="Altern",XTRM
+#EXTINF:-1 group-title="MOVISTAR",XTRM
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447044
-#EXTINF:-1 group-title="Altern",M.CRIMEN HD♕
+#EXTINF:-1 group-title="MOVISTAR",M.CRIMEN HD♕
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447045
-#EXTINF:-1 group-title="Altern",DISNEY PLUS
+#EXTINF:-1 group-title="MOVISTAR",DISNEY PLUS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447046
-#EXTINF:-1 group-title="Altern",CLAN TVE FHD
+#EXTINF:-1 group-title="MOVISTAR",CLAN TVE FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447047
-#EXTINF:-1 group-title="Altern",CLAN HD
+#EXTINF:-1 group-title="MOVISTAR",CLAN HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447048
-#EXTINF:-1 group-title="Altern",DISNEY CH HD
+#EXTINF:-1 group-title="MOVISTAR",DISNEY CH HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447049
-#EXTINF:-1 group-title="Altern",DISNEY CH
+#EXTINF:-1 group-title="MOVISTAR",DISNEY CH
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447050
-#EXTINF:-1 group-title="Altern",NICKELODEON HD
+#EXTINF:-1 group-title="MOVISTAR",NICKELODEON HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447051
-#EXTINF:-1 group-title="Altern",NICKELODEON
+#EXTINF:-1 group-title="MOVISTAR",NICKELODEON
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447052
-#EXTINF:-1 group-title="Altern",NICK JR
+#EXTINF:-1 group-title="MOVISTAR",NICK JR
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447053
-#EXTINF:-1 group-title="Altern",DISNEY JR
+#EXTINF:-1 group-title="MOVISTAR",DISNEY JR
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447054
-#EXTINF:-1 group-title="Altern",CANAL PANDA
+#EXTINF:-1 group-title="MOVISTAR",CANAL PANDA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447055
-#EXTINF:-1 group-title="Altern",BOING
+#EXTINF:-1 group-title="MOVISTAR",BOING
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447056
-#EXTINF:-1 group-title="Altern",BABY TV
+#EXTINF:-1 group-title="MOVISTAR",BABY TV
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447057
-#EXTINF:-1 group-title="Altern",Dreamworks HD
+#EXTINF:-1 group-title="MOVISTAR",Dreamworks HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/447058
-#EXTINF:-1 group-title="Altern",BEMAD HD
+#EXTINF:-1 group-title="MOVISTAR",BEMAD HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441666
-#EXTINF:-1 group-title="Altern",BEMAD
+#EXTINF:-1 group-title="MOVISTAR",BEMAD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441667
-#EXTINF:-1 group-title="Altern",MEGA HD
+#EXTINF:-1 group-title="MOVISTAR",MEGA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441670
-#EXTINF:-1 group-title="Altern",MEGA
+#EXTINF:-1 group-title="MOVISTAR",MEGA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441671
-#EXTINF:-1 group-title="Altern",NAT GEO HD
+#EXTINF:-1 group-title="MOVISTAR",NAT GEO HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441741
-#EXTINF:-1 group-title="Altern",NAT GEO
+#EXTINF:-1 group-title="MOVISTAR",NAT GEO
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441742
-#EXTINF:-1 group-title="Altern",NAT GEO WILD HD
+#EXTINF:-1 group-title="MOVISTAR",NAT GEO WILD HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441743
-#EXTINF:-1 group-title="Altern",NAT GEO WILD
+#EXTINF:-1 group-title="MOVISTAR",NAT GEO WILD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441744
-#EXTINF:-1 group-title="Altern",HISTORIA FHD
+#EXTINF:-1 group-title="MOVISTAR",HISTORIA FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441745
-#EXTINF:-1 group-title="Altern",HISTORIA HD
+#EXTINF:-1 group-title="MOVISTAR",HISTORIA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441746
-#EXTINF:-1 group-title="Altern",HISTORIA
+#EXTINF:-1 group-title="MOVISTAR",HISTORIA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441747
-#EXTINF:-1 group-title="Altern",DISCOVERY HD
+#EXTINF:-1 group-title="MOVISTAR",DISCOVERY HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441748
-#EXTINF:-1 group-title="Altern",DISCOVERY
+#EXTINF:-1 group-title="MOVISTAR",DISCOVERY
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441749
-#EXTINF:-1 group-title="Altern",BLAZE FHD
+#EXTINF:-1 group-title="MOVISTAR",BLAZE FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441753
-#EXTINF:-1 group-title="Altern",BLAZE HD
+#EXTINF:-1 group-title="MOVISTAR",BLAZE HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441754
-#EXTINF:-1 group-title="Altern",BLAZE
+#EXTINF:-1 group-title="MOVISTAR",BLAZE
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441755
-#EXTINF:-1 group-title="Altern",CRIMEN+INVESTIGACION HD
+#EXTINF:-1 group-title="MOVISTAR",CRIMEN+INVESTIGACION HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441756
-#EXTINF:-1 group-title="Altern",CRIMEN+INVESTIGACION
+#EXTINF:-1 group-title="MOVISTAR",CRIMEN+INVESTIGACION
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441757
-#EXTINF:-1 group-title="Altern",VIAJAR HD
+#EXTINF:-1 group-title="MOVISTAR",VIAJAR HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441758
-#EXTINF:-1 group-title="Altern",VIAJAR
+#EXTINF:-1 group-title="MOVISTAR",VIAJAR
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441759
-#EXTINF:-1 group-title="Altern",CAZAyPESCA
+#EXTINF:-1 group-title="MOVISTAR",CAZAyPESCA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441740
-#EXTINF:-1 group-title="Altern",CAZAYPESCA HD
+#EXTINF:-1 group-title="MOVISTAR",CAZAYPESCA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441739
-#EXTINF:-1 group-title="Altern",CANAL COCINA FHD
+#EXTINF:-1 group-title="MOVISTAR",CANAL COCINA FHD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441761
-#EXTINF:-1 group-title="Altern",CANAL COCINA HD
+#EXTINF:-1 group-title="MOVISTAR",CANAL COCINA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441762
-#EXTINF:-1 group-title="Altern",CANAL COCINA
+#EXTINF:-1 group-title="MOVISTAR",CANAL COCINA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441763
-#EXTINF:-1 group-title="Altern",CANAL DECASA
+#EXTINF:-1 group-title="MOVISTAR",CANAL DECASA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441764
-#EXTINF:-1 group-title="Altern",CANAL DECASA HD
+#EXTINF:-1 group-title="MOVISTAR",CANAL DECASA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441765
-#EXTINF:-1 group-title="Altern",NOVA HD
+#EXTINF:-1 group-title="MOVISTAR",NOVA HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441766
-#EXTINF:-1 group-title="Altern",NOVA
+#EXTINF:-1 group-title="MOVISTAR",NOVA
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441767
-#EXTINF:-1 group-title="Altern",DMAX
+#EXTINF:-1 group-title="MOVISTAR",DMAX
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441768
-#EXTINF:-1 group-title="Altern",DIVINITY
+#EXTINF:-1 group-title="MOVISTAR",DIVINITY
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441769
-#EXTINF:-1 group-title="Altern",ES: MTV EUROPE HD♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV EUROPE HD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441600
-#EXTINF:-1 group-title="Altern",ES: MTV BASE♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV BASE♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441601
-#EXTINF:-1 group-title="Altern",ES: MTV ROCKS HD♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV ROCKS HD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441602
-#EXTINF:-1 group-title="Altern",ES: MTV DANCE FHD♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV DANCE FHD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441603
-#EXTINF:-1 group-title="Altern",ES: MTV HITS HD♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV HITS HD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441604
-#EXTINF:-1 group-title="Altern",ES: MTV CLASSIC♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV CLASSIC♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441605
-#EXTINF:-1 group-title="Altern",ES: MTV LIVE FHD♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV LIVE FHD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441606
-#EXTINF:-1 group-title="Altern",ES: MTV HITS EUROPE♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV HITS EUROPE♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441607
-#EXTINF:-1 group-title="Altern",ES: MTV MUSIC 24♖
+#EXTINF:-1 group-title="MOVISTAR",ES: MTV MUSIC 24♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441608
-#EXTINF:-1 group-title="Altern",MEZZO LIVE SD♖
+#EXTINF:-1 group-title="MOVISTAR",MEZZO LIVE SD♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441609
-#EXTINF:-1 group-title="Altern",M. ALQUILER 1 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 1 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441870
-#EXTINF:-1 group-title="Altern",M. ALQUILER 2 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 2 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441871
-#EXTINF:-1 group-title="Altern",M. ALQUILER 3 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 3 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441872
-#EXTINF:-1 group-title="Altern",M. ALQUILER 4 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 4 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441873
-#EXTINF:-1 group-title="Altern",M. ALQUILER 5 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 5 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441874
-#EXTINF:-1 group-title="Altern",M. ALQUILER 6 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 6 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441875
-#EXTINF:-1 group-title="Altern",M. ALQUILER 7 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 7 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441876
-#EXTINF:-1 group-title="Altern",M. ALQUILER 8 HD
+#EXTINF:-1 group-title="MOVISTAR",M. ALQUILER 8 HD
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441877
-#EXTINF:-1 group-title="Altern",ODISEA UHD 4K♖
+#EXTINF:-1 group-title="MOVISTAR",ODISEA UHD 4K♖
 http://floresilvestrescampo.rocks:13513/jimi/jimi/441268
-#EXTINF:-1 group-title="Altern",24/7 Hawaii 5.0
+#EXTINF:-1 group-title="MOVISTAR",24/7 Hawaii 5.0
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442738
-#EXTINF:-1 group-title="Altern",24/7 The Big Bang Theory
+#EXTINF:-1 group-title="MOVISTAR",24/7 The Big Bang Theory
 http://floresilvestrescampo.rocks:13513/jimi/jimi/437500
-#EXTINF:-1 group-title="Altern",24/7 empenos a lo bestia
+#EXTINF:-1 group-title="MOVISTAR",24/7 empenos a lo bestia
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442740
-#EXTINF:-1 group-title="Altern",24/7 Dragon Ball
+#EXTINF:-1 group-title="MOVISTAR",24/7 Dragon Ball
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442742
-#EXTINF:-1 group-title="Altern",24/7 Control de Fronteras
+#EXTINF:-1 group-title="MOVISTAR",24/7 Control de Fronteras
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442743
-#EXTINF:-1 group-title="Altern",CANAL COCINA UHD 4K
+#EXTINF:-1 group-title="MOVISTAR",CANAL COCINA UHD 4K
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442764
-#EXTINF:-1 group-title="Altern",POCOYO 24 HORAS
+#EXTINF:-1 group-title="MOVISTAR",POCOYO 24 HORAS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442763
-#EXTINF:-1 group-title="Altern",PADRE DE FAMILIA 24 HORAS
+#EXTINF:-1 group-title="MOVISTAR",PADRE DE FAMILIA 24 HORAS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442762
-#EXTINF:-1 group-title="Altern",FUTURAMA 24 HORAS
+#EXTINF:-1 group-title="MOVISTAR",FUTURAMA 24 HORAS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442759
-#EXTINF:-1 group-title="Altern",LA QUE SE AVECINA 24 HORAS
+#EXTINF:-1 group-title="MOVISTAR",LA QUE SE AVECINA 24 HORAS
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442755
-#EXTINF:-1 group-title="Altern",24/7 Los Simpsons T1-11
+#EXTINF:-1 group-title="MOVISTAR",24/7 Los Simpsons T1-11
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442775
-#EXTINF:-1 group-title="Altern",EUR | NBA FHD (L)
+#EXTINF:-1 group-title="MOVISTAR",EUR | NBA FHD (L)
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442668
-#EXTINF:-1 group-title="Altern",NBA 6
+#EXTINF:-1 group-title="MOVISTAR",NBA 6
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442671
-#EXTINF:-1 group-title="Altern",NBA 5
+#EXTINF:-1 group-title="MOVISTAR",NBA 5
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442672
-#EXTINF:-1 group-title="Altern",NBA 4
+#EXTINF:-1 group-title="MOVISTAR",NBA 4
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442673
-#EXTINF:-1 group-title="Altern",NBA 3
+#EXTINF:-1 group-title="MOVISTAR",NBA 3
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442674
-#EXTINF:-1 group-title="Altern",NBA 2
+#EXTINF:-1 group-title="MOVISTAR",NBA 2
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442675
-#EXTINF:-1 group-title="Altern",NBA 1
+#EXTINF:-1 group-title="MOVISTAR",NBA 1
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442676
-#EXTINF:-1 group-title="Altern",NBA 8
+#EXTINF:-1 group-title="MOVISTAR",NBA 8
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442677
-#EXTINF:-1 group-title="Altern",NBA 9
+#EXTINF:-1 group-title="MOVISTAR",NBA 9
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442678
-#EXTINF:-1 group-title="Altern",Odio, de Dani Rovira (2021)
+#EXTINF:-1 group-title="MOVISTAR",Odio, de Dani Rovira (2021)
 http://floresilvestrescampo.rocks:13513/movie/jimi/jimi/442680.mp4
-#EXTINF:-1 group-title="Altern",NBA: Washington Wizards
+#EXTINF:-1 group-title="MOVISTAR",NBA: Washington Wizards
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442728
-#EXTINF:-1 group-title="Altern",NBA: Utah Jazz
+#EXTINF:-1 group-title="MOVISTAR",NBA: Utah Jazz
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442727
-#EXTINF:-1 group-title="Altern",NBA: Toronto Raptors
+#EXTINF:-1 group-title="MOVISTAR",NBA: Toronto Raptors
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442726
-#EXTINF:-1 group-title="Altern",NBA: San Antonio Spurs
+#EXTINF:-1 group-title="MOVISTAR",NBA: San Antonio Spurs
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442725
-#EXTINF:-1 group-title="Altern",NBA: Sacramento Kings
+#EXTINF:-1 group-title="MOVISTAR",NBA: Sacramento Kings
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442724
-#EXTINF:-1 group-title="Altern",NBA: Phoenix Suns
+#EXTINF:-1 group-title="MOVISTAR",NBA: Phoenix Suns
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442723
-#EXTINF:-1 group-title="Altern",NBA: Philadelphia 76ers
+#EXTINF:-1 group-title="MOVISTAR",NBA: Philadelphia 76ers
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442722
-#EXTINF:-1 group-title="Altern",NBA: Orlando Magic
+#EXTINF:-1 group-title="MOVISTAR",NBA: Orlando Magic
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442721
-#EXTINF:-1 group-title="Altern",NBA: Oklahoma City Thunder
+#EXTINF:-1 group-title="MOVISTAR",NBA: Oklahoma City Thunder
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442720
-#EXTINF:-1 group-title="Altern",NBA: New York Knicks
+#EXTINF:-1 group-title="MOVISTAR",NBA: New York Knicks
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442719
-#EXTINF:-1 group-title="Altern",NBA: New Orleans Pelicans
+#EXTINF:-1 group-title="MOVISTAR",NBA: New Orleans Pelicans
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442718
-#EXTINF:-1 group-title="Altern",NBA: Minnesota Timberwolves
+#EXTINF:-1 group-title="MOVISTAR",NBA: Minnesota Timberwolves
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442717
-#EXTINF:-1 group-title="Altern",NBA: Milwaukee Bucks
+#EXTINF:-1 group-title="MOVISTAR",NBA: Milwaukee Bucks
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442716
-#EXTINF:-1 group-title="Altern",NBA: Miami Heat
+#EXTINF:-1 group-title="MOVISTAR",NBA: Miami Heat
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442715
-#EXTINF:-1 group-title="Altern",NBA: Memphis Grizzlies
+#EXTINF:-1 group-title="MOVISTAR",NBA: Memphis Grizzlies
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442714
-#EXTINF:-1 group-title="Altern",NBA: Los Angeles Lakers
+#EXTINF:-1 group-title="MOVISTAR",NBA: Los Angeles Lakers
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442713
-#EXTINF:-1 group-title="Altern",NBA: Los Angeles Clippers
+#EXTINF:-1 group-title="MOVISTAR",NBA: Los Angeles Clippers
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442712
-#EXTINF:-1 group-title="Altern",NBA: Indiana Pacers
+#EXTINF:-1 group-title="MOVISTAR",NBA: Indiana Pacers
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442711
-#EXTINF:-1 group-title="Altern",NBA: Houston Rockets
+#EXTINF:-1 group-title="MOVISTAR",NBA: Houston Rockets
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442710
-#EXTINF:-1 group-title="Altern",NBA: Golden State Warriors
+#EXTINF:-1 group-title="MOVISTAR",NBA: Golden State Warriors
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442709
-#EXTINF:-1 group-title="Altern",NBA: Detroit Pistons
+#EXTINF:-1 group-title="MOVISTAR",NBA: Detroit Pistons
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442708
-#EXTINF:-1 group-title="Altern",NBA: Denver Nuggets
+#EXTINF:-1 group-title="MOVISTAR",NBA: Denver Nuggets
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442707
-#EXTINF:-1 group-title="Altern",NBA: Dallas Mavericks
+#EXTINF:-1 group-title="MOVISTAR",NBA: Dallas Mavericks
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442706
-#EXTINF:-1 group-title="Altern",NBA: Cleveland Cavaliers
+#EXTINF:-1 group-title="MOVISTAR",NBA: Cleveland Cavaliers
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442705
-#EXTINF:-1 group-title="Altern",NBA: Chicago Bulls
+#EXTINF:-1 group-title="MOVISTAR",NBA: Chicago Bulls
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442704
-#EXTINF:-1 group-title="Altern",NBA: Charlotte Hornets
+#EXTINF:-1 group-title="MOVISTAR",NBA: Charlotte Hornets
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442703
-#EXTINF:-1 group-title="Altern",NBA: Brooklyn Nets
+#EXTINF:-1 group-title="MOVISTAR",NBA: Brooklyn Nets
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442702
-#EXTINF:-1 group-title="Altern",NBA: Boston Celtics
+#EXTINF:-1 group-title="MOVISTAR",NBA: Boston Celtics
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442701
-#EXTINF:-1 group-title="Altern",NBA: Atlanta Hawks
+#EXTINF:-1 group-title="MOVISTAR",NBA: Atlanta Hawks
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442700
