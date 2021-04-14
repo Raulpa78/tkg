@@ -1,29 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 group-title="ACT 14/04"
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Movistar", M. Cine Español 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12.m3u
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Movistar", M. Cine Español 
-http://museofloral.rocks:13513/jimi/jimi/447026
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Movistar", TNT HD
-http://museofloral.rocks:13513/jimi/jimi/447002
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Movistar", AMC HD
-http://museofloral.rocks:13513/jimi/jimi/447034
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Movistar", CALLE 13 HD
-http://museofloral.rocks:13513/jimi/jimi/447006
-
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD
-http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV 2
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD ESP
-http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1 HD
