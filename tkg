@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="ACT 14/04"
+#EXTINF:-1 group-title="ACT 20/04"
 
 
 
@@ -704,208 +704,486 @@ http://floresilvestrescampo.rocks:13513/jimi/jimi/442702
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442701
 #EXTINF:-1 group-title="MOVISTAR",NBA: Atlanta Hawks
 http://floresilvestrescampo.rocks:13513/jimi/jimi/442700
-#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS" tvg-logo="" group-title="MOVISTAR 2",ES: #VAMOS
-http://iptvch.com:2082/ottking/UpFppGri2p/136122
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR" tvg-logo="" group-title="MOVISTAR 2",ES: LALIGA TV BAR
-http://iptvch.com:2082/ottking/UpFppGri2p/135958
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR LALIGA
-http://iptvch.com:2082/ottking/UpFppGri2p/135959
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA MULTI 1" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR LALIGA MULTI 1
-http://iptvch.com:2082/ottking/UpFppGri2p/135960
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA MULTI 2" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR LALIGA MULTI 2
-http://iptvch.com:2082/ottking/UpFppGri2p/135962
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA MULTI 3" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR LALIGA MULTI 3
-http://iptvch.com:2082/ottking/UpFppGri2p/135963
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA CAMPEONES" tvg-logo="" group-title="MOVISTAR 2",ES: LIGA CAMPEONES
-http://iptvch.com:2082/ottking/UpFppGri2p/135970
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1" tvg-logo="" group-title="MOVISTAR 2",ES: LIGA DE CAMPEONES 1
-http://iptvch.com:2082/ottking/UpFppGri2p/135971
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2" tvg-logo="" group-title="MOVISTAR 2",ES: LIGA DE CAMPEONES 2
-http://iptvch.com:2082/ottking/UpFppGri2p/135972
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3" tvg-logo="" group-title="MOVISTAR 2",ES: LIGA DE CAMPEONES 3
-http://iptvch.com:2082/ottking/UpFppGri2p/135973
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4" tvg-logo="" group-title="MOVISTAR 2",ES: LIGA DE CAMPEONES 4
-http://iptvch.com:2082/ottking/UpFppGri2p/135974
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE" tvg-logo="" group-title="MOVISTAR 2",ES: MULTIDEPORTE
-http://iptvch.com:2082/ottking/UpFppGri2p/135979
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DEPORTES
-http://iptvch.com:2082/ottking/UpFppGri2p/135980
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DEPORTES 1
-http://iptvch.com:2082/ottking/UpFppGri2p/135981
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 2" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DEPORTES 2
-http://iptvch.com:2082/ottking/UpFppGri2p/135982
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 3" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DEPORTES 3
-http://iptvch.com:2082/ottking/UpFppGri2p/135983
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 4" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DEPORTES 4
-http://iptvch.com:2082/ottking/UpFppGri2p/135984
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DAZN 1
-http://iptvch.com:2082/ottking/UpFppGri2p/135989
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DAZN 2
-http://iptvch.com:2082/ottking/UpFppGri2p/135990
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR FORMULA 1
-http://iptvch.com:2082/ottking/UpFppGri2p/135991
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR GOLF
-http://iptvch.com:2082/ottking/UpFppGri2p/135992
-#EXTINF:-1 tvg-id="" tvg-name="ES: DIRECTV SPORTS 2" tvg-logo="" group-title="MOVISTAR 2",ES: DIRECTV SPORTS 2
-http://iptvch.com:2082/ottking/UpFppGri2p/135993
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="MOVISTAR 2",ES: DAZN 1
-http://iptvch.com:2082/ottking/UpFppGri2p/135995
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="" group-title="MOVISTAR 2",ES: DAZN 2
-http://iptvch.com:2082/ottking/UpFppGri2p/135996
-#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV" tvg-logo="" group-title="MOVISTAR 2",ES: GOL TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136002
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE" tvg-logo="" group-title="MOVISTAR 2",ES: TELEDEPORTE
-http://iptvch.com:2082/ottking/UpFppGri2p/136003
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 1" tvg-logo="" group-title="MOVISTAR 2",ES: ESPN 1
-http://iptvch.com:2082/ottking/UpFppGri2p/136004
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2" tvg-logo="" group-title="MOVISTAR 2",ES: ESPN 2
-http://iptvch.com:2082/ottking/UpFppGri2p/136005
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 3" tvg-logo="" group-title="MOVISTAR 2",ES: ESPN 3
-http://iptvch.com:2082/ottking/UpFppGri2p/136006
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="" group-title="MOVISTAR 2",ES: ESPN DEPORTES
-http://iptvch.com:2082/ottking/UpFppGri2p/136007
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="MOVISTAR 2",ES: EUROSPORT 1
-http://iptvch.com:2082/ottking/UpFppGri2p/136008
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="MOVISTAR 2",ES: EUROSPORT 2
-http://iptvch.com:2082/ottking/UpFppGri2p/136009
-#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV" tvg-logo="" group-title="MOVISTAR 2",ES: REAL MADRID TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136010
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL BARCA TV" tvg-logo="" group-title="MOVISTAR 2",ES: CANAL BARCA TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136011
-#EXTINF:-1 tvg-id="" tvg-name="ES: INTERALMERIA" tvg-logo="" group-title="MOVISTAR 2",ES: INTERALMERIA
-http://iptvch.com:2082/ottking/UpFppGri2p/136015
-#EXTINF:-1 tvg-id="" tvg-name="ES: RED BULL TV" tvg-logo="" group-title="MOVISTAR 2",ES: RED BULL TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136016
-#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE" tvg-logo="" group-title="MOVISTAR 2",ES: BLAZE
-http://iptvch.com:2082/ottking/UpFppGri2p/136031
-#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="" group-title="MOVISTAR 2",ES: ODISEA
-http://iptvch.com:2082/ottking/UpFppGri2p/136033
-#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN INVESTIGACION" tvg-logo="" group-title="MOVISTAR 2",ES: CRIMEN INVESTIGACION
-http://iptvch.com:2082/ottking/UpFppGri2p/136036
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNELS" tvg-logo="" group-title="MOVISTAR 2",ES: DISCOVERY CHANNELS
-http://iptvch.com:2082/ottking/UpFppGri2p/136037
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL HISTORIA" tvg-logo="" group-title="MOVISTAR 2",ES: CANAL HISTORIA
-http://iptvch.com:2082/ottking/UpFppGri2p/136038
-#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="MOVISTAR 2",ES: NATIONAL GEOGRAPHIC
-http://iptvch.com:2082/ottking/UpFppGri2p/136039
-#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="MOVISTAR 2",ES: NATIONAL GEOGRAPHIC WILD
-http://iptvch.com:2082/ottking/UpFppGri2p/136040
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 7" tvg-logo="" group-title="MOVISTAR 2",ES: CANAL 7
-http://iptvch.com:2082/ottking/UpFppGri2p/136041
-#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="" group-title="MOVISTAR 2",ES: COMEDY CENTRAL
-http://iptvch.com:2082/ottking/UpFppGri2p/136043
-#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA TV" tvg-logo="" group-title="MOVISTAR 2",ES: DECASA TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136044
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="MOVISTAR 2",ES: CANAL COCINA
-http://iptvch.com:2082/ottking/UpFppGri2p/136045
-#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="" group-title="MOVISTAR 2",ES: COSMO
-http://iptvch.com:2082/ottking/UpFppGri2p/136046
-#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR" tvg-logo="" group-title="MOVISTAR 2",ES: VIAJAR
-http://iptvch.com:2082/ottking/UpFppGri2p/136047
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS" tvg-logo="" group-title="MOVISTAR 2",ES: TOROS
-http://iptvch.com:2082/ottking/UpFppGri2p/136048
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISION" tvg-logo="" group-title="MOVISTAR 2",ES: CAZAVISION
-http://iptvch.com:2082/ottking/UpFppGri2p/136049
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="MOVISTAR 2",ES: #0
-http://iptvch.com:2082/ottking/UpFppGri2p/136051
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="" group-title="MOVISTAR 2",ES: AMC
-http://iptvch.com:2082/ottking/UpFppGri2p/136052
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="" group-title="MOVISTAR 2",ES: AXN
-http://iptvch.com:2082/ottking/UpFppGri2p/136053
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="" group-title="MOVISTAR 2",ES: AXN WHITE
-http://iptvch.com:2082/ottking/UpFppGri2p/136054
-#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="" group-title="MOVISTAR 2",ES: CALLE 13
-http://iptvch.com:2082/ottking/UpFppGri2p/136055
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="" group-title="MOVISTAR 2",ES: FOX
-http://iptvch.com:2082/ottking/UpFppGri2p/136057
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="" group-title="MOVISTAR 2",ES: FOX LIFE
-http://iptvch.com:2082/ottking/UpFppGri2p/136058
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA" tvg-logo="" group-title="MOVISTAR 2",ES: CAZA Y PESCA
-http://iptvch.com:2082/ottking/UpFppGri2p/136059
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA" tvg-logo="" group-title="MOVISTAR 2",ES: IBERALIA
-http://iptvch.com:2082/ottking/UpFppGri2p/136061
-#EXTINF:-1 tvg-id="" tvg-name="ES: A3 SERIES" tvg-logo="" group-title="MOVISTAR 2",ES: A3 SERIES
-http://iptvch.com:2082/ottking/UpFppGri2p/136062
-#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="" group-title="MOVISTAR 2",ES: HOLLYWOOD
-http://iptvch.com:2082/ottking/UpFppGri2p/136064
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR ACCION
-http://iptvch.com:2082/ottking/UpFppGri2p/136065
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE ESPAÑOL" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR CINE ESPAÑOL
-http://iptvch.com:2082/ottking/UpFppGri2p/136066
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINEDOC&ROLL" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR CINEDOC&ROLL
-http://iptvch.com:2082/ottking/UpFppGri2p/136067
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR COMEDIA
-http://iptvch.com:2082/ottking/UpFppGri2p/136068
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CRIMEN" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR CRIMEN
-http://iptvch.com:2082/ottking/UpFppGri2p/136069
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DISNEY" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DISNEY
-http://iptvch.com:2082/ottking/UpFppGri2p/136070
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR DRAMA
-http://iptvch.com:2082/ottking/UpFppGri2p/136071
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR ESTRENOS
-http://iptvch.com:2082/ottking/UpFppGri2p/136072
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR SERIES
-http://iptvch.com:2082/ottking/UpFppGri2p/136073
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIESMANIA" tvg-logo="" group-title="MOVISTAR 2",ES: MOVISTAR SERIESMANIA
-http://iptvch.com:2082/ottking/UpFppGri2p/136074
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="" group-title="MOVISTAR 2",ES: SYFY
-http://iptvch.com:2082/ottking/UpFppGri2p/136080
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="" group-title="MOVISTAR 2",ES: TCM
-http://iptvch.com:2082/ottking/UpFppGri2p/136081
-#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="MOVISTAR 2",ES: TNT
-http://iptvch.com:2082/ottking/UpFppGri2p/136082
-#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="" group-title="MOVISTAR 2",ES: XTRM
-http://iptvch.com:2082/ottking/UpFppGri2p/136083
-#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE" tvg-logo="" group-title="MOVISTAR 2",ES: BOM CINE
-http://iptvch.com:2082/ottking/UpFppGri2p/136084
-#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="" group-title="MOVISTAR 2",ES: PARAMOUNT CHANNEL
-http://iptvch.com:2082/ottking/UpFppGri2p/136085
-#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE" tvg-logo="" group-title="MOVISTAR 2",ES: SUNDANCE
-http://iptvch.com:2082/ottking/UpFppGri2p/136087
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY+" tvg-logo="" group-title="MOVISTAR 2",ES: DISNEY+
-http://iptvch.com:2082/ottking/UpFppGri2p/136088
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="" group-title="MOVISTAR 2",ES: DISNEY CHANNEL
-http://iptvch.com:2082/ottking/UpFppGri2p/136089
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="" group-title="MOVISTAR 2",ES: DISNEY JUNIOR
-http://iptvch.com:2082/ottking/UpFppGri2p/136090
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="MOVISTAR 2",ES: DISNEY XD
-http://iptvch.com:2082/ottking/UpFppGri2p/136091
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="" group-title="MOVISTAR 2",ES: NICKELODEON
-http://iptvch.com:2082/ottking/UpFppGri2p/136094
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JUNIOR" tvg-logo="" group-title="MOVISTAR 2",ES: NICK JUNIOR
-http://iptvch.com:2082/ottking/UpFppGri2p/136095
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PANDA" tvg-logo="" group-title="MOVISTAR 2",ES: CANAL PANDA
-http://iptvch.com:2082/ottking/UpFppGri2p/136096
-#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="" group-title="MOVISTAR 2",ES: BABY TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136097
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPAÑA" tvg-logo="" group-title="MOVISTAR 2",ES: MTV ESPAÑA
-http://iptvch.com:2082/ottking/UpFppGri2p/136100
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV EUROPE" tvg-logo="" group-title="MOVISTAR 2",ES: MTV EUROPE
-http://iptvch.com:2082/ottking/UpFppGri2p/136101
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV DANCE" tvg-logo="" group-title="MOVISTAR 2",ES: MTV DANCE
-http://iptvch.com:2082/ottking/UpFppGri2p/136104
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS" tvg-logo="" group-title="MOVISTAR 2",ES: MTV HITS
-http://iptvch.com:2082/ottking/UpFppGri2p/136105
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS EUROPE" tvg-logo="" group-title="MOVISTAR 2",ES: MTV HITS EUROPE
-http://iptvch.com:2082/ottking/UpFppGri2p/136106
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV MUSIC 24" tvg-logo="" group-title="MOVISTAR 2",ES: MTV MUSIC 24
-http://iptvch.com:2082/ottking/UpFppGri2p/136108
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ROCKS" tvg-logo="" group-title="MOVISTAR 2",ES: MTV ROCKS
-http://iptvch.com:2082/ottking/UpFppGri2p/136109
-#EXTINF:-1 tvg-id="" tvg-name="ES: MUSIC TOP" tvg-logo="" group-title="MOVISTAR 2",ES: MUSIC TOP
-http://iptvch.com:2082/ottking/UpFppGri2p/136110
-#EXTINF:-1 tvg-id="" tvg-name="ES: VH1" tvg-logo="" group-title="MOVISTAR 2",ES: VH1
-http://iptvch.com:2082/ottking/UpFppGri2p/136111
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE" tvg-logo="" group-title="MOVISTAR 2",ES: MEZZO LIVE
-http://iptvch.com:2082/ottking/UpFppGri2p/136112
-#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA" tvg-logo="" group-title="MOVISTAR 2",ES: CLASSICA
-http://iptvch.com:2082/ottking/UpFppGri2p/136113
-#EXTINF:-1 tvg-id="" tvg-name="ES: RETRO MUSIC TV" tvg-logo="" group-title="MOVISTAR 2",ES: RETRO MUSIC TV
-http://iptvch.com:2082/ottking/UpFppGri2p/136114
-#EXTINF:-1 tvg-id="" tvg-name="ES: HIT MUSIC CHANNEL" tvg-logo="" group-title="MOVISTAR 2",ES: HIT MUSIC CHANNEL
-http://iptvch.com:2082/ottking/UpFppGri2p/136116
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ORANGE" tvg-logo="" group-title="MOVISTAR 2",ES: CANAL ORANGE
-http://iptvch.com:2082/ottking/UpFppGri2p/136150
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTMAD 24H" tvg-logo="" group-title="MOVISTAR 2",ES: MTMAD 24H
-http://iptvch.com:2082/ottking/UpFppGri2p/136183
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , VAMOS BAR (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/627
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , VAMOS BAR 1 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/628
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , VAMOS BAR 2 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/629
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. CAMPEONES 3 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/637
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. CAMPEONES 4 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/638
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. CAMPEONES 5 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/639
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. CAMPEONES 6 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/640
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. CAMPEONES 7 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/641
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. CAMPEONES 8 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/642
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 4 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/609
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 5 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/610
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 6 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/611
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 7 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/612
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 8 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/613
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 9 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/614
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. LaLiga 10 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/615
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. DEPORTES 2 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/616
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. DEPORTES 3 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/617
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. DEPORTES 4 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/618
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. DEPORTES 5 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/619
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. DEPORTES 6 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/620
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , M. DEPORTES 7 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/621
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGATV BAR (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/592
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGATV BAR 1 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/630
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGATV BAR 2 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/631
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGATV BAR 3 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/632
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGATV BAR 4 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/633
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGA123TV (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/622
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGA123TV M1 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/623
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGA123TV M2 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/624
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGA123TV M3 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/625
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , LALIGA123TV M4 (SOLO EVENTO)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/626
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , ETB 1 HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/2367
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 FHD" , ETB 2 HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/2368
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. LaLiga 2 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/13076
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M.OSCARS H.256
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/13023
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , LA 1 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/675
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , LA 2 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/676
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , Canal 24 Horas H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/677
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TVE Internacional H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/678
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , i24 NEWS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/679
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , ANTENA 3 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/680
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CUATRO H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/681
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TELECINCO H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/682
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , LA SEXTA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/683
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , ARAGON TV H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/684
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CLAN TVE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/685
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , NOVA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/686
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , NEOX H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/687
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , MEGA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/688
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CANAL SUR A H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/696
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , FOX NEWS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/697
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TELESUR H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/698
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , #0 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/710
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. SERIES H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/711
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , ATRESSERIES H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/695
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , FOX H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/712
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , FOX LIFE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/713
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , AXN H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/714
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , AXN WHITE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/715
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , SYFY H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/716
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , SUNDANCE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/717
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , COMEDY CENTRAL H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/718
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CALLE 13 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/722
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , AMC H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/720
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , COSMO H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/721
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" ,  DIVINITY H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/723
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , ENERGY H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/724
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , BE MAD H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/725
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. ESTRENOS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/699
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. ACCION H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/700
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. COMEDIA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/701
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. DRAMA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/702
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. CINEDOC&ROLL H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/703
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. CINE EspaNol H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/704
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. SERIESMANIA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/705
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , HOLLYWOOD H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/706
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TCM H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/707
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TNT H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/708
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , PARAMOUNT CHANNEL H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/709
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , BOM CINE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/694
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DREAMWORKS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/547
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , IBERALIA TV H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/778
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CANAL ODISEA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/779
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , NAT GEOGRAPHIC H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/781
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , NAT GEO WILD H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/780
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DISCOVERY CHANNEL H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/782
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DMAX H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/691
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DKISS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/690
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , FACTORIA DE FICCION H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/783
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CRIMEN INVESTIGACION H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/784
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CAZA & PESCA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/785
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CANAL DECASA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/719
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , HISTORIA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/789
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , BLAZE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/788
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TOROS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/787
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , VIAJAR H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/790
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CANAL COCINA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/786
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CANAL PANDA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/792
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , BABY TV H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/793
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DISNEY + H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/796
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DISNEY CHANNEL H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/794
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DISNEY JUNIOR H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/795
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , NICKELODEON H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/798
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , NICK JR H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/797
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , BOING H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/791
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. GOLF H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/731
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DAZN FORMULA 1  H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/732
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , TELEDEPORTE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/737
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , GOL TV H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/736
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , EUROSPORT 1 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/740
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , EUROSPORT 2 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/741
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , MULTIDEPORTE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/735
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , REAL MADRID TV H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/738
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , BARCA TV H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/739
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" ,  # VAMOS H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/726
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , LIGA DE CAMPEONES H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/727
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. LCAMPEONES 1 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/768
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. CAMPEONES 2 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/551
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. LALIGA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/729
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. LALIGA1 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/730
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. LaLiga 1 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/742
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. LaLiga 3 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/743
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. DEPORTES H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/733
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , M. DEPORTES 1 H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/734
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , MTV ESPANA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/799
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , CLASSICA H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/801
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , MEZZO LIVE H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/800
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , MEZZO H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/689
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , PLAYBOY H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/693
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DAZN 1 SP H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/3018
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 H.265" , DAZN 2 SP H.265
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/3019
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , Canal 24 Horas
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/804
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVE Internacional
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/805
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , ARAGON TV
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/810
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CLAN TVE
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/811
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , NOVA
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/812
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , NEOX
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/813
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CANAL SUR A
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/823
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , FOX NEWS
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/824
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TELESUR
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/1841
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , Beteve (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/876
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , Cadena Elite (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/880
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , SUNDANCE
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/842
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DIVINITY
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/848
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , ENERGY
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/849
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M.CineDoc&RollHD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/1837
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. CINE EspaNol
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/829
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , PARAMOUNT CHANNEL
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/834
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , IBERALIA TV
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/903
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , FACTORIA DE FICCION
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/908
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CRIMEN INVESTIGACION
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/909
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CANAL PANDA
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/917
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , BABY TV
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/918
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DISNEY +
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/921
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DISNEY JUNIOR
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/920
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , NICK JR
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/922
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , BOING
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/916
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TELEDEPORTE
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/862
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , GOL TV
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/861
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , EUROSPORT 2
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/866
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , MULTIDEPORTE
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/860
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , BARCA TV
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/864
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , MTV ESPANA
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/924
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CLASSICA
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/925
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , MEZZO
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/1840
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M.OSCARS
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/13024
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , LA 1 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/802
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , LA 2 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/803
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , i24 NEWS HD	
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/2370
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , ANTENA 3 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/806
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CUATRO HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/807
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TELECINCO HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/808
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , LA SEXTA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/809
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , MEGA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/814
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , PTV Cordoba HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/815
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG Evento 1 HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/818
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG Evento 2 HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/822
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG Evento 3 HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/869
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG Infantil HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/870
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/871
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG 2 HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/872
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG America HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/873
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG Cultura HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/874
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TVG Momentos G HD (TDT)
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/875
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , #0 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/835
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. SERIES HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/836
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , ATRESSERIES HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/821
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , FOX HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/837
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , FOX LIFE HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/838
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , AXN HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/839
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , AXN WHITE HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/840
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , SYFY HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/841
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , COMEDY CENTRAL HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/843
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CALLE 13 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/847
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , AMC HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/845
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , COSMO HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/846
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , BE MAD HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/850
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. ESTRENOS HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/825
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. ACCION HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/826
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. COMEDIA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/827
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. DRAMA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/828
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. SERIESMANIA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/830
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , HOLLYWOOD HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/831
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TCM HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/832
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TNT HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/833
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , BOM CINE HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/820
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DREAMWORKS HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/557
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CANAL ODISEA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/904
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , NAT GEOGRAPHIC HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/906
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , NAT GEO WILD HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/905
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DISCOVERY CHANNEL HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/907
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DMAX HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/817
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DKISS HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/816
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CAZA & PESCA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/910
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CANAL DECASA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/844
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , HISTORIA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/914
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , BLAZE HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/913
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , TOROS HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/912
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , VIAJAR HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/915
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , CANAL COCINA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/911
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DISNEY CHANNEL HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/919
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , NICKELODEON HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/923
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. GOLF HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/856
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DAZN FORMULA 1 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/857
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , EUROSPORT 1 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/865
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , REAL MADRID TV HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/863
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" ,  # VAMOS HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/851
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , LIGA DE CAMPEONES HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/852
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. LCAMPEONES 1 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/893
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. CAMPEONES 2 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/554
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. LALIGA HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/854
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. LALIGA1 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/855
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. LaLiga 2 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/867
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. LaLiga 3 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/868
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. DEPORTES HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/858
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , M. DEPORTES 1 HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/859
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , MEZZO LIVE HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/1838
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , PLAYBOY HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/819
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DAZN 1 SP HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/3020
+#EXTINF:-1 tvg-logo="" group-title="MOVISTAR 2 HD" , DAZN 2 SP HD
+http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/3021
 
