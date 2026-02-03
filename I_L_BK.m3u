@@ -772,4 +772,6 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 https://cdn-2.pishow.tv/live/228/228_1.m3u8
 #EXTINF:-1 group-title="SONY & ZEE" tvg-name="MK Six" ,MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 group-title="SONY & ZEE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/colors-hd-in.png" ,COLORS HD
+http://103.229.254.25:7001/play/a0a1/index.m3u8
 
