@@ -775,3 +775,936 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 group-title="SONY & ZEE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/colors-hd-in.png" ,COLORS HD
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 
+#EXTINF:-1 group-title="List 1" ,Star Sports 1 HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=1976
+#EXTINF:-1 group-title="List 1" ,Star Sports 2 HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3691
+#EXTINF:-1 group-title="List 1" ,Star Sports 2 Hindi HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3548
+#EXTINF:-1 group-title="List 1" ,Fox 501 HD
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
+#EXTINF:-1 group-title="List 1" ,Willow Sports
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2755
+#EXTINF:-1 group-title="List 1" ,Star Plus HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
+#EXTINF:-1 group-title="List 1" ,B4u Kadak
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1114
+#EXTINF:-1 group-title="List 1" ,R Bharat
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1119
+#EXTINF:-1 group-title="List 1" ,Star Movies Select HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1125
+#EXTINF:-1 group-title="List 1" ,Surrey News
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1136
+#EXTINF:-1 group-title="List 1" ,Wah Punjabi
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1216
+#EXTINF:-1 group-title="List 1" ,Vision Beats
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8695
+#EXTINF:-1 group-title="List 1" ,Vision Punjab Music HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8699
+#EXTINF:-1 group-title="List 1" ,Vision Punjab HD
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8702
+#EXTINF:-1 group-title="List 1" ,Z TV Canada
+http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8703
+#EXTINF:-1 group-title="List 1" ,Z Bollywood
+=================================================================== Ottera TV ================================================================================================
+#EXTINF:-1 group-title="Tango TV" ,Fast Mix
+https://mumt01.tangotv.in/FASTMIX/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Pankh
+https://mumt04.tangotv.in/PANKH/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Total TV
+https://mumt04.tangotv.in/TOTALTV/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Gangaur
+https://mumt04.tangotv.in/GANGAURTV/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,BFLIX
+https://mumt03.tangotv.in/BFLIX/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Big Magic
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Hi Dost
+https://mumt03.tangotv.in/HIDOST/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,E24
+https://mumt04.tangotv.in/E24/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,B4U Bhojpuri
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,B4U Kadak
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,9x Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Evergreen Hits
+https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,MH1
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,MH1 News
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,MH1 Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Q TV
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Sangeet Bangla
+https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,PTC News
+https://mumt02.tangotv.in/PTCNEWS/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,PTC Music
+https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,PTC Chakde
+https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,PTC Simran
+https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,PTC Punjabi
+https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,PTC Punjabi Gold
+https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Goldmines
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Goldmines Bollywood
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,DD National HD
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+#EXTINF:-1 group-title="Tango TV" ,Manoranjan Movies
+=================================================================== Temp ================================================================================================
+#EXTINF:-1 group-title="Shemaroo" ,Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#EXTINF:-1 group-title="Shemaroo" ,Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 group-title="Shemaroo" ,Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Shemaroo" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" ,Shemaroo Bollywood
+https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+#EXTINF:-1 group-title="Shemaroo" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" ,Shemaroo FilmiGaane
+======================================================================= SKY GO==================================================================================================
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" tvg-id="10605" , 9X JALWA
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" tvg-id="10606" , 9X JHAKAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp" tvg-id="10591" , 9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp" tvg-id="10607" , 9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp" tvg-id="10608" , AAJ TAK
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp" tvg-id="10546" , GOOD NEWS TODAY
+https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" tvg-id="10549" , ABP NEWS
+https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp" tvg-id="10594" ,IBC24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/921001071Navbharat.webp" tvg-id="10585" ,Times Now Navbharat
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp" tvg-id="10593" ,null
+https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp" tvg-id="10554" ,NEWS 24
+https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp" tvg-id="10552" ,NEWS NATION
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp" tvg-id="10590" ,NEWS 18 INDIA
+https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp" tvg-id="10827" ,Republic TV Bharat
+https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp" tvg-id="10551" ,R Republic
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" tvg-id="10595" ,TV9 Bharatvarsh
+https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1245247643INDIA_TODAY_TV______720x405.webp" tvg-id="10595" ,India Today
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp" tvg-id="10545" ,B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp" tvg-id="10543" ,B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp" tvg-id="10544" ,B4U KADAK
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp" tvg-id="10548" ,B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp" tvg-id="10651" ,MASTII
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp" tvg-id="10598" ,DABANNG
+https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp" tvg-id="10596" ,E24
+https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp" tvg-id="10932" ,Gangaur
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" tvg-id="10649" ,MAIBOLI
+https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp" tvg-id="15037" , PTC MUSIC
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp" tvg-id="10550" , DIVYA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/111206065DD_TRIPURA-4.webp" tvg-id="10610" , Sanskar
+https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
+#EXTINF:-1 group-title="Waves" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896293492DD_TRIPURA-5.webp" tvg-id="10611" , SATSANG
+=============================================================Xiaomi TV =======================================================================================================================
+#EXTINF:-1 group-title="Xiaomi TV" ,B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Saga Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Saga Music Haryanvi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,ABP News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,India TV Asia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,India TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,India TV Speed News Asia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,India TV Speed News
+https://amg01550-amg01550c3-xiaomi-in-4367.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednews-xiaomiin/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,India TV Aap Ki Adalat
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,TV9 Bharatvarsh
+https://amg01106-tv9-amg01106c2-xiaomi-in-1187.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bharatvarsh-xiaomiin/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Zee News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,News 18 India
+https://amg00866-amg00866c1-xiaomi-in-3511.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,CNN News 18
+https://amg00866-amg00866c5-xiaomi-in-3550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,CNBC TV 18
+https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Wion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,ABP Gaanga
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpganga-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,ABP Sanjha
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpsanjha-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Zee BH/JK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebihar-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Zee Business
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,News 18 MP/JK
+https://amg00866-amg00866c3-xiaomi-in-3553.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,News 18 UP/UK
+https://amg00866-amg00866c4-xiaomi-in-3552.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Now 70
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Now 80
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Now 90
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Arirang Korea
+https://amg02040-amg02040c6-xiaomi-international-5845.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Trailers UK
+https://amg01821-lovetv-amg01821c3-xiaomi-international-656.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersuk-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Super Simple Songs
+https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xiaomi TV" ,Drone TV
+================================================================Pakistan ==========================================================================================================
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" tvg-id="249" tvg-name="india-today" , India Today
+https://in1.sunilprasad.com.np/yuppLive/india-today/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png" tvg-id="19" tvg-name="republic-tv" , Republic TV
+https://in1.sunilprasad.com.np/yuppLive/republic-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gyztbi.png" tvg-id="14" tvg-name="wion" , Wion
+https://in1.sunilprasad.com.np/yuppLive/wion/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dd-india.png" tvg-id="194" tvg-name="dd-india" , DD INDIA
+https://in1.sunilprasad.com.np/yuppLive/dd-india/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" tvg-id="1" tvg-name="ndtv-24x7" , NDTV 24x7
+https://in1.sunilprasad.com.np/yuppLive/ndtv-24x7/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" tvg-id="213" tvg-name="mirror-now" , Mirror Now
+https://in1.sunilprasad.com.np/yuppLive/mirror-now/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kcaslr.png" tvg-id="188" tvg-name="news9live" , News9Live
+https://in1.sunilprasad.com.np/yuppLive/news9live/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png" tvg-id="171" tvg-name="hornbill-tv" , Hornbill TV
+https://in1.sunilprasad.com.np/yuppLive/hornbill-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yuppdemochannel.png" tvg-id="229" tvg-name="--yuppdemochannel" , &$YuppDEMOChannel
+https://in1.sunilprasad.com.np/yuppLive/--yuppdemochannel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png" tvg-id="3" tvg-name="ndtv-profit" , NDTV Profit
+https://in1.sunilprasad.com.np/yuppLive/ndtv-profit/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png" tvg-id="275" tvg-name="oan-plus" , OAN PLUS
+https://in1.sunilprasad.com.np/yuppLive/oan-plus/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rgzrjw.png" tvg-id="278" tvg-name="voa-news" , VOA News
+https://in1.sunilprasad.com.np/yuppLive/voa-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png" tvg-id="150" tvg-name="cvr-english-news" , CVR English News
+https://in1.sunilprasad.com.np/yuppLive/cvr-english-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" tvg-id="248" tvg-name="aaj-tak" , Aaj Tak
+https://in1.sunilprasad.com.np/yuppLive/aaj-tak/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png" tvg-id="20" tvg-name="republic-bharat" , Republic Bharat
+https://in1.sunilprasad.com.np/yuppLive/republic-bharat/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png" tvg-id="34" tvg-name="tv9-bharatvarsh" , TV9 Bharatvarsh
+https://in1.sunilprasad.com.np/yuppLive/tv9-bharatvarsh/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png" tvg-id="231" tvg-name="india-tv" , India TV
+https://in1.sunilprasad.com.np/yuppLive/india-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/times-now-navbharat.png" tvg-id="196" tvg-name="times-now-navbharat" , Times Now Navbharat
+https://in1.sunilprasad.com.np/yuppLive/times-now-navbharat/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png" tvg-id="225" tvg-name="abp-news" , ABP News
+https://in1.sunilprasad.com.np/yuppLive/abp-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png" tvg-id="13" tvg-name="zee-news" , Zee News
+https://in1.sunilprasad.com.np/yuppLive/zee-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png" tvg-id="2" tvg-name="ndtv-india" , NDTV INDIA
+https://in1.sunilprasad.com.np/yuppLive/ndtv-india/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png" tvg-id="250" tvg-name="good-news-today" , Good News Today
+https://in1.sunilprasad.com.np/yuppLive/good-news-today/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png" tvg-id="25" tvg-name="zee-hindustan" , Zee Hindustan
+https://in1.sunilprasad.com.np/yuppLive/zee-hindustan/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png" tvg-id="160" tvg-name="hindi-khabar" , Hindi Khabar
+https://in1.sunilprasad.com.np/yuppLive/hindi-khabar/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png" tvg-id="138" tvg-name="sudarshan-news" , Sudarshan News
+https://in1.sunilprasad.com.np/yuppLive/sudarshan-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png" tvg-id="38" tvg-name="ndtv-mp" , NDTV MP
+https://in1.sunilprasad.com.np/yuppLive/ndtv-mp/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png" tvg-id="30" tvg-name="zee-bihar-jharkhand" , Zee Bihar Jharkhand
+https://in1.sunilprasad.com.np/yuppLive/zee-bihar-jharkhand/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png" tvg-id="31" tvg-name="zee-delhi-ncr-haryana" , Zee Delhi NCR Haryana
+https://in1.sunilprasad.com.np/yuppLive/zee-delhi-ncr-haryana/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png" tvg-id="161" tvg-name="news-11-bharat" , News 11 Bharat
+https://in1.sunilprasad.com.np/yuppLive/news-11-bharat/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png" tvg-id="28" tvg-name="zee-madhya-pradesh-chhattisgarh" , Zee Madhya Pradesh Chhattisgarh
+https://in1.sunilprasad.com.np/yuppLive/zee-madhya-pradesh-chhattisgarh/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png" tvg-id="39" tvg-name="ndtv-rajasthan" , NDTV Rajasthan
+https://in1.sunilprasad.com.np/yuppLive/ndtv-rajasthan/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png" tvg-id="29" tvg-name="zee-up-uk" , Zee UP UK
+https://in1.sunilprasad.com.np/yuppLive/zee-up-uk/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png" tvg-id="26" tvg-name="zee-rajasthan-news" , Zee Rajasthan News
+https://in1.sunilprasad.com.np/yuppLive/zee-rajasthan-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png" tvg-id="155" tvg-name="inh-24x7" , INH 24X7
+https://in1.sunilprasad.com.np/yuppLive/inh-24x7/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png" tvg-id="128" tvg-name="total-tv" , Total TV
+https://in1.sunilprasad.com.np/yuppLive/total-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png" tvg-id="129" tvg-name="news-1-india" , News 1 India
+https://in1.sunilprasad.com.np/yuppLive/news-1-india/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png" tvg-id="158" tvg-name="khabrain-abhi-tak" , Khabrain Abhi Tak
+https://in1.sunilprasad.com.np/yuppLive/khabrain-abhi-tak/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png" tvg-id="159" tvg-name="bharat-samachar" , Bharat Samachar
+https://in1.sunilprasad.com.np/yuppLive/bharat-samachar/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png" tvg-id="151" tvg-name="swaraj-express-smbc" , Swaraj Express SMBC
+https://in1.sunilprasad.com.np/yuppLive/swaraj-express-smbc/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png" tvg-id="134" tvg-name="india-voice" , India Voice
+https://in1.sunilprasad.com.np/yuppLive/india-voice/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png" tvg-id="127" tvg-name="jantantra-tv" , Jantantra TV
+https://in1.sunilprasad.com.np/yuppLive/jantantra-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png" tvg-id="120" tvg-name="jan-tv" , Jan TV
+https://in1.sunilprasad.com.np/yuppLive/jan-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png" tvg-id="152" tvg-name="apn-news" , APN News
+https://in1.sunilprasad.com.np/yuppLive/apn-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" tvg-id="135" tvg-name="bansal-news" , Bansal News
+https://in1.sunilprasad.com.np/yuppLive/bansal-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png" tvg-id="164" tvg-name="kashish-news" , Kashish News
+https://in1.sunilprasad.com.np/yuppLive/kashish-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png" tvg-id="118" tvg-name="a1-tv" , A1 TV
+https://in1.sunilprasad.com.np/yuppLive/a1-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png" tvg-id="157" tvg-name="network-10" , Network 10
+https://in1.sunilprasad.com.np/yuppLive/network-10/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png" tvg-id="5" tvg-name="zee-business" , Zee Business
+https://in1.sunilprasad.com.np/yuppLive/zee-business/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" tvg-id="316" tvg-name="bharat-24" , Bharat 24
+https://in1.sunilprasad.com.np/yuppLive/bharat-24/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exuqky.png" tvg-id="303" tvg-name="india-daily-24x7" , India Daily 24X7
+https://in1.sunilprasad.com.np/yuppLive/india-daily-24x7/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png" tvg-id="306" tvg-name="tv-100" , TV 100
+https://in1.sunilprasad.com.np/yuppLive/tv-100/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png" tvg-id="307" tvg-name="live-times" , LIVE Times
+https://in1.sunilprasad.com.np/yuppLive/live-times/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wultnc.png" tvg-id="308" tvg-name="khabar-fast" , Khabar Fast
+https://in1.sunilprasad.com.np/yuppLive/khabar-fast/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aryan-tv-national.png" tvg-id="309" tvg-name="aryan-tv-national" , Aryan TV National
+https://in1.sunilprasad.com.np/yuppLive/aryan-tv-national/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/naxatra-news-hindi.png" tvg-id="310" tvg-name="naxatra-news-hindi" , Naxatra News Hindi
+https://in1.sunilprasad.com.np/yuppLive/naxatra-news-hindi/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" tvg-id="227" tvg-name="abp-majha" , ABP Majha
+https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/syutfx.png" tvg-id="11" tvg-name="tv9-maharashtra" , TV9 Marathi
+https://in1.sunilprasad.com.np/yuppLive/tv9-maharashtra/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png" tvg-id="6" tvg-name="24-taas" , 24 Taas
+https://in1.sunilprasad.com.np/yuppLive/24-taas/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png" tvg-id="162" tvg-name="jai-maharashtra" , Jai Maharashtra
+https://in1.sunilprasad.com.np/yuppLive/jai-maharashtra/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-live-bangla.png" tvg-id="311" tvg-name="news-live-bangla" , News LIVE Bangla
+https://in1.sunilprasad.com.np/yuppLive/news-live-bangla/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" tvg-id="226" tvg-name="abp-ananda" , ABP Ananda
+https://in1.sunilprasad.com.np/yuppLive/abp-ananda/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" tvg-id="24" tvg-name="republic-bangla" , Republic Bangla
+https://in1.sunilprasad.com.np/yuppLive/republic-bangla/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png" tvg-id="7" tvg-name="24-ghanta" , 24 Ghanta
+https://in1.sunilprasad.com.np/yuppLive/24-ghanta/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png" tvg-id="35" tvg-name="tv9-bangla" , TV9 Bangla
+https://in1.sunilprasad.com.np/yuppLive/tv9-bangla/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png" tvg-id="115" tvg-name="news-time" , News Time
+https://in1.sunilprasad.com.np/yuppLive/news-time/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" tvg-id="116" tvg-name="calcutta-news" , Calcutta News
+https://in1.sunilprasad.com.np/yuppLive/calcutta-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png" tvg-id="9" tvg-name="tv9-news" , TV9 News
+https://in1.sunilprasad.com.np/yuppLive/tv9-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ntv.png" tvg-id="100" tvg-name="ntv" , NTV
+https://in1.sunilprasad.com.np/yuppLive/ntv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wcxeyr.png" tvg-id="121" tvg-name="v6-news" , V6 News
+https://in1.sunilprasad.com.np/yuppLive/v6-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cwlloq.png" tvg-id="105" tvg-name="tv5" , TV5
+https://in1.sunilprasad.com.np/yuppLive/tv5/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ykuyew.png" tvg-id="104" tvg-name="sakshi-tv" , Sakshi TV
+https://in1.sunilprasad.com.np/yuppLive/sakshi-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/t-news.png" tvg-id="108" tvg-name="t-news" , T News
+https://in1.sunilprasad.com.np/yuppLive/t-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/10tv.png" tvg-id="147" tvg-name="10tv" , 10TV
+https://in1.sunilprasad.com.np/yuppLive/10tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-tv.png" tvg-id="106" tvg-name="mahaa-tv" , Mahaa TV
+https://in1.sunilprasad.com.np/yuppLive/mahaa-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inews.png" tvg-id="141" tvg-name="inews" , iNews
+https://in1.sunilprasad.com.np/yuppLive/inews/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png" tvg-id="33" tvg-name="zee-news-telugu" , Zee News Telugu
+https://in1.sunilprasad.com.np/yuppLive/zee-news-telugu/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png" tvg-id="133" tvg-name="big-tv" , BIG TV
+https://in1.sunilprasad.com.np/yuppLive/big-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hmtv.png" tvg-id="102" tvg-name="hmtv" , HMTV
+https://in1.sunilprasad.com.np/yuppLive/hmtv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vncsik.png" tvg-id="139" tvg-name="cvr-news" , CVR News
+https://in1.sunilprasad.com.np/yuppLive/cvr-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/loonbb.png" tvg-id="148" tvg-name="6tv" , 6TV
+https://in1.sunilprasad.com.np/yuppLive/6tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-id="319" tvg-name="brk-news" , BRK News
+https://in1.sunilprasad.com.np/yuppLive/brk-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/studio-one-plus.png" tvg-id="321" tvg-name="studio-one-plus" , Studio One Plus
+https://in1.sunilprasad.com.np/yuppLive/studio-one-plus/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ivzkvy.png" tvg-id="10" tvg-name="tv9-kannada" , TV9 Kannada
+https://in1.sunilprasad.com.np/yuppLive/tv9-kannada/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ssufdl.png" tvg-id="230" tvg-name="republic-kannada" , Republic Kannada
+https://in1.sunilprasad.com.np/yuppLive/republic-kannada/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv5-kannada.png" tvg-id="211" tvg-name="tv5-kannada" , TV5 Kannada
+https://in1.sunilprasad.com.np/yuppLive/tv5-kannada/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-1st.png" tvg-id="181" tvg-name="news-1st" , News 1st
+https://in1.sunilprasad.com.np/yuppLive/news-1st/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gujarat-first.png" tvg-id="313" tvg-name="gujarat-first" , Gujarat First
+https://in1.sunilprasad.com.np/yuppLive/gujarat-first/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vcevdy.png" tvg-id="12" tvg-name="tv9-gujarati" , TV9 Gujarati
+https://in1.sunilprasad.com.np/yuppLive/tv9-gujarati/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" tvg-id="228" tvg-name="abp-asmita" , ABP Asmita
+https://in1.sunilprasad.com.np/yuppLive/abp-asmita/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vbezgf.png" tvg-id="32" tvg-name="zee-24-kalak" , Zee 24 Kalak
+https://in1.sunilprasad.com.np/yuppLive/zee-24-kalak/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fnyvfg.png" tvg-id="103" tvg-name="mantavya-news" , Mantavya News
+https://in1.sunilprasad.com.np/yuppLive/mantavya-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vtv-gujarati.png" tvg-id="165" tvg-name="vtv-gujarati" , VTV Gujarati
+https://in1.sunilprasad.com.np/yuppLive/vtv-gujarati/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rkpgdq.png" tvg-id="15" tvg-name="zee-punjab-haryana-himachal" , Zee Punjab Haryana Himachal
+https://in1.sunilprasad.com.np/yuppLive/zee-punjab-haryana-himachal/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png" tvg-id="27" tvg-name="zee-salaam" , Zee Salaam
+https://in1.sunilprasad.com.np/yuppLive/zee-salaam/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nktv.png" tvg-id="312" tvg-name="nktv" , NKTV
+https://in1.sunilprasad.com.np/yuppLive/nktv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/protidin-time.png" tvg-id="109" tvg-name="protidin-time" , Protidin Time
+https://in1.sunilprasad.com.np/yuppLive/protidin-time/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-tamil.jpeg" tvg-id="317" tvg-name="news-tamil" , News Tamil
+https://in1.sunilprasad.com.np/yuppLive/news-tamil/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/polimer-news.png" tvg-id="184" tvg-name="polimer-news" , Polimer News
+https://in1.sunilprasad.com.np/yuppLive/polimer-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png" tvg-id="175" tvg-name="puthiya-thalaimurai" , Puthiya Thalaimurai
+https://in1.sunilprasad.com.np/yuppLive/puthiya-thalaimurai/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png" tvg-id="119" tvg-name="seithigal-tv" , Seithigal TV
+https://in1.sunilprasad.com.np/yuppLive/seithigal-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png" tvg-id="282" tvg-name="asianet-news-india" , Asianet News India
+https://in1.sunilprasad.com.np/yuppLive/asianet-news-india/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/24.png" tvg-id="218" tvg-name="24" , 24
+https://in1.sunilprasad.com.np/yuppLive/24/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/reporter-tv.png" tvg-id="140" tvg-name="reporter-tv" , Reporter TV
+https://in1.sunilprasad.com.np/yuppLive/reporter-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pnahka.png" tvg-id="170" tvg-name="manorama-news" , Manorama News
+https://in1.sunilprasad.com.np/yuppLive/manorama-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mathrubhumi-news.png" tvg-id="174" tvg-name="mathrubhumi-news" , Mathrubhumi News
+https://in1.sunilprasad.com.np/yuppLive/mathrubhumi-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/janam-tv.png" tvg-id="182" tvg-name="janam-tv" , Janam TV
+https://in1.sunilprasad.com.np/yuppLive/janam-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ayrbqa.png" tvg-id="153" tvg-name="argus-news" , Argus News
+https://in1.sunilprasad.com.np/yuppLive/argus-news/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nandighosha-tv.png" tvg-id="185" tvg-name="nandighosha-tv" , Nandighosha TV
+https://in1.sunilprasad.com.np/yuppLive/nandighosha-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kalinga-tv.png" tvg-id="187" tvg-name="kalinga-tv" , Kalinga TV
+https://in1.sunilprasad.com.np/yuppLive/kalinga-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png" tvg-id="78" tvg-name="scifi-world" , Scifi World
+https://in1.sunilprasad.com.np/yuppLive/scifi-world/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/twazqd.png" tvg-id="63" tvg-name="encore" , Encore
+https://in1.sunilprasad.com.np/yuppLive/encore/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/iktjkc.png" tvg-id="53" tvg-name="danger-vision-tv" , Danger Vision TV
+https://in1.sunilprasad.com.np/yuppLive/danger-vision-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wyuowl.png" tvg-id="95" tvg-name="mercury" , Mercury
+https://in1.sunilprasad.com.np/yuppLive/mercury/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png" tvg-id="60" tvg-name="urban-action" , Urban Action
+https://in1.sunilprasad.com.np/yuppLive/urban-action/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png" tvg-id="88" tvg-name="the-explorers1" , The Explorers
+https://in1.sunilprasad.com.np/yuppLive/the-explorers1/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png" tvg-id="45" tvg-name="bang-bang-tv" , Bang Bang TV
+https://in1.sunilprasad.com.np/yuppLive/bang-bang-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yfbcof.png" tvg-id="59" tvg-name="voyages" , Voyages
+https://in1.sunilprasad.com.np/yuppLive/voyages/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lol-tv.png" tvg-id="90" tvg-name="lol-tv" , Lol TV
+https://in1.sunilprasad.com.np/yuppLive/lol-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/heartfelt-tv.png" tvg-id="71" tvg-name="heartfelt-tv" , Heartfelt TV
+https://in1.sunilprasad.com.np/yuppLive/heartfelt-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/trufa.png" tvg-id="62" tvg-name="trufa" , Trufa
+https://in1.sunilprasad.com.np/yuppLive/trufa/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vfjgky.png" tvg-id="93" tvg-name="love-2-hate-tv" , Love 2 Hate TV
+https://in1.sunilprasad.com.np/yuppLive/love-2-hate-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png" tvg-id="94" tvg-name="mundo-series" , Mundo Series
+https://in1.sunilprasad.com.np/yuppLive/mundo-series/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uohdua.png" tvg-id="82" tvg-name="nitro-tv" , Nitro TV
+https://in1.sunilprasad.com.np/yuppLive/nitro-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/latino-classic-channel.png" tvg-id="89" tvg-name="latino-classic-channel" , Latino Classic Channel
+https://in1.sunilprasad.com.np/yuppLive/latino-classic-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mama-benz-tv.png" tvg-id="96" tvg-name="mama-benz-tv" , Mama Benz TV
+https://in1.sunilprasad.com.np/yuppLive/mama-benz-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png" tvg-id="51" tvg-name="colour-blind" , Colour Blind
+https://in1.sunilprasad.com.np/yuppLive/colour-blind/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tlmbwv.png" tvg-id="56" tvg-name="edgy-tv" , Edgy TV
+https://in1.sunilprasad.com.np/yuppLive/edgy-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewwdxf.png" tvg-id="81" tvg-name="outer-vision-tv" , Outer Vision TV
+https://in1.sunilprasad.com.np/yuppLive/outer-vision-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png" tvg-id="279" tvg-name="just-for-laughs-gags" , JUST FOR LAUGHS GAGS
+https://in1.sunilprasad.com.np/yuppLive/just-for-laughs-gags/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xccrcr.png" tvg-id="255" tvg-name="awe-plus" , AWE PLUS
+https://in1.sunilprasad.com.np/yuppLive/awe-plus/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aqzbzc.png" tvg-id="261" tvg-name="brat-tv" , BRAT TV
+https://in1.sunilprasad.com.np/yuppLive/brat-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eqiuvk.png" tvg-id="268" tvg-name="h2otv" , H2OTV
+https://in1.sunilprasad.com.np/yuppLive/h2otv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wwlccy.png" tvg-id="269" tvg-name="kartoon-channel-worldwide" , KARTOON CHANNEL WORLDWIDE
+https://in1.sunilprasad.com.np/yuppLive/kartoon-channel-worldwide/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png" tvg-id="288" tvg-name="chana-jor" , Chana Jor
+https://in1.sunilprasad.com.np/yuppLive/chana-jor/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bollywood-masala.png" tvg-id="291" tvg-name="bollywood-masala" , Bollywood Masala
+https://in1.sunilprasad.com.np/yuppLive/bollywood-masala/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png" tvg-id="131" tvg-name="desi-play-tv" , Desi Play TV
+https://in1.sunilprasad.com.np/yuppLive/desi-play-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png" tvg-id="47" tvg-name="bollywood-4u" , Bollywood 4U
+https://in1.sunilprasad.com.np/yuppLive/bollywood-4u/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png" tvg-id="262" tvg-name="comedy-tadka" , COMEDY TADKA
+https://in1.sunilprasad.com.np/yuppLive/comedy-tadka/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png" tvg-id="265" tvg-name="diy-art" , DIY ART
+https://in1.sunilprasad.com.np/yuppLive/diy-art/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/comedy-king.png" tvg-id="322" tvg-name="comedy-king" , Comedy King
+https://in1.sunilprasad.com.np/yuppLive/comedy-king/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ctvn-akd-plus.png" tvg-id="101" tvg-name="ctvn-akd-plus" , CTVN AKD Plus
+https://in1.sunilprasad.com.np/yuppLive/ctvn-akd-plus/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-max.png" tvg-id="305" tvg-name="mahaa-max" , Mahaa Max
+https://in1.sunilprasad.com.np/yuppLive/mahaa-max/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mana-tv-international.png" tvg-id="216" tvg-name="mana-tv-international" , Mana TV International
+https://in1.sunilprasad.com.np/yuppLive/mana-tv-international/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tana-prapancha-sahitya-vedika.png" tvg-id="198" tvg-name="tana-prapancha-sahitya-vedika" , TANA Prapancha Sahitya Vedika
+https://in1.sunilprasad.com.np/yuppLive/tana-prapancha-sahitya-vedika/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/prflqx.png" tvg-id="320" tvg-name="studio-yuva" , Studio Yuva
+https://in1.sunilprasad.com.np/yuppLive/studio-yuva/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wneior.png" tvg-id="235" tvg-name="pitaara-comedy" , Pitaara Comedy
+https://in1.sunilprasad.com.np/yuppLive/pitaara-comedy/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png" tvg-id="200" tvg-name="parvasi-tv-hd" , Parvasi TV HD
+https://in1.sunilprasad.com.np/yuppLive/parvasi-tv-hd/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png" tvg-id="169" tvg-name="pasand" , PASAND
+https://in1.sunilprasad.com.np/yuppLive/pasand/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rengoni-tv.png" tvg-id="107" tvg-name="rengoni-tv" , Rengoni TV
+https://in1.sunilprasad.com.np/yuppLive/rengoni-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" tvg-id="205" tvg-name="athavan-tv-hd" , Athavan TV HD
+https://in1.sunilprasad.com.np/yuppLive/athavan-tv-hd/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png" tvg-id="167" tvg-name="moon-tv" , Moon TV
+https://in1.sunilprasad.com.np/yuppLive/moon-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png" tvg-id="113" tvg-name="peppers-tv" , Peppers TV
+https://in1.sunilprasad.com.np/yuppLive/peppers-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ibc-radio.png" tvg-id="219" tvg-name="ibc-radio" , IBC Radio
+https://in1.sunilprasad.com.np/yuppLive/ibc-radio/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png" tvg-id="117" tvg-name="jaihind-tv" , Jaihind TV
+https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png" tvg-id="168" tvg-name="kerala-vision" , Kerala Vision
+https://in1.sunilprasad.com.np/yuppLive/kerala-vision/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nepal-1.png" tvg-id="183" tvg-name="nepal-1" , Nepal 1
+https://in1.sunilprasad.com.np/yuppLive/nepal-1/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png" tvg-id="80" tvg-name="jupiter-tv" , Jupiter TV
+https://in1.sunilprasad.com.np/yuppLive/jupiter-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kawupc.png" tvg-id="41" tvg-name="wildest-wish-tv" , Wildest wish tv
+https://in1.sunilprasad.com.np/yuppLive/wildest-wish-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png" tvg-id="58" tvg-name="edgy-urban" , Edgy Urban
+https://in1.sunilprasad.com.np/yuppLive/edgy-urban/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png" tvg-id="23" tvg-name="mastiii" , Mastiii
+https://in1.sunilprasad.com.np/yuppLive/mastiii/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" tvg-id="137" tvg-name="balle-balle" , Balle Balle
+https://in1.sunilprasad.com.np/yuppLive/balle-balle/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png" tvg-id="126" tvg-name="insync" , insync
+https://in1.sunilprasad.com.np/yuppLive/insync/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png" tvg-id="192" tvg-name="haryanvi-hits" , Haryanvi Hits
+https://in1.sunilprasad.com.np/yuppLive/haryanvi-hits/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png" tvg-id="214" tvg-name="songdew" , Songdew
+https://in1.sunilprasad.com.np/yuppLive/songdew/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dnjjkm.png" tvg-id="21" tvg-name="maiboli" , Maiboli
+https://in1.sunilprasad.com.np/yuppLive/maiboli/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zqbwbs.png" tvg-id="300" tvg-name="punjabi-hits" , Punjabi Hits
+https://in1.sunilprasad.com.np/yuppLive/punjabi-hits/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png" tvg-id="199" tvg-name="boogle-bollywood" , Boogle Bollywood
+https://in1.sunilprasad.com.np/yuppLive/boogle-bollywood/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png" tvg-id="190" tvg-name="wah-punjabi" , Wah Punjabi
+https://in1.sunilprasad.com.np/yuppLive/wah-punjabi/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/murasu.png" tvg-id="146" tvg-name="murasu" , Murasu
+https://in1.sunilprasad.com.np/yuppLive/murasu/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" tvg-id="70" tvg-name="thalaa-tv" , Thalaa TV
+https://in1.sunilprasad.com.np/yuppLive/thalaa-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png" tvg-id="166" tvg-name="kappa-tv" , Kappa TV
+https://in1.sunilprasad.com.np/yuppLive/kappa-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" tvg-id="83" tvg-name="kiddo" , Kiddo
+https://in1.sunilprasad.com.np/yuppLive/kiddo/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" tvg-id="48" tvg-name="cartoon-tv-classics" , Cartoon TV Classics
+https://in1.sunilprasad.com.np/yuppLive/cartoon-tv-classics/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hooray-rhymes.png" tvg-id="323" tvg-name="hooray-rhymes" , Hooray Rhymes
+https://in1.sunilprasad.com.np/yuppLive/hooray-rhymes/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png" tvg-id="281" tvg-name="green-gold-tv" , Green Gold TV
+https://in1.sunilprasad.com.np/yuppLive/green-gold-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jjhfoz.png" tvg-id="176" tvg-name="god-tv" , God TV
+https://in1.sunilprasad.com.np/yuppLive/god-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wybgyr.png" tvg-id="266" tvg-name="drool" , DROOL
+https://in1.sunilprasad.com.np/yuppLive/drool/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png" tvg-id="197" tvg-name="hare-krishna-tv" , Hare Krishna TV
+https://in1.sunilprasad.com.np/yuppLive/hare-krishna-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png" tvg-id="8" tvg-name="divya-tv" , Divya TV
+https://in1.sunilprasad.com.np/yuppLive/divya-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png" tvg-id="217" tvg-name="krishna-vani" , Krishna Vani
+https://in1.sunilprasad.com.np/yuppLive/krishna-vani/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/santwani.png" tvg-id="136" tvg-name="santwani" , Santwani
+https://in1.sunilprasad.com.np/yuppLive/santwani/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sharnam-tv.png" tvg-id="124" tvg-name="sharnam-tv" , Sharnam TV
+https://in1.sunilprasad.com.np/yuppLive/sharnam-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brahma-kumaris.png" tvg-id="189" tvg-name="brahma-kumaris" , Brahma Kumaris
+https://in1.sunilprasad.com.np/yuppLive/brahma-kumaris/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png" tvg-id="180" tvg-name="mangalmay-tv" , Mangalmay TV
+https://in1.sunilprasad.com.np/yuppLive/mangalmay-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png" tvg-id="125" tvg-name="disha-tv" , Disha TV
+https://in1.sunilprasad.com.np/yuppLive/disha-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jinvani-channel.png" tvg-id="156" tvg-name="jinvani-channel" , Jinvani Channel
+https://in1.sunilprasad.com.np/yuppLive/jinvani-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png" tvg-id="203" tvg-name="astroscience" , Astroscience
+https://in1.sunilprasad.com.np/yuppLive/astroscience/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/subharti-tv.png" tvg-id="123" tvg-name="subharti-tv" , Subharti TV
+https://in1.sunilprasad.com.np/yuppLive/subharti-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png" tvg-id="206" tvg-name="peace-of-mind" , Peace of Mind
+https://in1.sunilprasad.com.np/yuppLive/peace-of-mind/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vchaou.png" tvg-id="233" tvg-name="svbc-4" , SVBC 4
+https://in1.sunilprasad.com.np/yuppLive/svbc-4/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png" tvg-id="236" tvg-name="divya-bhajan" , Divya Bhajan
+https://in1.sunilprasad.com.np/yuppLive/divya-bhajan/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png" tvg-id="280" tvg-name="hosanna-tv-hindi" , Hosanna TV Hindi
+https://in1.sunilprasad.com.np/yuppLive/hosanna-tv-hindi/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aadinath-tv.png" tvg-id="314" tvg-name="aadinath-tv" , Aadinath TV
+https://in1.sunilprasad.com.np/yuppLive/aadinath-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awakening-tv.png" tvg-id="315" tvg-name="awakening-tv" , Awakening TV
+https://in1.sunilprasad.com.np/yuppLive/awakening-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jnsfyb.png" tvg-id="287" tvg-name="bhakti-play" , Bhakti Play
+https://in1.sunilprasad.com.np/yuppLive/bhakti-play/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tzvxai.png" tvg-id="304" tvg-name="mahaa-bhakti" , Mahaa Bhakti
+https://in1.sunilprasad.com.np/yuppLive/mahaa-bhakti/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png" tvg-id="110" tvg-name="bhakti-tv" , Bhakti TV
+https://in1.sunilprasad.com.np/yuppLive/bhakti-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png" tvg-id="99" tvg-name="svbc" , SVBC
+https://in1.sunilprasad.com.np/yuppLive/svbc/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png" tvg-id="207" tvg-name="yupptv-veda" , YUPPTV VEDA
+https://in1.sunilprasad.com.np/yuppLive/yupptv-veda/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindu-dharmam.png" tvg-id="191" tvg-name="hindu-dharmam" , Hindu Dharmam
+https://in1.sunilprasad.com.np/yuppLive/hindu-dharmam/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aradana-tv.png" tvg-id="122" tvg-name="aradana-tv" , Aradana TV
+https://in1.sunilprasad.com.np/yuppLive/aradana-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/om-cvr.png" tvg-id="149" tvg-name="om-cvr" , OM CVR
+https://in1.sunilprasad.com.np/yuppLive/om-cvr/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png" tvg-id="201" tvg-name="pmc" , PMC
+https://in1.sunilprasad.com.np/yuppLive/pmc/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/scfkep.png" tvg-id="232" tvg-name="svbc-3" , SVBC 3
+https://in1.sunilprasad.com.np/yuppLive/svbc-3/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-kannada.png" tvg-id="145" tvg-name="sri-sankara-kannada" , Sri Sankara Kannada
+https://in1.sunilprasad.com.np/yuppLive/sri-sankara-kannada/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png" tvg-id="195" tvg-name="lakshyatv" , LakshyaTV
+https://in1.sunilprasad.com.np/yuppLive/lakshyatv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png" tvg-id="299" tvg-name="sri-naga-sai-mandir" , Sri Naga Sai Mandir
+https://in1.sunilprasad.com.np/yuppLive/sri-naga-sai-mandir/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png" tvg-id="144" tvg-name="sri-sankara-tamil" , Sri Sankara Tamil
+https://in1.sunilprasad.com.np/yuppLive/sri-sankara-tamil/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/madha-tv.png" tvg-id="215" tvg-name="madha-tv" , Madha TV
+https://in1.sunilprasad.com.np/yuppLive/madha-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sivan-temple-tv.png" tvg-id="208" tvg-name="sivan-temple-tv" , Sivan Temple TV
+https://in1.sunilprasad.com.np/yuppLive/sivan-temple-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc-2.png" tvg-id="179" tvg-name="svbc-2" , SVBC 2
+https://in1.sunilprasad.com.np/yuppLive/svbc-2/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/angel-tv.png" tvg-id="177" tvg-name="angel-tv" , Angel TV
+https://in1.sunilprasad.com.np/yuppLive/angel-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/swasthik-tv.png" tvg-id="202" tvg-name="swasthik-tv" , Swasthik TV
+https://in1.sunilprasad.com.np/yuppLive/swasthik-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna.png" tvg-id="212" tvg-name="hosanna" , Hosanna
+https://in1.sunilprasad.com.np/yuppLive/hosanna/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/holy-god-tv.png" tvg-id="209" tvg-name="holy-god-tv" , HOLY GOD TV
+https://in1.sunilprasad.com.np/yuppLive/holy-god-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nambikkai.png" tvg-id="285" tvg-name="nambikkai" , Nambikkai
+https://in1.sunilprasad.com.np/yuppLive/nambikkai/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shalom-tv.png" tvg-id="142" tvg-name="shalom-tv" , Shalom TV
+https://in1.sunilprasad.com.np/yuppLive/shalom-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/power-vision-tv.png" tvg-id="143" tvg-name="power-vision-tv" , Power Vision TV
+https://in1.sunilprasad.com.np/yuppLive/power-vision-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/goodness-tv.png" tvg-id="173" tvg-name="goodness-tv" , Goodness TV
+https://in1.sunilprasad.com.np/yuppLive/goodness-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png" tvg-id="74" tvg-name="star-vision" , Star Vision
+https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mariantv.png" tvg-id="204" tvg-name="mariantv" , MarianTV
+https://in1.sunilprasad.com.np/yuppLive/mariantv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png" tvg-id="52" tvg-name="cowboy-movie-channel" , Cowboy Movie Channel
+https://in1.sunilprasad.com.np/yuppLive/cowboy-movie-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png" tvg-id="77" tvg-name="horror-tv" , Horror TV
+https://in1.sunilprasad.com.np/yuppLive/horror-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png" tvg-id="72" tvg-name="tensions-tv" , Tensions TV
+https://in1.sunilprasad.com.np/yuppLive/tensions-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png" tvg-id="55" tvg-name="drive-in-movie-channel" , Drive In Movie Channel
+https://in1.sunilprasad.com.np/yuppLive/drive-in-movie-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png" tvg-id="57" tvg-name="weshort" , Weshort
+https://in1.sunilprasad.com.np/yuppLive/weshort/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png" tvg-id="85" tvg-name="kung-fu" , Kung Fu
+https://in1.sunilprasad.com.np/yuppLive/kung-fu/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png" tvg-id="256" tvg-name="best-action-tv" , BEST ACTION TV
+https://in1.sunilprasad.com.np/yuppLive/best-action-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png" tvg-id="257" tvg-name="best-drama-tv" ,   BEST DRAMA TV
+https://in1.sunilprasad.com.np/yuppLive/best-drama-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png" tvg-id="258" tvg-name="best-thriller-tv" , BEST THRILLER TV
+https://in1.sunilprasad.com.np/yuppLive/best-thriller-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" tvg-id="318" tvg-name="pocket-films" , Pocket Films
+https://in1.sunilprasad.com.np/yuppLive/pocket-films/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" tvg-id="92" tvg-name="tolly-tv1" , Tolly TV
+https://in1.sunilprasad.com.np/yuppLive/tolly-tv1/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tabbar-hits.png" tvg-id="301" tvg-name="tabbar-hits" , Tabbar Hits
+https://in1.sunilprasad.com.np/yuppLive/tabbar-hits/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbzkrr.png" tvg-id="37" tvg-name="pitaara-tv" , Pitaara TV
+https://in1.sunilprasad.com.np/yuppLive/pitaara-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qovodm.png" tvg-id="22" tvg-name="dabangg" , Dabangg
+https://in1.sunilprasad.com.np/yuppLive/dabangg/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" tvg-id="4" tvg-name="ndtv-goodtimes" , NDTV GoodTimes
+https://in1.sunilprasad.com.np/yuppLive/ndtv-goodtimes/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jocyub.png" tvg-id="264" tvg-name="defiance-media" , DEFIANCE MEDIA
+https://in1.sunilprasad.com.np/yuppLive/defiance-media/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" tvg-id="267" tvg-name="escape-tv" , ESCAPE TV
+https://in1.sunilprasad.com.np/yuppLive/escape-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png" tvg-id="271" tvg-name="luxury-dreams-tv" , LUXURY DREAMS TV
+https://in1.sunilprasad.com.np/yuppLive/luxury-dreams-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gjwmjv.png" tvg-id="277" tvg-name="unchainedtv" , UNCHAINEDTV
+https://in1.sunilprasad.com.np/yuppLive/unchainedtv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vanitha-tv.png" tvg-id="114" tvg-name="vanitha-tv" , Vanitha TV
+https://in1.sunilprasad.com.np/yuppLive/vanitha-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png" tvg-id="286" tvg-name="cvr-health" , CVR Health
+https://in1.sunilprasad.com.np/yuppLive/cvr-health/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png" tvg-id="234" tvg-name="ayush-tv" , Ayush TV
+https://in1.sunilprasad.com.np/yuppLive/ayush-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png" tvg-id="284" tvg-name="willow-sports" , Willow Sports
+https://in1.sunilprasad.com.np/yuppLive/willow-sports/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png" tvg-id="68" tvg-name="fight-tv" , Fight TV
+https://in1.sunilprasad.com.np/yuppLive/fight-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png" tvg-id="84" tvg-name="kozoom" , Kozoom
+https://in1.sunilprasad.com.np/yuppLive/kozoom/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png" tvg-id="40" tvg-name="xtrem-sports" , Xtrem sports
+https://in1.sunilprasad.com.np/yuppLive/xtrem-sports/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png" tvg-id="76" tvg-name="sport-fishing-tv" , Sport Fishing TV
+https://in1.sunilprasad.com.np/yuppLive/sport-fishing-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png" tvg-id="42" tvg-name="america-boating-channel" , America Boating Channel
+https://in1.sunilprasad.com.np/yuppLive/america-boating-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png" tvg-id="67" tvg-name="the-chukker-channel" , The Chukker Channel
+https://in1.sunilprasad.com.np/yuppLive/the-chukker-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png" tvg-id="49" tvg-name="chronotv" , ChronoTV
+https://in1.sunilprasad.com.np/yuppLive/chronotv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png" tvg-id="79" tvg-name="itsf" , ITSF
+https://in1.sunilprasad.com.np/yuppLive/itsf/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png" tvg-id="272" tvg-name="mma-tv" , MMA TV
+https://in1.sunilprasad.com.np/yuppLive/mma-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cgrggj.png" tvg-id="273" tvg-name="motor-racing" , MOTOR RACING
+https://in1.sunilprasad.com.np/yuppLive/motor-racing/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/whjmwm.png" tvg-id="253" tvg-name="ace-tv" , ACE TV
+https://in1.sunilprasad.com.np/yuppLive/ace-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png" tvg-id="290" tvg-name="cricket-gold" , Cricket Gold
+https://in1.sunilprasad.com.np/yuppLive/cricket-gold/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png" tvg-id="292" tvg-name="adventure-sports-tv" , Adventure Sports TV
+https://in1.sunilprasad.com.np/yuppLive/adventure-sports-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png" tvg-id="293" tvg-name="drive--speed" , Drive+ Speed
+https://in1.sunilprasad.com.np/yuppLive/drive--speed/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png" tvg-id="294" tvg-name="hunt-fish-tv" , Hunt Fish TV
+https://in1.sunilprasad.com.np/yuppLive/hunt-fish-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png" tvg-id="295" tvg-name="nautical-channel" , Nautical Channel
+https://in1.sunilprasad.com.np/yuppLive/nautical-channel/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/badjix.png" tvg-id="298" tvg-name="absinthe-tv" , Absinthe TV
+https://in1.sunilprasad.com.np/yuppLive/absinthe-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png" tvg-id="296" tvg-name="yachting-tv" , Yachting TV
+https://in1.sunilprasad.com.np/yuppLive/yachting-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png" tvg-id="66" tvg-name="english-tv" , English TV
+https://in1.sunilprasad.com.np/yuppLive/english-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dlqwlb.png" tvg-id="270" tvg-name="lingua-tv" , LINGUA TV
+https://in1.sunilprasad.com.np/yuppLive/lingua-tv/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png" tvg-id="251" tvg-name="turito-iit-jee" , Turito IIT JEE
+https://in1.sunilprasad.com.np/yuppLive/turito-iit-jee/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png" tvg-id="252" tvg-name="turito-neet" , Turito NEET
+https://in1.sunilprasad.com.np/yuppLive/turito-neet/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png" tvg-id="178" tvg-name="t-sat-nipuna" , T-SAT Nipuna
+https://in1.sunilprasad.com.np/yuppLive/t-sat-nipuna/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png" tvg-id="193" tvg-name="t-sat-vidya" , T-SAT Vidya
+https://in1.sunilprasad.com.np/yuppLive/t-sat-vidya/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png" tvg-id="276" tvg-name="space-series" , SPACE SERIES
+https://in1.sunilprasad.com.np/yuppLive/space-series/master.m3u8|user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1923634031DD_NEWS__mob___384x512.webp" tvg-id="10541" tvg-name="dd-news" , DD News
+https://in1.sunilprasad.com.np/wavespb/10541/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1114380993aaj_tak_mob___384x512.webp" tvg-id="10608" tvg-name="aaj-tak" , AAJ TAK
+https://in1.sunilprasad.com.np/wavespb/10608/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1055584017ABP__mob___384x512.webp" tvg-id="10549" tvg-name="abp-news" , ABP NEWS
+https://in1.sunilprasad.com.np/wavespb/10549/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1787540310TV_9__mob___384x512.webp" tvg-id="10595" tvg-name="tv9-bharatvarsh" , TV9 BHARATVARSH
+https://in1.sunilprasad.com.np/wavespb/10595/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1335619945BHARAT__24___mob___384x512.webp" tvg-id="15306" tvg-name="bharat-24" , Bharat 24
+https://in1.sunilprasad.com.np/wavespb/15306/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp" tvg-id="10539" tvg-name="dd-india" , DD INDIA
+https://in1.sunilprasad.com.np/wavespb/10539/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1579634869GNT__mob___384x512.webp" tvg-id="10546" tvg-name="good-news-today" , GOOD NEWS TODAY
+https://in1.sunilprasad.com.np/wavespb/10546/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1883776933IBC24___TV____720x960.webp" tvg-id="10594" tvg-name="ibc24" , IBC24
+https://in1.sunilprasad.com.np/wavespb/10594/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1245247643INDIA_TODAY_TV____384x512.webp" tvg-id="10547" tvg-name="india-today" , INDIA TODAY
+https://in1.sunilprasad.com.np/wavespb/10547/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1506549014India_TV_News____720x960.webp" tvg-id="14854" tvg-name="india-tv-news" , India TV News
+https://in1.sunilprasad.com.np/wavespb/14854/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/410715399times_now_navbharat_____720x960.webp" tvg-id="10585" tvg-name="navbharat" , NAVBHARAT
+https://in1.sunilprasad.com.np/wavespb/10585/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1172695391NDTV_INDIA_TVW_720x960.webp" tvg-id="10593" tvg-name="ndtv-india" , NDTV INDIA
+https://in1.sunilprasad.com.np/wavespb/10593/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1699305729news_nation___mob___384x512.webp" tvg-id="10552" tvg-name="news-nation" , NEWS NATION
+https://in1.sunilprasad.com.np/wavespb/10552/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/68286256NEWS_18__mob___384x512.webp" tvg-id="10590" tvg-name="news-18-india" , NEWS 18 INDIA
+https://in1.sunilprasad.com.np/wavespb/10590/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1525787808NEWS_24___mob___384x512.webp" tvg-id="10554" tvg-name="news-24-think-first" , NEWS 24 THINK FIRST
+https://in1.sunilprasad.com.np/wavespb/10554/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/336749630RAJ_TV____720x960.webp" tvg-id="10645" tvg-name="raj-tv" , RAJ TV
+https://in1.sunilprasad.com.np/wavespb/10645/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/482795018R_REPUBLIC__mob___384x512.webp" tvg-id="10551" tvg-name="r-republic" , R Republic
+https://in1.sunilprasad.com.np/wavespb/10551/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/93249253R_bharat____TV___mob___384x512.webp" tvg-id="10827" tvg-name="republic-tv-bharat" , Republic TV Bharat
+https://in1.sunilprasad.com.np/wavespb/10827/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp" tvg-id="11022" tvg-name="sansad-tv-1" , SANSAD TV 1
+https://in1.sunilprasad.com.np/wavespb/11022/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp" tvg-id="11021" tvg-name="sansad-tv-2" , SANSAD TV 2
+https://in1.sunilprasad.com.np/wavespb/11021/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2121812114ZEE_NEWS__720x960.webp" tvg-id="14582" tvg-name="zee-news" , Zee News
+https://in1.sunilprasad.com.np/wavespb/14582/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp" tvg-id="10648" tvg-name="abzy-dhakad" , ABZY DHAKAD
+https://in1.sunilprasad.com.np/wavespb/10648/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp" tvg-id="10647" tvg-name="abzy-movies" , ABZY Movies
+https://in1.sunilprasad.com.np/wavespb/10647/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1075363785B4UBHOJPURI_TVSETS_TVW_720x960.webp" tvg-id="10543" tvg-name="b4u-bhojpuri" , B4U Bhojpuri
+https://in1.sunilprasad.com.np/wavespb/10543/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1769340356KADAK_TVSETS_TVW_720x960.webp" tvg-id="10544" tvg-name="b4u-kadak" , B4U KADAK
+https://in1.sunilprasad.com.np/wavespb/10544/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1487466742B4UMOVIES_TVSETS_TVW_720x960.webp" tvg-id="10548" tvg-name="b4u-movies" , B4U Movies
+https://in1.sunilprasad.com.np/wavespb/10548/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1638698552dabangTV___mob___384x512.webp" tvg-id="10598" tvg-name="dabanng" , DABANNG
+https://in1.sunilprasad.com.np/wavespb/10598/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp" tvg-id="10542" tvg-name="dd-bharati" , DD Bharati
+https://in1.sunilprasad.com.np/wavespb/10542/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp" tvg-id="10574" tvg-name="dd-national-hd" , DD National HD
+https://in1.sunilprasad.com.np/wavespb/10574/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1715950932E24_TVW_720x960.webp" tvg-id="10596" tvg-name="e24" , E24
+https://in1.sunilprasad.com.np/wavespb/10596/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp" tvg-id="10932" tvg-name="gangaur" , Gangaur
+https://in1.sunilprasad.com.np/wavespb/10932/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2121823942MAIBOLI_TV____720x960.webp" tvg-id="10649" tvg-name="maiboli" , MAIBOLI
+https://in1.sunilprasad.com.np/wavespb/10649/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp" tvg-id="10553" tvg-name="pitaara-movies" , PITAARA MOVIES
+https://in1.sunilprasad.com.np/wavespb/10553/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp" tvg-id="10556" tvg-name="ptc-punjabi" , PTC PUNJABI
+https://in1.sunilprasad.com.np/wavespb/10556/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x960.webp" tvg-id="10555" tvg-name="ptc-punjabi-gold" , PTC PUNJABI GOLD
+https://in1.sunilprasad.com.np/wavespb/10555/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1133093497B4U_Music_TVW_720x960.webp" tvg-id="10545" tvg-name="b4u-music" , B4U Music
+https://in1.sunilprasad.com.np/wavespb/10545/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1289247853MASTI_TV___mob___384x512.webp" tvg-id="10651" tvg-name="masti" , MASTI
+https://in1.sunilprasad.com.np/wavespb/10651/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp" tvg-id="15037" tvg-name="ptc-music" , PTC MUSIC
+https://in1.sunilprasad.com.np/wavespb/15037/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp" tvg-id="10605" tvg-name="9x-jalwa" , 9X JALWA
+https://in1.sunilprasad.com.np/wavespb/10605/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAAS__mob___384x512.webp" tvg-id="10606" tvg-name="9x-jhakaas" , 9X JHAKAAS
+https://in1.sunilprasad.com.np/wavespb/10606/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp" tvg-id="10607" tvg-name="9x-tashan" , 9X TASHAN
+https://in1.sunilprasad.com.np/wavespb/10607/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" tvg-id="10591" tvg-name="9xm" , 9XM
+https://in1.sunilprasad.com.np/wavespb/10591/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1014643382DIVYA_TVSETS_TVW_720x960.webp" tvg-id="10550" tvg-name="divya" , DIVYA
+https://in1.sunilprasad.com.np/wavespb/10550/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp" tvg-id="10574" tvg-name="dd-national-hd" , DD National HD
+https://in1.sunilprasad.com.np/wavespb/10574/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1923634031DD_NEWS__mob___384x512.webp" tvg-id="10541" tvg-name="dd-news" , DD News
+https://in1.sunilprasad.com.np/wavespb/10541/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp" tvg-id="10539" tvg-name="dd-india" , DD INDIA
+https://in1.sunilprasad.com.np/wavespb/10539/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp" tvg-id="10542" tvg-name="dd-bharati" , DD Bharati
+https://in1.sunilprasad.com.np/wavespb/10542/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/978964831DD_SPORTS__mob___384x512.webp" tvg-id="10569" tvg-name="dd-sports" , DD SPORTS
+https://in1.sunilprasad.com.np/wavespb/10569/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2138456152KISSAN_TVSETS_TVW_720x960.webp" tvg-id="10540" tvg-name="dd-kisan" , DD KISAN
+https://in1.sunilprasad.com.np/wavespb/10540/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp" tvg-id="10570" tvg-name="dd-urdu" , DD URDU
+https://in1.sunilprasad.com.np/wavespb/10570/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/584732940DD_MADHYAPRADESH__TV___mob___384x512.webp" tvg-id="10583" tvg-name="dd-madhyapradesh" , DD MADHYAPRADESH
+https://in1.sunilprasad.com.np/wavespb/10583/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/362822384DD_ARUNPRABHA___mob___384x512.webp" tvg-id="10557" tvg-name="dd-arunprabha" , DD Arunprabha
+https://in1.sunilprasad.com.np/wavespb/10557/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/319452459DD_YADGIRI_____TV____720x960.webp" tvg-id="10579" tvg-name="dd-yadgiri" , DD YADGIRI
+https://in1.sunilprasad.com.np/wavespb/10579/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1266576310DD_GOA_____mob___384x512.webp" tvg-id="10592" tvg-name="dd-goa" , DD GOA
+https://in1.sunilprasad.com.np/wavespb/10592/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/127887391DD_HARYANA__TV___mob___384x512.webp" tvg-id="10580" tvg-name="dd-haryana" , DD HARYANA
+https://in1.sunilprasad.com.np/wavespb/10580/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1424331982DD_RAJASTHAN____TV___mob___384x512.webp" tvg-id="10835" tvg-name="dd-rajasthan" , DD Rajasthan
+https://in1.sunilprasad.com.np/wavespb/10835/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/23822241dd_assam__720x960.webp" tvg-id="10604" tvg-name="dd-assam" , DD ASSAM
+https://in1.sunilprasad.com.np/wavespb/10604/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1288453584DD_nagaland__mob___384x512.webp" tvg-id="10603" tvg-name="dd-nagaland" , DD NAGALAND
+https://in1.sunilprasad.com.np/wavespb/10603/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1184556042dd_saptagiri___384x512.webp" tvg-id="10600" tvg-name="dd-saptagiri" , DD SAPTAGIRI
+https://in1.sunilprasad.com.np/wavespb/10600/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1984938843dd_meghalaya___384x512.webp" tvg-id="10599" tvg-name="dd-meghalaya" , DD MEGHALAYA
+https://in1.sunilprasad.com.np/wavespb/10599/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1262770871DD_jharkhand____TV___mob___384x512.webp" tvg-id="10589" tvg-name="dd-jharkhand" , DD Jharkhand
+https://in1.sunilprasad.com.np/wavespb/10589/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1707481475DD_BIHAR__mob___384x512.webp" tvg-id="10588" tvg-name="dd-bihar" , DD BIHAR
+https://in1.sunilprasad.com.np/wavespb/10588/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1433342199DD_uttar_pradesh_mob___384x512.webp" tvg-id="10587" tvg-name="dd-up" , DD UP
+https://in1.sunilprasad.com.np/wavespb/10587/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/780314109DD_HIMACHAL__mob___384x512.webp" tvg-id="10586" tvg-name="dd-himanchal" , DD HIMANCHAL
+https://in1.sunilprasad.com.np/wavespb/10586/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/547734520DD_BANGLA_TVSETS_TVW_720x960.webp" tvg-id="10558" tvg-name="dd-bangla" , DD BANGLA
+https://in1.sunilprasad.com.np/wavespb/10558/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/251956268DD_uttarakhand___720x960.webp" tvg-id="10581" tvg-name="dd-uttrakhand" , DD UTTRAKHAND
+https://in1.sunilprasad.com.np/wavespb/10581/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/17163527DD_TRIPURA____720x960.webp" tvg-id="10578" tvg-name="dd-tripura" , DD Tripura
+https://in1.sunilprasad.com.np/wavespb/10578/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1443058650DD_malayalam_______384x512.webp" tvg-id="10582" tvg-name="dd-malayalam" , DD MALAYALAM
+https://in1.sunilprasad.com.np/wavespb/10582/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/415330353DD_SHAYADRI_____TV____720x960.webp" tvg-id="10576" tvg-name="dd-sahyadri" , DD Sahyadri
+https://in1.sunilprasad.com.np/wavespb/10576/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1001788609DD_punjabi_TVSETS_TVW_720x960.webp" tvg-id="10575" tvg-name="dd-punjabi" , DD PUNJABI
+https://in1.sunilprasad.com.np/wavespb/10575/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/868969999DD_girnar________384x512.webp" tvg-id="10573" tvg-name="dd-girnar" , DD GIRNAR
+https://in1.sunilprasad.com.np/wavespb/10573/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/518137715DD_CHHATTISGARH___mob___384x512.webp" tvg-id="10571" tvg-name="dd-chhattisgarh" , DD CHHATTISGARH
+https://in1.sunilprasad.com.np/wavespb/10571/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/562233073DD_CHANDANA___TV____720x960.webp" tvg-id="10601" tvg-name="dd-chandana" , DD CHANDANA
+https://in1.sunilprasad.com.np/wavespb/10601/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/351929532DD_TAMIL____TV____720x960.webp" tvg-id="10577" tvg-name="dd-tamil" , DD TAMIL
+https://in1.sunilprasad.com.np/wavespb/10577/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1279237758DD_ODIA____mob___384x512.webp" tvg-id="10562" tvg-name="dd-odia" , DD ODIA
+https://in1.sunilprasad.com.np/wavespb/10562/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/92830746DD_MIZORAM____mob___384x512.webp" tvg-id="10561" tvg-name="dd-mizoram" , DD MIZORAM
+https://in1.sunilprasad.com.np/wavespb/10561/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/746617482DD_MANIPUR____mob___384x512.webp" tvg-id="10560" tvg-name="dd-manipur" , DD MANIPUR
+https://in1.sunilprasad.com.np/wavespb/10560/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1742238721DD_kashir_____mob___384x512.webp" tvg-id="10559" tvg-name="dd-kashir" , DD KASHIR
+https://in1.sunilprasad.com.np/wavespb/10559/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" tvg-id="2001" tvg-name="ntv" , NTV
+https://in1.sunilprasad.com.np/ntvLive/ntv/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" tvg-id="2002" tvg-name="ntv-plus" , NTV Plus
+https://in1.sunilprasad.com.np/ntvLive/ntv-plus/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" tvg-id="2003" tvg-name="ntv-news" , NTV News
+https://in1.sunilprasad.com.np/ntvLive/ntv-news/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://ntv.newitventure.com//images/channel_logos/4.png" tvg-id="2004" tvg-name="ntv-kohalpur" , NTV Kohalpur
+https://in1.sunilprasad.com.np/ntvLive/ntv-kohalpur/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" tvg-id="2005" tvg-name="ntv-itahari" , NTV Itahari
+https://in1.sunilprasad.com.np/ntvLive/ntv-itahari/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+#EXTINF:-1 group-title="FTA Channels" tvg-logo="https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow" tvg-id="2006" tvg-name="kantipur-sd" , Kantipur SD
+https://in1.sunilprasad.com.np/ktvLive/kantipur-sd/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+
