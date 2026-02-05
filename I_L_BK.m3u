@@ -1708,3 +1708,157 @@ https://in1.sunilprasad.com.np/ntvLive/ntv-itahari/master.m3u8|user-agent=Dalvik
 #EXTINF:-1 group-title="FTA Channels" tvg-logo="https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow" tvg-id="2006" tvg-name="kantipur-sd" , Kantipur SD
 https://in1.sunilprasad.com.np/ktvLive/kantipur-sd/master.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 
+
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="HINDI HITS 4K" ,HINDI HITS 4K
+https://airtel.rkdyiptv.workers.dev/live/1958.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="VISION BEATS 4K" ,VISION BEATS 4K
+https://airtel.rkdyiptv.workers.dev/live/1955.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="I694.19283.schedulesdirect.org" tvg-name="ZEE TV 4K USA" ,ZEE TV 4K USA
+https://airtel.rkdyiptv.workers.dev/live/1428.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="I695.18644.schedulesdirect.org" tvg-name="SONY 4K USA" ,SONY 4K USA
+https://airtel.rkdyiptv.workers.dev/live/1429.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starplushd.in" tvg-name="STAR PLUS 4K USA" ,STAR PLUS 4K USA
+https://airtel.rkdyiptv.workers.dev/live/1430.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="I697.65128.schedulesdirect.org" tvg-name="AAPKA COLORS 4K USA" ,AAPKA COLORS 4K USA
+https://airtel.rkdyiptv.workers.dev/live/413.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="zeetvhd.in" tvg-name="ZEE TV 4K INDIA" ,ZEE TV 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/400.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="I679.79632.schedulesdirect.org" tvg-name="ZEE TV 4K CANADA" ,ZEE TV 4K CANADA
+https://airtel.rkdyiptv.workers.dev/live/1703.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="zeetv.uk" tvg-name="ZEE TV 4K UK" ,ZEE TV 4K UK
+https://airtel.rkdyiptv.workers.dev/live/401.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="sonyhd.in" tvg-name="SONY 4K INDIA" ,SONY 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/404.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="sonytv.uk" tvg-name="SONY 4K UK" ,SONY 4K UK
+https://airtel.rkdyiptv.workers.dev/live/405.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starplushd.in" tvg-name="STAR PLUS 4K INDIA" ,STAR PLUS 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/409.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starplus.uk" tvg-name="STAR PLUS 4K UK" ,STAR PLUS 4K UK
+https://airtel.rkdyiptv.workers.dev/live/410.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="colorshd.in" tvg-name="COLORS 4K INDIA" ,COLORS 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/415.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="colorshd.uk" tvg-name="COLORS 4K UK" ,COLORS 4K UK
+https://airtel.rkdyiptv.workers.dev/live/414.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="andtv.in" tvg-name="AND TV 4K INDIA" ,AND TV 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1699.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="I729.105264.schedulesdirect.org" tvg-name="AND TV 4K USA" ,AND TV 4K USA
+https://airtel.rkdyiptv.workers.dev/live/1698.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starbharathd.in" tvg-name="STAR BHARAT 4K USA" ,STAR BHARAT 4K USA
+https://airtel.rkdyiptv.workers.dev/live/419.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starbharathd.in" tvg-name="STAR BHARAT 4K INDIA" ,STAR BHARAT 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/420.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starbharat.uk" tvg-name="STAR BHARAT UK" ,STAR BHARAT UK
+https://airtel.rkdyiptv.workers.dev/live/421.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="I701.61842.schedulesdirect.org" tvg-name="SAB TV USA" ,SAB TV USA
+https://airtel.rkdyiptv.workers.dev/live/1748.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="sonysabhd.in" tvg-name="SAB TV 4K INDIA" ,SAB TV 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/424.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="sonysab.uk" tvg-name="SAB TV UK" ,SAB TV UK
+https://airtel.rkdyiptv.workers.dev/live/425.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="travelxphd.in" tvg-name="TRAVELXP INDIA 4K" ,TRAVELXP INDIA 4K
+https://airtel.rkdyiptv.workers.dev/live/1712.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="colorsrishtey.in" tvg-name="COLORS RISHTEY INDIA" ,COLORS RISHTEY INDIA
+https://airtel.rkdyiptv.workers.dev/live/428.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="starutsav.in" tvg-name="STAR UTSAV" ,STAR UTSAV
+https://airtel.rkdyiptv.workers.dev/live/1770.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="colorsrishtey.uk" tvg-name="COLORS RISHTEY UK" ,COLORS RISHTEY UK
+https://airtel.rkdyiptv.workers.dev/live/432.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="zeecafehd.in" tvg-name="ZEE CAFE 4K" ,ZEE CAFE 4K
+https://airtel.rkdyiptv.workers.dev/live/1713.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="zanmol.in" tvg-name="ZEE ANMOL" ,ZEE ANMOL
+https://airtel.rkdyiptv.workers.dev/live/435.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="V4U & HTM HD" ,V4U & HTM HD
+https://airtel.rkdyiptv.workers.dev/live/2246.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="foodfood.us" tvg-name="FOOD FOOD US" ,FOOD FOOD US
+https://airtel.rkdyiptv.workers.dev/live/436.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="foodfood.in" tvg-name="FOOD FOOD INDIA" ,FOOD FOOD INDIA
+https://airtel.rkdyiptv.workers.dev/live/437.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZEE ZEST HD" ,ZEE ZEST HD
+https://airtel.rkdyiptv.workers.dev/live/2030.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="ndtvgoodtimes.in" tvg-name="NDTV GOOD TIMES" ,NDTV GOOD TIMES
+https://airtel.rkdyiptv.workers.dev/live/439.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="colorsrishtey.us" tvg-name="RISHTEY US" ,RISHTEY US
+https://airtel.rkdyiptv.workers.dev/live/1829.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="tvasia.us" tvg-name="TV ASIA 4K" ,TV ASIA 4K
+https://airtel.rkdyiptv.workers.dev/live/1813.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="DANGAL TV" ,DANGAL TV
+https://airtel.rkdyiptv.workers.dev/live/2545.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="JUS HINDI HD" ,JUS HINDI HD
+https://airtel.rkdyiptv.workers.dev/live/2722.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="COLORS INFINITY 4K" ,COLORS INFINITY 4K
+https://airtel.rkdyiptv.workers.dev/live/1830.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="THE Q INDIA 4K" ,THE Q INDIA 4K
+https://airtel.rkdyiptv.workers.dev/live/1831.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ISHAARA TV HD" ,ISHAARA TV HD
+https://airtel.rkdyiptv.workers.dev/live/2248.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="TIMES NOW NAVBHARAT 4K" ,TIMES NOW NAVBHARAT 4K
+https://airtel.rkdyiptv.workers.dev/live/2412.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="GNT TV HD" ,GNT TV HD
+https://airtel.rkdyiptv.workers.dev/live/2694.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="ddnational.in" tvg-name="DD NATIONAL" ,DD NATIONAL
+https://airtel.rkdyiptv.workers.dev/live/491.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="e24.in" tvg-name="E24" ,E24
+https://airtel.rkdyiptv.workers.dev/live/493.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZOOM US" ,ZOOM US
+https://airtel.rkdyiptv.workers.dev/live/2260.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZOOM UK" ,ZOOM UK
+https://airtel.rkdyiptv.workers.dev/live/496.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZOOM INDIA" ,ZOOM INDIA
+https://airtel.rkdyiptv.workers.dev/live/497.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZING TV US" ,ZING TV US
+https://airtel.rkdyiptv.workers.dev/live/498.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZING TV INDIA" ,ZING TV INDIA
+https://airtel.rkdyiptv.workers.dev/live/500.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ZING TV UK" ,ZING TV UK
+https://airtel.rkdyiptv.workers.dev/live/499.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="B4U MUSIC INDIA" ,B4U MUSIC INDIA
+https://airtel.rkdyiptv.workers.dev/live/1822.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="B4U MUSIC USA" ,B4U MUSIC USA
+https://airtel.rkdyiptv.workers.dev/live/501.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="B4U MUSIC UK" ,B4U MUSIC UK
+https://airtel.rkdyiptv.workers.dev/live/502.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="MTV PLUS 4K" ,MTV PLUS 4K
+https://airtel.rkdyiptv.workers.dev/live/1724.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="9X JALWA" ,9X JALWA
+https://airtel.rkdyiptv.workers.dev/live/505.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="9X MUSIC" ,9X MUSIC
+https://airtel.rkdyiptv.workers.dev/live/506.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="MUSIC INDIA" ,MUSIC INDIA
+https://airtel.rkdyiptv.workers.dev/live/1815.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="MASTIII" ,MASTIII
+https://airtel.rkdyiptv.workers.dev/live/509.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="SONY PAL" ,SONY PAL
+https://airtel.rkdyiptv.workers.dev/live/1824.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="EPIC CHANNEL 4K" ,EPIC CHANNEL 4K
+https://airtel.rkdyiptv.workers.dev/live/535.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="DISCOVERY 4K INDIA" ,DISCOVERY 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1726.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ANIMAL PLANET WORLD 4K INDIA" ,ANIMAL PLANET WORLD 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1728.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="HISTORY TV18 4K" ,HISTORY TV18 4K
+https://airtel.rkdyiptv.workers.dev/live/1729.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" ,SONY BBC EARTH 4K
+https://airtel.rkdyiptv.workers.dev/live/1730.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ID DISCOVERY 4K" ,ID DISCOVERY 4K
+https://airtel.rkdyiptv.workers.dev/live/1772.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="NAT GEO 4K INDIA" ,NAT GEO 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1731.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="NAT GEO WILD 4K INDIA" ,NAT GEO WILD 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1732.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="ANIMAL PLANET 4K INDIA" ,ANIMAL PLANET 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1733.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="TLC 4K INDIA" ,TLC 4K INDIA
+https://airtel.rkdyiptv.workers.dev/live/1735.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="DD BHARTI" ,DD BHARTI
+https://airtel.rkdyiptv.workers.dev/live/1773.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="DD INDIA" ,DD INDIA
+https://airtel.rkdyiptv.workers.dev/live/1774.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="DD URDU" ,DD URDU
+https://airtel.rkdyiptv.workers.dev/live/1775.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="DD KASHMIR" ,DD KASHMIR
+https://airtel.rkdyiptv.workers.dev/live/1776.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="INDTV USA" ,INDTV USA
+https://airtel.rkdyiptv.workers.dev/live/1909.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="YYZ TV HD" ,YYZ TV HD
+https://airtel.rkdyiptv.workers.dev/live/2403.m3u8
+2
