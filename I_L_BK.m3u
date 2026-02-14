@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 12/Feb/2026 (HOLA KARI)"
+#EXTM3U billed-msg="Actualizado 14w/Feb/2026 (HOLA KARI)"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -411,37 +411,6 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 group-title="SONY & ZEE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/colors-hd-in.png" ,COLORS HD
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 
-#EXTINF:-1 group-title="List 1" ,Star Sports 1 HD
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=1976
-#EXTINF:-1 group-title="List 1" ,Star Sports 2 HD
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=3691
-#EXTINF:-1 group-title="List 1" ,Star Sports 2 Hindi HD
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=3548
-#EXTINF:-1 group-title="List 1" ,Fox 501 HD
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
-#EXTINF:-1 group-title="List 1" ,Willow Sports
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2755
-#EXTINF:-1 group-title="List 1" ,Star Plus HD
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
-#EXTINF:-1 group-title="List 1" ,B4u Kadak
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1114
-#EXTINF:-1 group-title="List 1" ,R Bharat
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1119
-#EXTINF:-1 group-title="List 1" ,Star Movies Select HD
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1125
-#EXTINF:-1 group-title="List 1" ,Surrey News
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1136
-#EXTINF:-1 group-title="List 1" ,Wah Punjabi
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=1216
-#EXTINF:-1 group-title="List 1" ,Vision Beats
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8695
-#EXTINF:-1 group-title="List 1" ,Vision Punjab Music HD
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8699
-#EXTINF:-1 group-title="List 1" ,Vision Punjab HD
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8702
-#EXTINF:-1 group-title="List 1" ,Z TV Canada
-http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=8703
-#EXTINF:-1 group-title="List 1" ,Z Bollywood
 =================================================================== Ottera TV ================================================================================================
 #EXTINF:-1 group-title="Tango TV" ,Fast Mix
 https://mumt01.tangotv.in/FASTMIX/index.m3u8
