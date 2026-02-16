@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 14/Feb/2026 (HOLA KARI)"
+#EXTM3U billed-msg="Actualizado 16/Feb/2026 (HOLA KARI)"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1850,3 +1850,65 @@ http://103.229.254.25:7001/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="NEW SERVER ✔️", asiantvHD
 http://103.229.254.25:7001/play/a063/index.m3u8
 
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,***IND: DRAMA (4K ULTRA HD)***
+https://restream-bay.vercel.app/?id=109946&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="colorshd.in" ,COLORS (4K)
+https://restream-bay.vercel.app/?id=109947&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyhd.in" ,SONY SET (4K)
+https://restream-bay.vercel.app/?id=109948&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starplushd.in" ,STAR PLUS (4K)
+https://restream-bay.vercel.app/?id=109949&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,ZEE TV (4K)
+https://restream-bay.vercel.app/?id=109950&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starbharathd.in" ,STAR BHARAT (4K)
+https://restream-bay.vercel.app/?id=109951&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andtvhd.in" ,&TV (4K)
+https://restream-bay.vercel.app/?id=109952&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonysabhd.in" ,SONY SAB (4K)
+https://restream-bay.vercel.app/?id=109953&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,***IND: MOVIES (4K ULTRA HD)***
+https://restream-bay.vercel.app/?id=109954&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andpictureshd.in" ,&PICTURES (4K)
+https://restream-bay.vercel.app/?id=109955&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonymaxhd.in" ,SONY MAX (4K)
+https://restream-bay.vercel.app/?id=109957&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="zeecinemaindiahd.in" ,ZEE CINEMA (4K)
+https://restream-bay.vercel.app/?id=109958&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="stargoldhd.in" ,STAR GOLD (4K)
+https://restream-bay.vercel.app/?id=109959&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="stargoldselecthd.in" ,STAR GOLD SELECT (4K)
+https://restream-bay.vercel.app/?id=109960&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,MOVIES_ACTIVE (4K)
+https://restream-bay.vercel.app/?id=109961&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andflixhd.in" ,& FLIX (4K)
+https://restream-bay.vercel.app/?id=109962&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andprivehd.in" ,& PRIVE (4K)
+https://restream-bay.vercel.app/?id=109963&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,& XPLORER (4K)
+https://restream-bay.vercel.app/?id=109964&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,MN+ (4K)
+https://restream-bay.vercel.app/?id=109965&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonypixhd.in" ,SONY PIX (4K)
+https://restream-bay.vercel.app/?id=109966&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="moviesnowhd.in" ,MOVIES NOW (4K)
+https://restream-bay.vercel.app/?id=109968&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,STAR MOVIES (4K)
+https://restream-bay.vercel.app/?id=109970&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starworldhd.in" ,STAR WORLD (4K)
+https://restream-bay.vercel.app/?id=109971&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="discoveryhd.in" ,DISCOVERY (4K)
+https://restream-bay.vercel.app/?id=109974&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="animalplanethd.in" ,ANIMAL PLANET (4K)
+https://restream-bay.vercel.app/?id=109975&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,NAT GEO WILD (4K)
+https://restream-bay.vercel.app/?id=109976&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,NATIONAL GEO (4K)
+https://restream-bay.vercel.app/?id=109977&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,SONY BBC EAR (4K)
+https://restream-bay.vercel.app/?id=109978&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,FOX LIFE (4K)
+https://restream-bay.vercel.app/?id=109980&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,IN: COLORS CINEPLEX (4K)
+https://restream-bay.vercel.app/?id=206315&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="jalshamovieshd.in" ,IN: JALSHA MOVIES (4K)*
+https://restream-bay.vercel.app/?id=206320&e=.m3u8
