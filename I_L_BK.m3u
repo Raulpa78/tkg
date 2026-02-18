@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 16/Feb/2026 (HOLA KARI)"
+#EXTM3U billed-msg="Actualizado 18/Feb/2026 (HOLA KARI)"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1912,3 +1912,28 @@ https://restream-bay.vercel.app/?id=109980&e=.m3u8
 https://restream-bay.vercel.app/?id=206315&e=.m3u8
 #EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="jalshamovieshd.in" ,IN: JALSHA MOVIES (4K)*
 https://restream-bay.vercel.app/?id=206320&e=.m3u8
+
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Star Sports 1
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335228
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Star Sports 2
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335229
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Star Sports 3
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335230
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Eleven Sport Network Asia
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335231
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Star Sports 1 HD
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335232
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Star Sports 2 HD
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335233
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,Star Sports 3 HD
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335234
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,STAR SPORTS 1 HD VIP
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335422
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,STAR SPORTS 1 HINDI HD VIP
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335423
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,STAR SPORTS 2 HD VIP
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335424
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,STAR SPORTS SELECT 1 FHD VIP
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335425
+#EXTINF:-1 group-title="IN | STAR SPORTS" ,STAR SPORTS SELECT 2 FHD VIP
+http://hx1yd6.mix4kon.top:8080/MIX0644175837468973/7svj7g9r2h4s/1335426
